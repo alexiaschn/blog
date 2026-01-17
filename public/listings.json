@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/index_slides.html",
+    "items": [
+      "/slides/presentationCirce.html",
+      "/slides/25-11-03_pres_RAGAS.html",
+      "/slides/25-11-06_pres_midtermFinalProj.html",
+      "/slides/presentationProjetIEML.html",
+      "/slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html",
+      "/slides/25-12-04_presFinal.html"
+    ]
+  },
+  {
+    "listing": "/index_projects.html",
+    "items": [
+      "/projects/ieml-rs.html"
+    ]
+  }
+]
