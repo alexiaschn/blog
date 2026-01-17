@@ -1,6 +1,9 @@
 ---
 title: IA et sérendipité  - comparer différentes stratégies de recherche d'information exploratoire
-author: Alexia Schneider `alexia.schneider@umontreal.ca` (UdeM)
+author:
+    - name: Alexia Schneider 
+      orcid: 0009-0000-0651-9792
+      email: alexia.schneider@umontreal.ca
 date: 2025-10-15
 bibliography: ../phd_udem.bib
 link-citations: true

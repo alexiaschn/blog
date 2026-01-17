@@ -1,7 +1,13 @@
 ---
 title: Automatiser la révision textuelle ? 
 date: 2025-11-20
-author: Clara Grometto, Alexia Schneider
+author:
+    - name: Alexia Schneider 
+      orcid: 0009-0000-0651-9792
+      email: alexia.schneider@umontreal.ca
+    - name: Clara Grometto
+      orcid: 0009-0001-2687-342X
+      email: clara.grometto@umontreal.ca
 link-citations: true
 colorlinks: true
 fig-cap-location: top

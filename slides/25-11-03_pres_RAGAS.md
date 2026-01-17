@@ -2,8 +2,8 @@
 title: Evaluating RAG with RAGAS  
 date: 2025-11-03
 author: 
-    name: Alexia Schneider
-    email: alexia.schneider@umontreal.ca
+    - name: Alexia Schneider
+      email: alexia.schneider@umontreal.ca
 format:
     revealjs:
         output: 'pres_RAGAS.html'

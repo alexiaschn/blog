@@ -2,8 +2,8 @@
 title: Recommender System for Isidore based on IEML
 date: 2025-11-06
 author: 
-    name: Alexia Schneider
-    email: alexia.schneider@umontreal.ca
+    - name: Alexia Schneider
+      email: alexia.schneider@umontreal.ca
 format:
     revealjs:
         output: 'pres_midterm_rs.html'

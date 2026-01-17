@@ -1,5 +1,8 @@
 ---
-author: Alexia Schneider `alexia.schneider@umontreal.ca` (UdeM)
+author:
+    - name: Alexia Schneider 
+      orcid: 0009-0000-0651-9792
+      email: alexia.schneider@umontreal.ca
 date: 2025-11-19
 bibliography: ../phd_udem.bib
 link-citations: true

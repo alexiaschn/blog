@@ -1,6 +1,9 @@
 ---
 title: IEML-RS 
-author: Alexia Schneider
+author:
+    - name: Alexia Schneider 
+      orcid: 0009-0000-0651-9792
+      email: alexia.schneider@umontreal.ca
 date: 2025-12-04
 format:
     revealjs:

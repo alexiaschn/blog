@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider alexia.schneider@umontreal.ca (UdeM)\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider alexia.schneider@umontreal.ca (UdeM)\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nClara Grometto, Alexia Schneider\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -252,6 +252,13 @@
     "text": "Query augmentation prompt\nProduit 10 variants de la requête booléenne suivante \"${keywords}\". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  \"impact of climate change on biodiversity\". Réponse: \"\n(climate change biodiversity impact) OU (effects of climate change on ecosystems) OU (biodiversity loss due to climate change) OU (climate change species extinction) OU (impact of global warming on wildlife) OU (effects of climate change on ecosystems and species diversity) OU (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OU (relationship between climate change and loss of biodiversity) OU (climate change threats to flora and fauna diversity) OU (impact of climate change on biodiversity)\nC'est à ton tour avec \"${keywords}\". Répond uniquement avec la requête sans donner d'explication."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Site d’Alexia Schneider",
+    "section": "",
+    "text": "Alexia Schneider est doctorante en littérature option humanité numérique à l’Université de Montréal. Elle est membre étudiante du Centre de recherche interuniversitaire sur les humanités numériques (CRIHN) et responsable de projets intégrés au projet Revue3.0 pour la Chaire de recherche du Canada et les écritures numériques. Après des études initiales en littérature française (Université Paris-Sorbonne), elle s’est spécialisée dans le Traitement Automatique des Langues (Université de Strasbourg). Dans le cadre de son doctorat, elle s’intéresse à la recherche d’information en contexte documentaire et en particulier aux pratiques de recherche d’information des chercheureuses ainsi qu’à l’impact des différents modèles d’intelligence artificielle sur la découvrabilité des contenus scientifiques. Elle est récipiendaire d’une bourse doctorale du réseau québécois de recherche Circé.\n\nContact\nalexia.schneider[at]umontreal.ca"
+  },
+  {
     "objectID": "index_projects.html",
     "href": "index_projects.html",
     "title": "Projects",
@@ -259,11 +266,32 @@
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 1, 2025\n\n\nIEML-RS\n\n\n \n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Site d’Alexia Schneider",
-    "section": "",
-    "text": "Alexia Schneider est doctorante en littérature option humanité numérique à l’Université de Montréal. Elle est membre étudiante du Centre de recherche interuniversitaire sur les humanités numériques (CRIHN) et responsable de projets intégrés au projet Revue3.0 pour la Chaire de recherche du Canada et les écritures numériques. Après des études initiales en littérature française (Université Paris-Sorbonne), elle s’est spécialisée dans le Traitement Automatique des Langues (Université de Strasbourg). Dans le cadre de son doctorat, elle s’intéresse à la recherche d’information en contexte documentaire et en particulier aux pratiques de recherche d’information des chercheureuses ainsi qu’à l’impact des différents modèles d’intelligence artificielle sur la découvrabilité des contenus scientifiques. Elle est récipiendaire d’une bourse doctorale du réseau québécois de recherche Circé.\n\nContact\nalexia.schneider[at]umontreal.ca"
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
+    "title": "Éthique et IA",
+    "section": "concentration économique et politique",
+    "text": "concentration économique et politique\nProblème:\n\nmanipulation politique\ndestruction de la planète\nremplace des emplois ?\ntypologie des stratégies d’accumulation : verticale (google) open-source\n\nRépondre par:\nEncourager à sensibiliser à ces enjeux auprès de l’université\nProposer des alternatives open-sources: Linux, Llama\nShkolè et la force du dysfonctionnel.\nPour la perte d’emploi ?"
+  },
+  {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
+    "title": "Éthique et IA",
+    "section": "uniformisation",
+    "text": "uniformisation\n\ndes approches:\net des pratiques\n\nRépondre par:\n\nQuelles techniques non-IA éprouvées existent ? (tous ces exemples sont bcp trop techniques) = extraction de mots-clés: simple regex = recherche d’entités nommées: simple regex ! = recherche d’information: GUI avec filtres, = corrections orthotypographiques:\n\n-&gt; pluralité d’approches encourage à modéliser la réponse par ses propres moyens."
+  },
+  {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais",
+    "title": "Éthique et IA",
+    "section": "biais",
+    "text": "biais\n\ntout algo a des biais\nopacité\nrenforcement et invisibilisation des biais par un effet d’objectivité et d’autorité de la machine.\n\nRépondre: enseigner l’étude critique, l’analyse critique avec les méthodes d’analyse, valoriser le droit à l’erreur de la machine et de l’humain ? (idk spitballing)"
+  },
+  {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#tldr",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#tldr",
+    "title": "Éthique et IA",
+    "section": "tldr",
+    "text": "tldr\n-&gt; contrer le discours de la facilité et de l’intuitif, qui est un discours marketing par la valorisation de l’agentivité des étudiant.e.s et des enseignant.e.s."
   },
   {
     "objectID": "slides/presentationProjetIEML.html#expérimentation-du-langage-artificiel-ieml-pour-la-recherche-darticles-scientifiques",
