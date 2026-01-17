@@ -1,0 +1,555 @@
+[
+  {
+    "objectID": "index_slides.html",
+    "href": "index_slides.html",
+    "title": "Index des diapositives",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider alexia.schneider@umontreal.ca (UdeM)\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider alexia.schneider@umontreal.ca (UdeM)\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nClara Grometto, Alexia Schneider\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "alexia.schneider@umontreal.ca\ngithub, gitlab\nORCID"
+  },
+  {
+    "objectID": "cv.html#ateliers-de-sensibilisation-aux-enjeux-de-lia-en-shs",
+    "href": "cv.html#ateliers-de-sensibilisation-aux-enjeux-de-lia-en-shs",
+    "title": "Curriculum Vitae",
+    "section": "Ateliers de sensibilisation aux enjeux de l’IA en SHS",
+    "text": "Ateliers de sensibilisation aux enjeux de l’IA en SHS\nHiver 2026: Évaluation de systèmes d’automatisation complexes pour les revues savantes (information à venir). 6 ateliers de 1h destinés à un public de chercheur.se.s en SHS. Rôle: Coordination générale & présenation de deux ateliers\nAutomne 2025/Hiver 2026 (en cours): “Qu’est-ce qu’IA?” dans le cadre des ateliers ‘Debogue tes humanités’ (informations et supports). 4 ateliers de 2 heures destinés aux étudiant.e.s et chercheur.se.s à la BLSH visant à donner des clés de compréhension sur l’IA et ses enjeux actuels (historique de la discipline, révision textuelle, recherche d’information, études critiques de l’IA). Rôle: Présentation\nSchneider, A., & Vitali-Rosati, M. (2025, mai 8). Atelier IA et revues scientifiques—Explorer l’automatisation de la recherche d’évaluateur·ice·s [Atelier]. États généraux du réseau Circé, Montréal. https://reseaucirce.org/evenements/etats-generaux-des-revues-scientifiques-du-quebec/. Rôle : Présentatrice principale.\nHiver 2025: Atelier IA pour les revues scientifiques dans le cadre du projet de partenariat Revue3.0 (synthèse). 5 ateliers de 1 à 2 heures de mise en dialogue de chercheur.euse.s sur l’adoption réflechie d’outils d’IA dans l’édition. Rôle: Coordination"
+  },
+  {
+    "objectID": "cv.html#articles-de-blog",
+    "href": "cv.html#articles-de-blog",
+    "title": "Curriculum Vitae",
+    "section": "Articles de blog",
+    "text": "Articles de blog\nSchneider, A.(2025, décembre 18). IEML-RS: un prototype de Système de recommandation pour Isidore. Blog de Revue3.0. https://revue30.org/blog/numero/bap/article/presentation-de-ieml-rs/\nAudin, Y., Bouchard, W., Chaix, V., Ferretti, G., Grometto, C., Malek, H., Pamart, N., Saragusa, F., Schneider, A., Sokolov, J., & Vitali-Rosati, M. (2025, novembre 23). Le jeu des stéréotypes de genre : Mettre en place le premier jeu de l’imitation de Turing. Blog de Revue3.0. https://revue30.org/blog/numero/bap/article/copy-le-jeu-des-stereotypes-de-genre-mettre-en-place-le-premier-jeu-de-limitation-de-turing/1\nSchneider, A.(2025, mai 12). Exploration de l’automatisation dans la chaine éditoriale des revues [Blog]. Blog de Revue3.0. https://revue30.org/blog/numero/bap/article/exploration-de-l-automatisation-dans-la-chaine-editoriale-des-revues-recherche-d-evaluateur-ice-s/\nSchneider, A.(2025, avril 1). Progression du projet IEML pour le balisage d’articles en SHS [Blog]. Blog de Revue3.0. https://revue30.org/blog/numero/bap/article/projet-ieml-avril-2025/"
+  },
+  {
+    "objectID": "cv.html#footnotes",
+    "href": "cv.html#footnotes",
+    "title": "Curriculum Vitae",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nContributions à part égale.↩︎"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#plan",
+    "href": "slides/presentationCirce.html#plan",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Plan",
+    "text": "Plan\n\n\nContexte et présentation de l’outil (20min) \nDémonstration du système de recommandation (10min)"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#contexte",
+    "href": "slides/presentationCirce.html#contexte",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Contexte",
+    "text": "Contexte\nLes moteurs de recherche et bases de données scientifiques :\n\nproposent des articles « similaires » sans expliquer les critères de rapprochement.\ns’appuient sur :\n\nle nombre de citations (Matthew’s effect) (de Solla Price 1963; Merton 1968),\ndes algorithmes de classement favorisant les articles déjà populaires (ranking) et les auteurs les plus cités (Cardon 2013).\nles intéractions précédentes des utilisateur.ice.s. (Koster, Koch, and Kim 2014)\n\n\nPage d’exemple sur Isidore"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#problématique",
+    "href": "slides/presentationCirce.html#problématique",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Problématique",
+    "text": "Problématique\nCes logiques entraînent :\nUne concentration des citations et une perte de diversité scientifique.\nDes bulles de filtres (Pariser 2011) et un biais de confirmation dans la recherche (Underwood 2014)."
+  },
+  {
+    "objectID": "slides/presentationCirce.html#les-ai-research-assistant",
+    "href": "slides/presentationCirce.html#les-ai-research-assistant",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Les AI research assistant",
+    "text": "Les AI research assistant\nLes moteurs de recherche académiques développent des méthodes de RI basées sur l’IA :\n\nQuery augmentation\nsemantic search ou recherche vectorielle\n(re)ranking\n\nLes articles proposés par ces recommender systems (RS) peuvent varier en fonction de la stratégie sous-jacente : quid de la reproductibilité et de l’explicabilité (Tay 2025) ?"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#les-systèmes-de-recommandation-et-la-logique-déterministe",
+    "href": "slides/presentationCirce.html#les-systèmes-de-recommandation-et-la-logique-déterministe",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Les systèmes de recommandation et la logique déterministe",
+    "text": "Les systèmes de recommandation et la logique déterministe\nCertains systèmes de recommandation reflètent une modélisation sémantique distributionnelle :\n\nYou shall know a word by the company it keeps. — Firth (1962)\n\nvs. \n\nColorless green ideas sleep furiously — Chomsky (1957)\n\nDans le cadre d’une recherche d’information : faut-il chercher seulement ce qui est le plus probable ?\nConséquence : cristallistion d’un modèle sémantique induit d’une probabilité basée sur une fréquence d’occurrence dès la requête effectuée et plus seulement pour la recherche d’articles pertinents.\nLa manière de requêter un moteur de recherche va déterminer les informations auxquelles nous avons accès et sur lesquelles nous basons nos recherches."
+  },
+  {
+    "objectID": "slides/presentationCirce.html#découvrabilité",
+    "href": "slides/presentationCirce.html#découvrabilité",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Découvrabilité",
+    "text": "Découvrabilité\nL’innovation et la recherche dépendent fortement de notre capacité à effectuer de nouveaux liens sémantiques.\nDeux faces :\n\ntrouvabilité : accéder à l’information que l’on cherche (côté de l’indexation documentaire)\nsérendipité : accéder de manière fortuite à ce qu’on ne sait pas ne pas savoir (côté utilisateur)\n\nBeaucoup étudié dans le contexte du e-commerce et la diffusion de contenus culturels sinon par les sciences de l’information et de la documentation."
+  },
+  {
+    "objectID": "slides/presentationCirce.html#définition-de-la-sérendipité",
+    "href": "slides/presentationCirce.html#définition-de-la-sérendipité",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Définition de la sérendipité",
+    "text": "Définition de la sérendipité\n‘browsing’ est un processus a 4 dimensions (Rice, McCreadie, and Chang 2001) : 1. the act of scanning; 2. the presence or absence of purpose; 3. the specificity of search outcomes or goals; 4. and knowledge about the resource and object sought.\nLa sérendipité est le processus et le résultat de ce ‘chance encounter’.\n\nModélisation de la sérendipité (Makri and Blandford 2012)NB : dans ce modèle : dimension réflexive de la sérendipité par contraste avec le hasard."
+  },
+  {
+    "objectID": "slides/presentationCirce.html#place-de-la-sérendipité-dans-la-science",
+    "href": "slides/presentationCirce.html#place-de-la-sérendipité-dans-la-science",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Place de la sérendipité dans la science",
+    "text": "Place de la sérendipité dans la science\nLes approches exploratoires et sérendipitaires en recherche documentaire :\n\nexploitent la profusion pour générer des connexions inattendues (Bates 1989; Sandra Erdelez 1999)\nfavorisent le décloisonement disciplinaire (Dumas Primbault 2023)."
+  },
+  {
+    "objectID": "slides/presentationCirce.html#la-sérendipité-et-le-numérique",
+    "href": "slides/presentationCirce.html#la-sérendipité-et-le-numérique",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "La sérendipité et le numérique",
+    "text": "La sérendipité et le numérique\nL’exploration au coeur de l’expérience du numérique connecté :\n\nla force politique d’Internet (1969-2009) réside dans la prééminence donnée à une catégorie particulière d’activité : l’exploration. Internet s’est fondamentalement constitué sur le réaménagement de l’action autour de l’exploration : il a donné la prééminence à l’expérimentation sur l’intériorisation, aux tâtonnements incertains sur les apprentissages formels, au jeu et au défi sur l’examen scolaire. Il a structuré des communautés sceptiques, ouvertes et curieuses. — (Auray 2011)\n\nvs. l’émergence de logiques algorithmiques limitantes :\n\nWhile it was felt that some element of control could be exercised to attract “chance encounters”, there was a perception that such encounters may really be manifestations of the hidden, but logical, influences of information gatekeepers – inherent in, for example, library classification schemes — (Foster and Ford 2003)"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#défis-de-la-sérendipité",
+    "href": "slides/presentationCirce.html#défis-de-la-sérendipité",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Défis de la sérendipité",
+    "text": "Défis de la sérendipité\nReproductibilité : comment garder trace d’un parcours exploratoire? On garde en mémoire un nombre limité d’étapes qui mènent à une résolution (Sanda Erdelez 2004).\nÉvaluation : comment évaluer l’impact d’une trouvaille ? Et l’intérêt d’une nouvelle fonctionnalité de recherche (Pouyllau 2023, 2025) ?\nDesign : comment expliciter la différence entre une recherche par mots-clés simple et une recherche assistée par une stratégie d’IA pour un.e utilisateur.ice sans connaissance particulière de ces enjeux ?"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#questions-de-recherche",
+    "href": "slides/presentationCirce.html#questions-de-recherche",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Questions de recherche",
+    "text": "Questions de recherche\nComment concevoir un système de recommandation explicable qui :\nFavorise la sérendipité et l’exploration critique ?\nCompare IA symbolique et IA connexionniste ?\nPermette une visualisation réflexive du raisonnement algorithmique ?"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#un-rs-hybride",
+    "href": "slides/presentationCirce.html#un-rs-hybride",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Un RS hybride",
+    "text": "Un RS hybride\nUn RS qui vient s’ajouter aux moteurs de recherche de publications scientifiques et proposer une exploration de la littérature scientifique de façon explicable et non-déterministe, en comparant les recommandations basées sur :\n\ndes ontologies symboliques (IEML)\ndes modèles connexionnistes (LLM)"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#cadre-théorique",
+    "href": "slides/presentationCirce.html#cadre-théorique",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Cadre théorique",
+    "text": "Cadre théorique\nPositionnement :\n\nla sérendipité comme alternative épistémique et reprise d’une vision du web désengagé des discours de productivité\nà contre-courant des modèles dominants de pertinence et de ranking, de mise en avant des contenus, mais aussi des outils techniques d’où l’utilisation d’un langage hérité du Web Sémantique : IEML (Lévy 2010)\nproposer un outil pour une litéracie du numérique et particulièrement une littératie critique de l’IA (Goodlad 2023; Vitali-Rosati 2025) en se concentrant sur l’explicitation des stratégies de recherche d’information (Julien and Barker 2009)."
+  },
+  {
+    "objectID": "slides/presentationCirce.html#ieml-comme-base-ontologique",
+    "href": "slides/presentationCirce.html#ieml-comme-base-ontologique",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "IEML comme base ontologique",
+    "text": "IEML comme base ontologique\nLangage sémantique inventé par Pierre Lévy (Lévy 2010) :\nVocabulaire contrôlé et non ambigu\nChaque concept est décomposé selon 9 rôles sémantiques : thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment\nInteropérable et explicable qui permet une navigation non-linéaire dans les concepts"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#méthodes-dimplémentation",
+    "href": "slides/presentationCirce.html#méthodes-dimplémentation",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Méthodes d’implémentation",
+    "text": "Méthodes d’implémentation\nParsing sémantique : via LLM + dictionnaire IEML (RAG)\nRecherche sémantique : embeddings pour la similarité\nInterface : JavaScript / HTML / API Isidore\nTests : intégration Firefox puis Chrome"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#travaux-connexes",
+    "href": "slides/presentationCirce.html#travaux-connexes",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Travaux connexes",
+    "text": "Travaux connexes\nRS exploratoires :\n\nBridger (Portenoy et al. 2022) relie des communautés scientifiques éloignées,\nSTAK (Martin, Greenspan, and Quan-Haase 2017), reconstitution des étagères de bibliothèque en VR\n\nParsing sémantique : - échec des LLM à produire des AMR valides (Ettinger et al. 2023) - pas d’application d’IEML\nRecherche sémantique par embeddings : - VITALITY (Narechania et al. 2022) - Microsoft Academic Knowledge project (Färber 2019)"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#schéma-du-fonctionnement",
+    "href": "slides/presentationCirce.html#schéma-du-fonctionnement",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Schéma du fonctionnement",
+    "text": "Schéma du fonctionnement\n\n\n\nProcessus de recommandation hybride\n\n\nBleu = IEML\nOrange = LLM\nVert = Actions utilisateur\n→ L’utilisateur explore, sélectionne, et compare les résultats des deux approches\n\n\n\nVisualisation côte-à-côte des suggestions via les logs IEML et le ‘semantic search’ du LLM"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#défis-et-perspectives",
+    "href": "slides/presentationCirce.html#défis-et-perspectives",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Défis et perspectives",
+    "text": "Défis et perspectives\n\nTraduction IEML:\n\n\nAvantage : flexibilité dans la définition, pas de “gold standard” : évaluation possible par des métriques sans référence (perplexité, distance cosinus)\nRAG sur le dictionnaire de ~3000 entrées IEML\nÉvaluation humaine (Pierre Lévy)\n\n\nInteraction avec les plateformes : API Isidore accessible, Google Scholar non garantie\nConception UX/UI :\n\n\n“interface intuitive” vs. logique intempestive\nÉquilibre entre documentation et liberté\n\n\nIntérêt fondamental :\n\n\nÉvaluation utilisateur : entretiens « think aloud » pour mesurer la valeur pédagogique\nComment observer si l’outil déclenche de nouvelles associations sémantiques ?"
+  },
+  {
+    "objectID": "slides/presentationCirce.html#bibliographie",
+    "href": "slides/presentationCirce.html#bibliographie",
+    "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\n\nAuray, N. 2011. “Les technologies de l’information et le régime exploratoire.”\n\n\nBates, Marcia J. 1989. “The Design of Browsing and Berrypicking Techniques for the Online Search Interface.” Online Review 13 (5): 407–24. https://doi.org/10.1108/eb024320.\n\n\nCardon, Dominique. 2013. “Dans l’esprit Du PageRank: Une Enquête Sur l’algorithme de Google.” Réseaux n\\(^\\circ\\) 177 (1): 63–95. https://doi.org/10.3917/res.177.0063.\n\n\nChomsky, Noam. 1957. Syntactic Structures.\n\n\nde Solla Price, Derek John. 1963. Little Science, Big Science. George B 1962. New York: Columbia University Press.\n\n\nDumas Primbault, Simon. 2023. “Naviguer dans les savoirs à l’ère numérique. Pour une ethnographie des pratiques informationnelles sur Gallica.” Études de communication. langages, information, médiations, no. 61 (December): 61–89. https://doi.org/10.4000/edc.16108.\n\n\nErdelez, Sanda. 2004. “Investigation of Information Encountering in the Controlled Research Environment.” Information Processing & Management 40 (6): 1013–25. https://doi.org/10.1016/j.ipm.2004.02.002.\n\n\nErdelez, Sandra. 1999. “Information Encountering: It’s More Than Just Bumping into Information.” Bulletin of the American Society for Information Science and Technology 25 (3): 26–29. https://doi.org/10.1002/bult.118.\n\n\nEttinger, Allyson, Jena D. Hwang, Valentina Pyatkin, Chandra Bhagavatula, and Yejin Choi. 2023. “\"You Are An Expert Linguistic Annotator\": Limits of LLMs as Analyzers of Abstract Meaning Representation.” In. arXiv. https://doi.org/10.48550/ARXIV.2310.17793.\n\n\nFärber, Michael. 2019. “The Microsoft Academic Knowledge Graph: A Linked Data Source with 8 Billion Triples of Scholarly Data.” In The Semantic Web – ISWC 2019, edited by Chiara Ghidini, Olaf Hartig, Maria Maleshkova, Vojtěch Svátek, Isabel Cruz, Aidan Hogan, Jie Song, Maxime Lefrançois, and Fabien Gandon, 113–29. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-30796-7_8.\n\n\nFirth, John Rupert. 1962. Studies in Linguistic Analysis. Repr. Special Volume of the Philological Society. Oxford: Blackwell.\n\n\nFoster, Allen, and Nigel Ford. 2003. “Serendipity and Information Seeking: An Empirical Study.” Journal of Documentation 59 (3): 321–40. https://doi.org/10.1108/00220410310472518.\n\n\nGoodlad, Lauren M. E. 2023. “Editor’s Introduction: Humanities in the Loop.” Critical AI 1 (1-2). https://doi.org/10.1215/2834703X-10734016.\n\n\nJulien, Heidi, and Susan Barker. 2009. “How High-School Students Find and Evaluate Scientific Information: A Basis for Information Literacy Skills Development.” Library & Information Science Research 31 (1): 12–17. https://doi.org/10.1016/j.lisr.2008.10.008.\n\n\nKoster, Andrew, Fernando Koch, and Yeun Bae Kim. 2014. “Serendipitous Recommendation Based on Big Context.” In Advances in Artificial Intelligence – IBERAMIA 2014, edited by Ana L. C. Bazzan and Karim Pichara, 319–30. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-12027-0_26.\n\n\nLévy, Pierre. 2010. “From Social Computing to Reflexive Collective Intelligence: The IEML Research Program.” Information Sciences 180 (1): 71–94. https://doi.org/10.1016/j.ins.2009.08.001.\n\n\nMakri, Stephann, and Ann Blandford. 2012. “Coming Across Information Serendipitously – Part 1: A Process Model.” Journal of Documentation 68 (5): 684–705. https://doi.org/10.1108/00220411211256030.\n\n\nMartin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. “STAK – Serendipitous Tool for Augmenting Knowledge: A Conceptual Tool for Bridging Digital and Physical Resources.” Digital Studies / Le Champ Numérique 6 (1). https://doi.org/10.16995/dscn.265.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nNarechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. “VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 486–96. https://doi.org/10.1109/TVCG.2021.3114820.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nPortenoy, Jason, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, and Tom Hope. 2022. “Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery.” CHI Conference on Human Factors in Computing Systems, April, 1–13. https://doi.org/10.1145/3491102.3501905.\n\n\nPouyllau, Stéphane. 2023. “Utiliser isidore.science : un regard sur les usages d’un moteur de recherche académique.” {Keynote}.\n\n\n———. 2025. “&lt;&lt; Durabilité et refactorisation des instruments de la recherche en SHS : le cas d’isidore.science et le projet ISIDORE 2030 &gt;&gt;.” Montréal.\n\n\nRice, Ronald E., Maureen McCreadie, and Shan-Ju Chang. 2001. “Results: Motivating Themes and Patterns of Browsing.” In Accessing and Browsing Information and Communication. The MIT Press. https://doi.org/10.7551/mitpress/1066.001.0001.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64.\n\n\nVitali-Rosati, Marcello. 2025. “Manifeste Pour Des Études Critiques de l’Intelligence Artificielle.” Culture Numérique. Pour Une Philosophie Du Numérique."
+  },
+  {
+    "objectID": "slides/25-11-06_pres_midtermFinalProj.html#context",
+    "href": "slides/25-11-06_pres_midtermFinalProj.html#context",
+    "title": "Recommender System for Isidore based on IEML",
+    "section": "Context",
+    "text": "Context\n\nSearch engines for scientific literature.\nRecommender Systems (RS) based on :\n\nannotated keywords\nprevious user searches and articles read -&gt; filter bubbles (Pariser 2011; Underwood 2014)\ncitation count -&gt; citation concentration issue (Cardon 2013; Nielsen and Andersen 2021)\nsometimes opaque ‘IA assistant’ (Tay 2025)"
+  },
+  {
+    "objectID": "slides/25-11-06_pres_midtermFinalProj.html#questions-addressed-and-solution-proposed",
+    "href": "slides/25-11-06_pres_midtermFinalProj.html#questions-addressed-and-solution-proposed",
+    "title": "Recommender System for Isidore based on IEML",
+    "section": "Questions addressed and Solution proposed",
+    "text": "Questions addressed and Solution proposed\n\nWhat kind of RS could overcome these limits?\n\nsere ndipity (finding what you didn’t know you didn’t know)\nusing controlled vocabulary (Semantic Web langages)\n\nHow to increase literacy in RS AI agents?\n\nside by side comparison of search strategies"
+  },
+  {
+    "objectID": "slides/25-11-06_pres_midtermFinalProj.html#demo",
+    "href": "slides/25-11-06_pres_midtermFinalProj.html#demo",
+    "title": "Recommender System for Isidore based on IEML",
+    "section": "Demo",
+    "text": "Demo\nExample page"
+  },
+  {
+    "objectID": "slides/25-11-06_pres_midtermFinalProj.html#references",
+    "href": "slides/25-11-06_pres_midtermFinalProj.html#references",
+    "title": "Recommender System for Isidore based on IEML",
+    "section": "References",
+    "text": "References\n\n\n\n\nCardon, Dominique. 2013. “Dans l’esprit Du PageRank: Une Enquête Sur l’algorithme de Google.” Réseaux n\\(^\\circ\\) 177 (1): 63–95. https://doi.org/10.3917/res.177.0063.\n\n\nNielsen, Mathias Wullum, and Jens Peter Andersen. 2021. “Global Citation Inequality Is on the Rise.” Proceedings of the National Academy of Sciences 118 (7): e2012208118. https://doi.org/10.1073/pnas.2012208118.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64."
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#examples-of-expected-translation",
+    "href": "slides/25-12-04_presFinal.html#examples-of-expected-translation",
+    "title": "IEML-RS",
+    "section": "Examples of expected translation",
+    "text": "Examples of expected translation\n\nIEML grid for “éditorialisation”Note: Translation can only use the IEML dictionnary containing (~3,000 entries)."
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#retrieval",
+    "href": "slides/25-12-04_presFinal.html#retrieval",
+    "title": "IEML-RS",
+    "section": "Retrieval",
+    "text": "Retrieval\nDataset: 50 words translated with 70 dictionnary entries.\nEvaluation: 1 point for each word in ground truth retrieved.\n\n\n\nstrategy\nscore\n\n\n\n\nTF-iDF\n15\n\n\nCosine similarity\n25\n\n\nHybrid (TF-iDF + Embeddings)\n23"
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#rag-pipeline",
+    "href": "slides/25-12-04_presFinal.html#rag-pipeline",
+    "title": "IEML-RS",
+    "section": "RAG pipeline",
+    "text": "RAG pipeline\nDataset:\nfull: 410 words translated\n\ntrain (examples for fewshot): 50 words\ntest (evaluation): 360 words\n\nModels:\n\nMeta-Llama-3-70B-Instruct-Turbo\nGemma-3n-E4B-it,\nGPT-oss-20B"
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#rag-evaluation",
+    "href": "slides/25-12-04_presFinal.html#rag-evaluation",
+    "title": "IEML-RS",
+    "section": "RAG evaluation",
+    "text": "RAG evaluation\nReminder of the expected translation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nword to translate\ntheme or root\nwho\nwhat\nto whom\nby what means\nwhen\nwhere\nwhy\nhow\n\n\n\n\nespace numérique\ntechnique numérique\n-\nespace\n-\n-\n-\n-\n-\n-\n\n\nchanteur\njouer ou chanter une mélodie\npersonne\n-\n-\n*par le moyen de voix\n-\n-\n-"
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#user-study",
+    "href": "slides/25-12-04_presFinal.html#user-study",
+    "title": "IEML-RS",
+    "section": "User Study",
+    "text": "User Study\n6 users (PhD students in DH). Demonstration then 10 min of observation then 15 min interview.\n\nuser-friendliness,\nusefulness,\nkeyword navigation,\ntranslation into IEML,\narticle search and panel comparison."
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#user-study-results-limits-and-perspectives",
+    "href": "slides/25-12-04_presFinal.html#user-study-results-limits-and-perspectives",
+    "title": "IEML-RS",
+    "section": "User study results: limits and perspectives",
+    "text": "User study results: limits and perspectives\n\nuser-friendliness :\n\nconfusion about the integration of the concepts into the query\nautomatic translation & validation: initial hurdle (limited database)\ndirect integration to host search engine: main improvements (latency, more detailed info on the article, distinction between ‘query building’ and ‘article search’ functions)\n\nusefulness:\n\nreveals strong disparities in user research practices (etwork and contextual IR vs. keyword search)\nstrength: comparative panels,\ntranslation of mixed quality encourages user-agency and dialogical and collaborative work with LLMs"
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#translation-prompt",
+    "href": "slides/25-12-04_presFinal.html#translation-prompt",
+    "title": "IEML-RS",
+    "section": "Translation prompt",
+    "text": "Translation prompt\nTu es un expert en sémantique. Tu dois décomposer sémantiquement le mot-clé \"${keyword}\" à partir des 9 valeurs suivantes :\n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\n## Exemples\n${examples}\n\n## Mots du dictionnaire \nTu dois utiliser les mots ci-dessous pour définir le mot-clé \"${keyword}\":\n${context}\n\nTa réponse prendra la forme d'un CSV à 9 colonnes, les entêtes de colonnes sont: \n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\nIl n'est pas nécessaire de remplir tous les champs. Un champs peut rester vide entre deux virgules, comme dans les exemples. \nRépond uniquement avec une ligne CSV finale, sans explication."
+  },
+  {
+    "objectID": "slides/25-12-04_presFinal.html#query-augmentation-prompt",
+    "href": "slides/25-12-04_presFinal.html#query-augmentation-prompt",
+    "title": "IEML-RS",
+    "section": "Query augmentation prompt",
+    "text": "Query augmentation prompt\nProduit 10 variants de la requête booléenne suivante \"${keywords}\". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  \"impact of climate change on biodiversity\". Réponse: \"\n(climate change biodiversity impact) OU (effects of climate change on ecosystems) OU (biodiversity loss due to climate change) OU (climate change species extinction) OU (impact of global warming on wildlife) OU (effects of climate change on ecosystems and species diversity) OU (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OU (relationship between climate change and loss of biodiversity) OU (climate change threats to flora and fauna diversity) OU (impact of climate change on biodiversity)\nC'est à ton tour avec \"${keywords}\". Répond uniquement avec la requête sans donner d'explication."
+  },
+  {
+    "objectID": "index_projects.html",
+    "href": "index_projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 1, 2025\n\n\nIEML-RS\n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Site d’Alexia Schneider",
+    "section": "",
+    "text": "Alexia Schneider est doctorante en littérature option humanité numérique à l’Université de Montréal. Elle est membre étudiante du Centre de recherche interuniversitaire sur les humanités numériques (CRIHN) et responsable de projets intégrés au projet Revue3.0 pour la Chaire de recherche du Canada et les écritures numériques. Après des études initiales en littérature française (Université Paris-Sorbonne), elle s’est spécialisée dans le Traitement Automatique des Langues (Université de Strasbourg). Dans le cadre de son doctorat, elle s’intéresse à la recherche d’information en contexte documentaire et en particulier aux pratiques de recherche d’information des chercheureuses ainsi qu’à l’impact des différents modèles d’intelligence artificielle sur la découvrabilité des contenus scientifiques. Elle est récipiendaire d’une bourse doctorale du réseau québécois de recherche Circé.\n\nContact\nalexia.schneider[at]umontreal.ca"
+  },
+  {
+    "objectID": "slides/presentationProjetIEML.html#expérimentation-du-langage-artificiel-ieml-pour-la-recherche-darticles-scientifiques",
+    "href": "slides/presentationProjetIEML.html#expérimentation-du-langage-artificiel-ieml-pour-la-recherche-darticles-scientifiques",
+    "title": "Alexia Schneider",
+    "section": "Expérimentation du langage artificiel IEML pour la recherche d’articles scientifiques",
+    "text": "Expérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\nStatut: en cours\nResponsables: Alexia Schneider, Pierre Lévy"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#some-limitations-of-llms",
+    "href": "slides/25-11-03_pres_RAGAS.html#some-limitations-of-llms",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Some limitations of LLMs",
+    "text": "Some limitations of LLMs\nGeneral limitations:\n\nexplainability and transparency of output : black-box effect.\nstochastic : not reliable answers\ndeciphering the user intention (the query)\ntraining on specific task requires a lot of annotated data\n\nSpecific problems:\n\nmemory problem : implicit knowledge base that cannot easily be expanded or revised,\nlimited context window (if some companies boast 120k-input-token-window models, their performance still lags beyond 30k tokens (Shankar and Husain 2025))."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#rag",
+    "href": "slides/25-11-03_pres_RAGAS.html#rag",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "RAG",
+    "text": "RAG\nKey point: Retrieval Augmentated Generation is an architecture for AI-integrated systems. It relies on an external knowledge base to improve on the overall quality of a generative LLM’s output.\n\na foundational architecture in modern LLM systems” —(Shankar and Husain 2025)\n\n\n\n\nDescription of the RAG architecture from Weaviate (2025)\n\n\n\n\n\nBasic schema of a RAG system, an architecture or pipeline for LLM-integrated systems"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#the-original-rag-paper",
+    "href": "slides/25-11-03_pres_RAGAS.html#the-original-rag-paper",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "The original RAG paper",
+    "text": "The original RAG paper\nOriginal paper by Lewis et al. (2021)\nAuthors from:\n\nFacebook AI Research\nUniversity College London\nNew York University\n\nNB: Before the launch of ChatGPT (GPT-3.5 in nov. 2022). They use BART and GPT-2.\nKey elements :\n\nparametric memory = the model: pre-trained seq2seq (early Transformers architecture).\nnon-parametric memory = external knowledge base: dense vector index of Wikipedia\nIR strategy = encoder-decoder: pre-trained neural retriever. No supervision of the document that should be retrieved.\n\n\nComments:\n\nRetrieval ablation shows that although a learned retrieval improves results on all tasks, the fack-checking (against Wikipedia) dataset FEVER performs best with a BM25 (improved TF-iDF)."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#what-limitations-of-foundational-llms-can-rag-solve-1",
+    "href": "slides/25-11-03_pres_RAGAS.html#what-limitations-of-foundational-llms-can-rag-solve-1",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "What limitations of foundational LLMs can RAG solve ?",
+    "text": "What limitations of foundational LLMs can RAG solve ?\n\nReliability and transparency (for the dev): providing a specialized and human verified external knowledge source ensures that the model will output based on those elements rather than it’s implicit knowledge base.\nBetter reproducibility: traceable sources and choice of IR strategy.\nPreservation of the general-purpose and adaptability of foundational LLMs: doesn’t require special training or fine-tuning on a specific task."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#what-can-be-some-limits-of-rag-1",
+    "href": "slides/25-11-03_pres_RAGAS.html#what-can-be-some-limits-of-rag-1",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "What can be some limits of RAG ?",
+    "text": "What can be some limits of RAG ?\nHigher level problems:\n\nDataset biais: External knowledge base = dataset with its bias and limitations too.\nCost: Adding to regular prompt engineering: encoding the external knowledge base, DBB storage, eval and maintenance of a complex system, longer prompts containing extra info.\nLatency: pipeline = increased response time.\nComplexity: Many parameters = complex evaluation and optimization: IR strategy (TF-iDF/BM25 or semantic search with vector proximity, neural retrievers), chunk size, number of chunks provided and ranking algorithm (top-k).\n\nInternal problems:\n\nInformation dissemination: what if the chunks needed end up being too big or numerous for the LLM to be competent?\n‘Blind spot’ effect: if the key information is in a chunk not retrieved, then that part is lost to the user.\n\n\n\n\nEvaluation : each step of the pipeline can cause failures"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#evaluating-rag-when-and-where",
+    "href": "slides/25-11-03_pres_RAGAS.html#evaluating-rag-when-and-where",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Evaluating RAG: when and where",
+    "text": "Evaluating RAG: when and where\n\n\n\n\nCheckpoints for evaluation: A. Chunk size and type. B. Retrieval strategy. C. Reranker algorithm. D. Final output considering the entire flow."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#shankarapplicationcentricaievals2025-recommendations-for-rag-evaluation",
+    "href": "slides/25-11-03_pres_RAGAS.html#shankarapplicationcentricaievals2025-recommendations-for-rag-evaluation",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Shankar and Husain (2025) recommendations for RAG Evaluation",
+    "text": "Shankar and Husain (2025) recommendations for RAG Evaluation\nGeneral recommendations for evaluation:\n\nIdentify where the pipeline weakens (or where it breaks)\nEvaluate at each step\nForm an evaluation dataset of expected queries, retrieved context and gold-standard answers"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#reference-based-evaluation-pros-and-cons",
+    "href": "slides/25-11-03_pres_RAGAS.html#reference-based-evaluation-pros-and-cons",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Reference-based evaluation pros and cons",
+    "text": "Reference-based evaluation pros and cons\n\n\n\n\n\n\n\npros\ncons\n\n\n\n\ncontrol of output from expected user behaviour\nuser query might not fit expected queries ( e.g. edge cases and jailbreak attempts)\n\n\nfixed dataset means that different prompting strategies can be assessed over time\nannotation is time consuming"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#what-are-some-tasks-where-a-reference-answer-might-not-be-available",
+    "href": "slides/25-11-03_pres_RAGAS.html#what-are-some-tasks-where-a-reference-answer-might-not-be-available",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "What are some tasks where a reference answer might not be available ?",
+    "text": "What are some tasks where a reference answer might not be available ?\n\nOpen-ended queries\nSummarization\nInterpretative tasks\nChanging context"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#article",
+    "href": "slides/25-11-03_pres_RAGAS.html#article",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Article",
+    "text": "Article\n\n\nSubmitted on 26 Sep 2023 (v1), last revised 28 Apr 2025 (this version, v2) on arXiv."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#authors",
+    "href": "slides/25-11-03_pres_RAGAS.html#authors",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Authors",
+    "text": "Authors\n\n\n\n\nEs et al. (2025)\n\n\n\n\nExploding Gradients : private company that built RAGAS (open-source oriented)\nCardiffNLP : Schockaert: worked on EvoPrompt.\nAMPLYFI: private company for market insights"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#ragas-in-a-nutshell",
+    "href": "slides/25-11-03_pres_RAGAS.html#ragas-in-a-nutshell",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "RAGAS in a nutshell",
+    "text": "RAGAS in a nutshell\nKey element: Reference-free (not tied to having ground truth available) evaluation framework for retrieval agumented generation\nEssentially: a series of prompts to decompose the evaluation for specific aspects of the RAG (faithfulness, answer relevance, context relevance).\nIntegration: llama-index and Langchain.\nAvailable: https://github.com/explodinggradients/ragas\nRatings: 11.1k stars on GitHub"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#ragas-in-a-nutshell-1",
+    "href": "slides/25-11-03_pres_RAGAS.html#ragas-in-a-nutshell-1",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "RAGAS in a nutshell",
+    "text": "RAGAS in a nutshell\n\nRAGAS suggests an evaluation at the final step (D)"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#evaluation-of-the-final-output",
+    "href": "slides/25-11-03_pres_RAGAS.html#evaluation-of-the-final-output",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Evaluation of the final output",
+    "text": "Evaluation of the final output\n\nFaithfulness: The answer should be grounded in provided context.\n\nhallucinations\nomissions\nmisinterpretation\n\n\nAnswer Relevance: The generated answer should address the actual question.\nContext Relevance: Retrieved context should be focused, containing as little irrelevant information as possible."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#faithfulness-eval-with-ragas",
+    "href": "slides/25-11-03_pres_RAGAS.html#faithfulness-eval-with-ragas",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Faithfulness eval with RAGAS",
+    "text": "Faithfulness eval with RAGAS\nThe answer should be grounded in provided context\n\nExample: You have designed a RAG system to help you with your courses notes. You want to make sure that the IA-system answers based on the content of the course as it is very advanced knowledge and not from unreliable sources (the web).\n\nStrategy:\n\nCreate statements from the output given a user query.\n\nPrompt:\n\nGiven a question and answer, create one or more statements from each sentence in the given  answer. \\n question: [question] answer: [answer]\n\n\nQuestion = query = “Can you summarize last week’s course?”\nAnswer = output =\n“Here’s a concise summary of your Week 8 – AI Agent Architecture course content:\n\nAgents are autonomous systems that:\n\nInteract not only with users but also with each other and their environment.\nGo beyond simple LLM + tool use (sometimes called a “single agent”).”\n\n\nStatements created for evaluation =\n\n“The course discussed in Week 8 is titled”AI Agent Architecture.”\n“The week focused on the structure, interaction, and evolution of AI agents.”\n“Agents are autonomous systems.”\n“Agents interact with users, other agents, and their environment.”\n\n\n\nLLM-as-judge to evaluate the statement against the retrieved context.\n\nPrompt:\n\nConsider the given context and following statements, then determine whether they are supported by the information present in the context. Provide a brief explanation for each statement before arriving at the verdict (Yes/No). Provide a final verdict for each statement in order at the end in the given format. Do not deviate from the specified format. statement: [statement 1] ...  statement: [statement n]\n\n\nContext: course.md week1, week8, week n, syllabus.xslx chunk 1, chunk n.\nStatement to assess : “The course discussed in Week 8 is titled”AI Agent Architecture.”\nEvaluation output : “Chunk 1 of the Syllabus provided does mention that the topic of Week 8 is AI Agent Architecture. Verdict : Yes”\n\nMetric : supported statements/total number of statements"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#answer-relevance",
+    "href": "slides/25-11-03_pres_RAGAS.html#answer-relevance",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Answer Relevance",
+    "text": "Answer Relevance\nThe generated answer should address the actual question.\nStrategy: Retro-engineering what the question could have been from the answer.\nGenerate a question for the given answer. answer: [answer]\n\nFrom the output summary:\nPossible Question: “What are the key concepts, models, and research papers covered in Week 8 – AI Agent Architecture, and how do they illustrate the evolution from single LLM-based systems to multi-agent ecosystems?”\nTo be compared with the actual query: “Can you summarize last week’s course?”\n\nMetric : Cosine similarity between the actual question and the generated answer."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#context-relevance",
+    "href": "slides/25-11-03_pres_RAGAS.html#context-relevance",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Context Relevance",
+    "text": "Context Relevance\nRetrieved context should be focused, containing as little irrelevant information as possible. \nStrategy: Extracting sentences from the context that have could have been used to give the answer.\nPrompt:\n\nPlease extract relevant sentences from the provided context that can potentially help answer the following question. If no relevant sentences are found, or if you believe the question cannot be answered from the given context, return the phrase \"Insufficient Information\". While extracting candidate sentences you’re not allowed to make any changes to sentences from given context.\n\nHelps analyse the granularity of the chunks provided and noise in the top-k (tells you whether there is anything relevant or not in the context).\nMetric : number of extracted sentences/total number of sentences"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#evaluation-dataset",
+    "href": "slides/25-11-03_pres_RAGAS.html#evaluation-dataset",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Evaluation Dataset",
+    "text": "Evaluation Dataset\nWikiEval Dataset : created for the purpose of RAGAS.\nQuestion/Answers created from 50 wiki pages (after 2022 to avoid reliance on implicit knowledge).\n\nCreation of the Question\n\nPrompt:\n\nYour task is to formulate a question from given context satisfying the rules given below: 1. The question should be fully answered from the given context. 2. The question should be framed from a part that contains non-trivial information. 3. The answer should not contain any links. 4. The question should be of moderate difficulty. 5. The question must be reasonable and must be understood and responded to by humans. 6. Do not use phrases that ’provided context’, etc in the question context:\n\n\nGeneration of the Answer\n\nPrompt:\n\nAnswer the question using the information from the given context. question: [question] context: [context]\n\n\nAnnotation by 2 humans with interannotation agreement reaching 95% (faithfulness and context relevance) and 90% (answer relevance)."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#evaluation-of-the-evaluation-method-1",
+    "href": "slides/25-11-03_pres_RAGAS.html#evaluation-of-the-evaluation-method-1",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Evaluation of the evaluation method",
+    "text": "Evaluation of the evaluation method\nTheir evaluation relies on the agreement of the method with a human annotator based on pairwise comparisons != absolute scores.\n\n\n\n\n\n\n\n\n\nquestion\nanswer A\nanswer B\ncontext\n\n\n\n\nWhen is the scheduled launch date and time for the PSLV-C56 mission, and where will it be launched from?\nThe PSLV-C56 mission is scheduled to be launched on Sunday, 30 July 2023 at 06:30 IST / 01:00 UTC. It will be launched from the Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh, India.\nThe scheduled launch date and time for the PSLV-C56 mission have not been provided.The PSLV-C56 mission is an important space mission for India. It aims to launch a satellite into orbit to study weather patterns.’\n“The PSLV-C56 is the 58th mission of Indian Space Research Organisation’s Polar Satellite Launch Vehicle (PSLV) and the 17th flight of the PSLV-CA variant, and will be get launched from Satish Dhawan Space Centre First Launch Pad ( FLP ).is Scheduled to get launched on Sunday, 30 July 2023 at 06:30 IST / 01:00 UTC from Satish Dhawan Space Centre, Sriharikota, Andhra Pradesh, India. This is a dedicated commercial mission through NSIL with DS-SAR as primary satellite and VELOX-AM as a co-passenger satellite With other 5 Satellites, All satellites from this mission belongs to Singapore.”\n\n\n\nRagas is compared to :\n\nGPT Score : for faithfulnes, range 0-10.\n\nGPT Score Prompt:\n\nFaithfulness measures the information consistency of the answer against the given context. Any claims that are made in the answer that cannot be deduced from context should be penalized. Given an answer and context, assign a score for faithfulness in the range 0-10. context: [context] answer: [answer]\n\n\nGPT Ranking: for answer relevancy, ranking.\n\nGPT Ranking Prompt:\n\nAnswer Relevancy measures the degree to which a response directly addresses and is appropriate for a given question. It penalizes the present of redundant information or incomplete answers given a question. Given an question and answer, rank each answer based on Answer Relevancy.  question: [question] answer 1: [answer 1] answer 2: [answer 2]"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#evaluation-results",
+    "href": "slides/25-11-03_pres_RAGAS.html#evaluation-results",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Evaluation results",
+    "text": "Evaluation results\n\n\n\n\nEvaluation of 3 evaluation methods on the WikiEval dataset\n\n\n\n\n« The results in Table 1 show that our proposed metrics are much closer aligned with the human judgements than the predictions from the two baselines.\n\n\nFor faithfulness, the Ragas prediction are in general highly accurate.\n\n\nFor answer relevance, the agreement is lower, but this is largely due to the fact that the differences between the two candidate answers are often very subtle.\n\n\nWe found context relevance to be the hardest quality dimension to evaluate. In particular, we observed that ChatGPT often struggles with the task of selecting the sentences from the context that are crucial, especially for longer contexts. » (Es et al., 2025, p. 5) (pdf)"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#other-methods-of-rag-evaluation",
+    "href": "slides/25-11-03_pres_RAGAS.html#other-methods-of-rag-evaluation",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Other methods of RAG evaluation",
+    "text": "Other methods of RAG evaluation\nReference-based score:\n\nBERTScore\nMoverScore\n\n-&gt; Comparison between vector of output and “golden standard” answer.\nReference-less score:\n\nAsking ChatGPT to score the output (scale of 0 to 100) -&gt; GPT Score and GPT Ranking\nARES"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#difference-between-automated-rag-evaluation-system-ares-framework-and-ragas",
+    "href": "slides/25-11-03_pres_RAGAS.html#difference-between-automated-rag-evaluation-system-ares-framework-and-ragas",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Difference between Automated RAG Evaluation System ARES framework and RAGAS",
+    "text": "Difference between Automated RAG Evaluation System ARES framework and RAGAS\nSaad-Falcon et al. (2024) (a year after RAGAS).\nSynthetic data generation (generating query‑passage‑answer triples) + fine‑tuned “judge” models + a small human annotated set + Prediction‑Powered Inference (PPI) to give confidence intervals, better ranking of RAG systems.\nComment: much more complex to set-up, but better for robust eval (confidence intervals)"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#would-you-use-ragas-to-evaluate-your-rag",
+    "href": "slides/25-11-03_pres_RAGAS.html#would-you-use-ragas-to-evaluate-your-rag",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Would you use RAGAS to evaluate your RAG?",
+    "text": "Would you use RAGAS to evaluate your RAG?"
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#personal-comments-on-ragas",
+    "href": "slides/25-11-03_pres_RAGAS.html#personal-comments-on-ragas",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "Personal comments on RAGAS",
+    "text": "Personal comments on RAGAS\nStrengths:\n\nReproducibility: they provide the prompts in full\nClever workaround for the context relevance (with cosine similarity between query and retroengineered query).\nEasy and intuitive implementation.\n\nLimits:\nEvaluation of the evaluation method:\n\nThe model used to create the dataset and to perform the ragas seems to be the same (namely ChatGPT without stating its version) : bias towards better performances at it would agree with itself more and create answer and questions that resemble more the kind of ‘statements’ it would generate.\nCompared evaluation methods, GPT Score and GPT Ranking are not strong LLM-as-judge methods.\nLimited dataset of 50 Q&A.\n\nRAGAS as evaluation: - Splitting the answer into statements (faithfulness score) adds another layer of interpretation by the LLM, increasing chances of hallucinations etc. - Lack of certainty assessment."
+  },
+  {
+    "objectID": "slides/25-11-03_pres_RAGAS.html#references",
+    "href": "slides/25-11-03_pres_RAGAS.html#references",
+    "title": "Evaluating RAG with RAGAS",
+    "section": "References",
+    "text": "References\n\n\n\n\nEs, Shahul, Jithin James, Luis Espinosa-Anke, and Steven Schockaert. 2025. “Ragas: Automated Evaluation of Retrieval Augmented Generation.” arXiv. https://doi.org/10.48550/arXiv.2309.15217.\n\n\nLewis, Patrick, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, et al. 2021. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” arXiv. https://doi.org/10.48550/arXiv.2005.11401.\n\n\nSaad-Falcon, Jon, Omar Khattab, Christopher Potts, and Matei Zaharia. 2024. “ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems.” In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), edited by Kevin Duh, Helena Gomez, and Steven Bethard, 338–54. Mexico City, Mexico: Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.naacl-long.20.\n\n\nShankar, Shreya, and Hamel Husain. 2025. Application-Centric AI Evals for Engineers and Technical Product Managers.\n\n\nWeaviate. 2025. “Advanced RAG Techniques.” Weaviate Ebook."
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#révision-une-question-de-définition",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#révision-une-question-de-définition",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Révision ? : une question de définition",
+    "text": "Révision ? : une question de définition\nAvant de savoir quel outil utiliser, il faut se demander ce qu’on veut faire\nUne tension entre deux tâches qui prennent place dans deux espace-temps différents :\n\nles protocoles éditoriaux établis au sein d’institutions et historicisables\nles pratiques de brouillonnages individuelles"
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#changement-de-paradigme",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#changement-de-paradigme",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Changement de paradigme",
+    "text": "Changement de paradigme\nGrammar Error Correction: tâche de Traitement Automatique de la Langue Naturelle, proche de la Traduction Automatique.\n\nCorrection évaluée à partir d’un gold standard (phrase incorrecte v. phrase corrigée idéale)\nComplexité du système proportionnelle à la grammaire.\n\nÉvolution de la correction automatique:\n\n\nCorrection ortho-typographique\nReformulation\nMasquer l’utilisation d’une IA pour la génération de texte"
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#une-question-de-système-de-valeurs",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#une-question-de-système-de-valeurs",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Une question de système de valeurs",
+    "text": "Une question de système de valeurs\n\nTraitement de texte / outils de révision ➝ recherche de productivité\nOn constate donc un changement dans dans les pratiques et les usages qui suivent ou sont suivies, on sait pas trop par l’évolution des outils\nQuelle valeur on accorde au travail du texte ?\nUn gain de temps ?\nLa rédaction académique : qu’implique la déprise du texte ? une déprise du sens ? Est-ce que l’idée est vraiment détachée de la forme ?"
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#homogénéisation-de-la-langue",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#homogénéisation-de-la-langue",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Homogénéisation de la langue",
+    "text": "Homogénéisation de la langue\n\n\nle LLM reflète des données d’entraînement mais aussi les phases de reinforcement learning qui l’oriente vers certains comportements standards porteurs de normes (ex: Français parisien) (Lodge 1993).\nS’il est possible de demander à un LLM de changer son comportement, il est ramené vers ses paramètres généraux : c’est “l’attraction par défaut” (Paschalidis 2025).\nLa portion croissante de données synthétiques dans les jeux d’entraînement de ses modèles renforce leurs biais (perte de diversité) et rends les réponses des modèles moins fiables (effondrement)."
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#hypercorrection",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#hypercorrection",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Hypercorrection ?",
+    "text": "Hypercorrection ?\n\n\nUne correction “sémantique” automatique\n\n\n\n\n\nRespect de la correction ortho-typo en _opt out)"
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#un-idéal-de-clarté-qui-finit-par-sauto-parodier-le-fameux-style-chatgpt",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#un-idéal-de-clarté-qui-finit-par-sauto-parodier-le-fameux-style-chatgpt",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Un idéal de clarté qui finit par s’auto-parodier (le fameux style chatgpt)",
+    "text": "Un idéal de clarté qui finit par s’auto-parodier (le fameux style chatgpt)\n\nWe show that while the core content of texts is retained when LLMs polish and rewrite texts, not only do they homogenize writing styles, but they also alter stylistic elements in a way that selectively amplifies certain dominant characteristics or biases while suppressing others - emphasizing conformity over individuality. By varying LLMs, prompts, classifiers, and contexts, we show that these trends are robust and consistent. (Sourati et al. 2025)\n\nSi une formulation est fortement présente dans le corpus d’entraînement est-ce que c’est nécessairement la meilleure ? L’approche par défaut vaut-elle pour tous les contextes ?\nIl y a des contextes dans lesquels la langue se doit d’être normée : contexte académique."
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#effet-nivelant-et-autorité-de-la-machine",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#effet-nivelant-et-autorité-de-la-machine",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Effet nivelant et autorité de la machine ?",
+    "text": "Effet nivelant et autorité de la machine ?\nLa délégation de la tâche de relecture et des tâches associées à la correction (traduction, mise en page) a un effet nivelant.\nLes moins bons traducteurs sont aidés par la TA mais les meilleurs traducteurs sont désavantagés par la TA. Effet limitant car tendance à se laisser influencer : réduction des intuitions de traduction et de la créativité traductionnelle. (Schumacher 2023)\nLa délégation cognitive et l’influence que ces machines ont sur nous individuellement n’est pas négligeable (voir Vicente and Matute (2023))."
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#conclusion",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#conclusion",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Conclusion",
+    "text": "Conclusion\nLes outils incarnent une vision du monde centrée sur la productivité et la rapidité\nAssiste-t-on a une déprise tu texte et à une déprise du sens ? Existe-t-il un seuil, une limite, au-delà de laquelle le recours aux LLMs constitue une perte de maîtrise du texte ?\nLes promesses de gain de temps et de productivité cachent des enjeux économiques forts : on ne peut que rester méfiants tant face aux biais de ces outils qu’à notre propension à être influencé par ses outils."
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#pour-en-savoir-plus",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#pour-en-savoir-plus",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Pour en savoir plus",
+    "text": "Pour en savoir plus\nVoir l’atelier IA sur la correction animé par (Grometto and Schneider 2025)"
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#questions",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#questions",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Questions",
+    "text": "Questions\nQuels outils utilisez vous pour la correction des textes ?\nEst-ce que vous constatez un gain de temps ou est-ce qu’il faut relire le relecteur automatique aussi ?\nEst-ce que vous constatez que les corrections proposées ‘améliorent’ ou ‘amoindrissent’ la qualité du texte que vous comptez publier ?\nEst-ce que les fonctionnalités de ‘détection de textes générés par IA’ vous aident/aideraient dans vos travaux (enseignement, édition, peer review) ?"
+  },
+  {
+    "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#bibliographie",
+    "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#bibliographie",
+    "title": "Automatiser la révision textuelle ?",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\n\n\n\nGrometto, Clara, and Alexia Schneider. 2025. “[Debogue tes humanités] IA et la correction textuelle automatique : quels outils et quelles limites ?” NAKALA - https://nakala.fr (Huma-Num - CNRS).\n\n\nLodge, R. Anthony. 1993. French, from Dialect to Standard. London ; New York : Routledge.\n\n\nPaschalidis, Aristotelis Ioannis. 2025. “Vers un langage sans relief ? L’impact de l’IA sur nos mots.” {UNESCO}.\n\n\nSchumacher, Perrine. 2023. “La post-édition de traduction automatique en contexte d’apprentissage.” PhD thesis, Liège: Universite de Liege.\n\n\nSourati, Zhivar, Farzan Karimi-Malekabadi, Meltem Ozcan, Colin McDaniel, Alireza Ziabari, Jackson Trager, Ala Tak, Meng Chen, Fred Morstatter, and Morteza Dehghani. 2025. “The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models.” https://arxiv.org/abs/2502.11266.\n\n\nVicente, Lucía, and Helena Matute. 2023. “Humans Inherit Artificial Intelligence Biases.” Scientific Reports 13 (1): 15737. https://doi.org/10.1038/s41598-023-42384-8."
+  },
+  {
+    "objectID": "projects/ieml-rs.html",
+    "href": "projects/ieml-rs.html",
+    "title": "IEML-RS",
+    "section": "",
+    "text": "Recommender system for Isidore based on IEML ontology navigation from seed article keywords. Compare retrieved articles from simple keyword search and an LLM-augmented query.\nIt is a Firefox extension that only works on https://isidore.science articles.\n\n\nComplete explanation published in Revue3.0 blog !\nAfter installation go to Isidore and look for an article. On the bottom left corner should appear a button ‘IEML-RS’.\n\n\n\nClicking on the IEML-RS button opens a panel on the right of the page: keywords or related subjects from the article are listed either in blue or orange.\n\n\n\n\n\nBlue keywords have already been translated into IEML, while orange keywords will be translated in two steps.\n\n\n\n\n\nSelection of a keyword displays its translation in IEML\n\n\n\n\n\nFrom the history of selected keywords and concepts the user can manually create a query\n\n\n\n\n\nClicking on ‘Rechercher des articles associés’ will produce 2 lists of articles, one from the selected keywords (1st panel) and one from a query-augmented search (2nd panel)\n\n\n\n\n\n\n\nhttps://addons.mozilla.org/fr/firefox/addon/ieml-rs/\n\n\n\n\nDownload the latest version in version dir. (xpi file)\nEnter about:addons in your browser.\nIn the paramters, select ‘import a module from a file’ and select the xpi file.\n\n\n\n\n\nsrc:\n\nsrc/script.js: extension script\nsrc/manifest.json: Firefox extension manifest.\n\nContent of src must be compressed into a zip file to be converted into xpi when added to the Firefox catalog.\n\n\nwrangler:\n\nwrangler/index.js: proxy endpoint to Isidore, Together AI and Crossref. + Data store of all things contained in data.\n\ndata:\n\ndata.csv: original 400 words translated in IEML (updated with /saveKeyword API endpoint)\nembd_full.tar.xz: embeddings of the IEML dictionnary (by word)\n\nrag-eval: detailed in rag_evaluation_report.md."
+  },
+  {
+    "objectID": "projects/ieml-rs.html#how-to-use",
+    "href": "projects/ieml-rs.html#how-to-use",
+    "title": "IEML-RS",
+    "section": "",
+    "text": "Complete explanation published in Revue3.0 blog !\nAfter installation go to Isidore and look for an article. On the bottom left corner should appear a button ‘IEML-RS’.\n\n\n\nClicking on the IEML-RS button opens a panel on the right of the page: keywords or related subjects from the article are listed either in blue or orange.\n\n\n\n\n\nBlue keywords have already been translated into IEML, while orange keywords will be translated in two steps.\n\n\n\n\n\nSelection of a keyword displays its translation in IEML\n\n\n\n\n\nFrom the history of selected keywords and concepts the user can manually create a query\n\n\n\n\n\nClicking on ‘Rechercher des articles associés’ will produce 2 lists of articles, one from the selected keywords (1st panel) and one from a query-augmented search (2nd panel)"
+  },
+  {
+    "objectID": "projects/ieml-rs.html#install",
+    "href": "projects/ieml-rs.html#install",
+    "title": "IEML-RS",
+    "section": "",
+    "text": "https://addons.mozilla.org/fr/firefox/addon/ieml-rs/\n\n\n\n\nDownload the latest version in version dir. (xpi file)\nEnter about:addons in your browser.\nIn the paramters, select ‘import a module from a file’ and select the xpi file."
+  },
+  {
+    "objectID": "projects/ieml-rs.html#content-description",
+    "href": "projects/ieml-rs.html#content-description",
+    "title": "IEML-RS",
+    "section": "",
+    "text": "src:\n\nsrc/script.js: extension script\nsrc/manifest.json: Firefox extension manifest.\n\nContent of src must be compressed into a zip file to be converted into xpi when added to the Firefox catalog.\n\n\nwrangler:\n\nwrangler/index.js: proxy endpoint to Isidore, Together AI and Crossref. + Data store of all things contained in data.\n\ndata:\n\ndata.csv: original 400 words translated in IEML (updated with /saveKeyword API endpoint)\nembd_full.tar.xz: embeddings of the IEML dictionnary (by word)\n\nrag-eval: detailed in rag_evaluation_report.md."
+  }
+]
