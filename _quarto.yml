@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: public
+
+toc: true
+bibliography: phd_udem.bib
+
+format:
+  html:
+    theme: spacelab
+
+website: 
+  title: "Alexia Schneider"
+  navbar: 
+      style: 'docked'
+      background: dark
+      left:
+        - href: cv.md
+          text: CV
+        - href: index_slides.md
+          text: "Slides"
+        - href: index_projects.md
+          text: "Projects"
+        
