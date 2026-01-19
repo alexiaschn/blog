@@ -12,7 +12,7 @@
   <meta name="author" content="Alexia Schneider">
   <meta name="author" content="Marcello Vitali-Rosati">
   <meta name="dcterms.date" content="2026-01-20">
-  <title>Alexia Schneider – Éthique et IA</title>
+  <title>Alexia Schneider – Éthique et IA générative</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -30,7 +30,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2f366650f320edcfcf53d73c80250a32.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -130,7 +150,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Éthique et IA</h1>
+  <h1 class="title">Éthique et IA générative</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -152,58 +172,73 @@ Marcello Vitali-Rosati
 </div>
 
   <p class="date">2026-01-20</p>
-</section><section id="TOC">
-<nav role="doc-toc"> 
-<h2 id="toc-title">Table of contents</h2>
-<ul>
-<li><a href="#/concentration-économique-et-politique" id="/toc-concentration-économique-et-politique">concentration économique et politique</a></li>
-<li><a href="#/uniformisation" id="/toc-uniformisation">uniformisation</a></li>
-<li><a href="#/biais" id="/toc-biais">biais</a></li>
-<li><a href="#/tldr" id="/toc-tldr">tldr</a></li>
-</ul>
-</nav>
-</section>
-<section id="concentration-économique-et-politique" class="slide level2">
-<h2>concentration économique et politique</h2>
-<p>Problème:</p>
-<ul>
-<li>manipulation politique</li>
-<li>destruction de la planète</li>
-<li>remplace des emplois ?</li>
-<li>typologie des stratégies d’accumulation : verticale (google) open-source</li>
-</ul>
-<p>Répondre par:</p>
-<p>Encourager à sensibiliser à ces enjeux auprès de l’université</p>
-<p>Proposer des alternatives open-sources: Linux, Llama</p>
-<p>Shkolè et la force du dysfonctionnel.</p>
-<p>Pour la perte d’emploi ?</p>
 </section>
 <section id="uniformisation" class="slide level2">
-<h2>uniformisation</h2>
+<h2>Uniformisation</h2>
 <ul>
-<li>des approches:</li>
-<li>et des pratiques</li>
+<li>Des approches</li>
+<li>Des pratiques</li>
+<li>Du discours (création et contrôle des besoins)</li>
 </ul>
 <p>Répondre par:</p>
 <ul>
-<li>Quelles techniques non-IA éprouvées existent ? (tous ces exemples sont bcp trop techniques) = extraction de mots-clés: simple regex = recherche d’entités nommées: simple regex ! = recherche d’information: GUI avec filtres, = corrections orthotypographiques:</li>
+<li>Valoriser l’agentivité des étudiant.e.s et des enseignant.e.s,</li>
+<li>Identifier ses besoins et attentes pour choisir son outil,</li>
+<li>Favoriser une pluralité d’approches.</li>
 </ul>
-<p>-&gt; pluralité d’approches encourage à modéliser la réponse par ses propres moyens.</p>
-</section>
-<section id="biais" class="slide level2">
-<h2>biais</h2>
+<p>Exemples:</p>
 <ul>
-<li>tout algo a des biais</li>
-<li>opacité</li>
-<li>renforcement et invisibilisation des biais par un effet d’objectivité et d’autorité de la machine.</li>
+<li>correction ortho-typographique : le dictionnaire ?</li>
+<li>littératie numérique</li>
 </ul>
-<p>Répondre: enseigner l’étude critique, l’analyse critique avec les méthodes d’analyse, valoriser le droit à l’erreur de la machine et de l’humain ? (idk spitballing)</p>
 </section>
-<section id="tldr" class="slide level2">
-<h2>tldr</h2>
-<p>-&gt; contrer le discours de la facilité et de l’intuitif, qui est un discours marketing par la valorisation de l’agentivité des étudiant.e.s et des enseignant.e.s.</p>
+<section id="concentration-économique-et-politique" class="slide level2">
+<h2>Concentration économique et politique</h2>
+<ul>
+<li>Destruction de la planète,</li>
+<li>Souveraineté digitale : Concentration dans les <em>clouds</em><span class="citation" data-cites="rikapCapitalismPowerInnovation2021">(<a href="#/biais-algorithmiques" role="doc-biblioref" onclick="">Rikap 2021</a>)</span></li>
+</ul>
+
+<img data-src="img/aiEcononmicStrategies.png" class="r-stretch quarto-figure-center"><p class="caption">résumé stratégies de concentration des grandes entreprises de la tech <span class="citation" data-cites="srnicekSiliconEmpiresFight2026">(<a href="#/biais-algorithmiques" role="doc-biblioref" onclick="">Srnicek 2026</a>)</span></p><p>Répondre par:</p>
+<ul>
+<li>Sensibiliser auprès de l’université : enjeux d’infrastructure</li>
+<li>Alternatives open-sources et low-tech si possible</li>
+</ul>
+<p>Exemples:</p>
+<ul>
+<li>MS. Word -&gt; LibreOffice, Stylo, markdown</li>
+<li>Mac/Windows -&gt; Linux</li>
+</ul>
+</section>
+<section id="biais-algorithmiques" class="slide level2 smaller scrollable">
+<h2>Biais algorithmiques</h2>
+<ul>
+<li>Tous les algo ont des biais : ex : https://laurenleek.substack.com/p/how-google-maps-quietly-allocates?r=2mgxo2&amp;utm_campaign=post&amp;utm_medium=web&amp;triedRedirect=true</li>
+<li>Invisibilisation des biais par un effet d’objectivité et d’autorité de la machine</li>
+</ul>
+<p>Répondre par:</p>
+<ul>
+<li>Enseignement de l’étude critique et de l’analyse critique</li>
+<li>Accepter de changer nos critères d’évaluation.</li>
+</ul>
+<p>Exemples :</p>
+<ul>
+<li>Simplifier la lettre de recommendation, les mails etc.</li>
+<li>Valoriser l’erreur et le dysfonctionnel <span class="citation" data-cites="vitali-rosatiElogeBug2024">(<a href="#/biais-algorithmiques" role="doc-biblioref" onclick="">Vitali-Rosati 2024</a>)</span></li>
+</ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-rikapCapitalismPowerInnovation2021" class="csl-entry" role="listitem">
+Rikap, Cecilia. 2021. <em>Capitalism, <span>Power</span> and <span>Innovation</span>: <span>Intellectual Monopoly Capitalism Uncovered</span></em>. London: Routledge. <a href="https://doi.org/10.4324/9780429341489">https://doi.org/10.4324/9780429341489</a>.
+</div>
+<div id="ref-srnicekSiliconEmpiresFight2026" class="csl-entry" role="listitem">
+Srnicek, Nick. 2026. <em>Silicon Empires: The Fight for the Future of <span>AI</span></em>. Cambridge: Polity Press.
+</div>
+<div id="ref-vitali-rosatiElogeBug2024" class="csl-entry" role="listitem">
+Vitali-Rosati, Marcello. 2024. <em>Éloge Du Bug</em>. Éditions La Découverte.
+</div>
+</div>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">

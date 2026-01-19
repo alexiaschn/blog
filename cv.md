@@ -133,7 +133,7 @@ Ruiz Fabo, P., Boisnard, F., & **Schneider, A.** (2024a, août). Comparative met
 **Schneider, A.**, & Ruiz, P. (2024). Stage Direction Classification in French Theater : Transfer Learning Experiments. Proceedings of LaTeCH-CLfL 2024, 278-286. St. Julians, Malta. Association for Computational Linguistics. [https://aclanthology.org/2024.latechclfl-1.28/](https://aclanthology.org/2024.latechclfl-1.28/)
 
 
-# Autres contributions scientifiques
+# Autres contributions 
 
 ## Ateliers de sensibilisation aux enjeux de l'IA en SHS
 
@@ -160,6 +160,12 @@ Audin, Y., Bouchard, W., Chaix, V., Ferretti, G., Grometto, C., Malek, H., Pamar
 **Schneider, A.**(2025, mai 12). Exploration de l’automatisation dans la chaine éditoriale des revues [Blog]. Blog de Revue3.0. https://revue30.org/blog/numero/bap/article/exploration-de-l-automatisation-dans-la-chaine-editoriale-des-revues-recherche-d-evaluateur-ice-s/
 
 **Schneider, A.**(2025, avril 1). Progression du projet IEML pour le balisage d’articles en SHS [Blog]. Blog de Revue3.0. https://revue30.org/blog/numero/bap/article/projet-ieml-avril-2025/
+<!-- 
+## Interventions 
+
+ 20 janvier 2026 : Udem CÉSAR Centre étudiant de soutien à la réussite. Éthique et IA avec MVR
+ 
+ (une conseillère en conseils carrière, une en conseil d'orientation, une en information scolaire, deux pour les étudiants en situation de handicap, deux orthopédagogues et un responsable TI aux SVÉ, et moi). Il s'agit d'une communauté de pratique portant sur l'IA et des effets sur notre travail et la communauté étudiante -->
 
 
 # Programmes et modèles entraînés

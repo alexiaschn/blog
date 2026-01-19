@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -268,16 +268,16 @@
   {
     "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
     "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
-    "title": "Éthique et IA",
-    "section": "concentration économique et politique",
-    "text": "concentration économique et politique\nProblème:\n\nmanipulation politique\ndestruction de la planète\nremplace des emplois ?\ntypologie des stratégies d’accumulation : verticale (google) open-source\n\nRépondre par:\nEncourager à sensibiliser à ces enjeux auprès de l’université\nProposer des alternatives open-sources: Linux, Llama\nShkolè et la force du dysfonctionnel.\nPour la perte d’emploi ?"
+    "title": "Éthique et IA générative",
+    "section": "Concentration économique et politique",
+    "text": "Concentration économique et politique\n\nDestruction de la planète,\nSouveraineté digitale : Concentration dans les clouds(Rikap 2021)\n\n\nrésumé stratégies de concentration des grandes entreprises de la tech (Srnicek 2026)Répondre par:\n\nSensibiliser auprès de l’université : enjeux d’infrastructure\nAlternatives open-sources et low-tech si possible\n\nExemples:\n\nMS. Word -&gt; LibreOffice, Stylo, markdown\nMac/Windows -&gt; Linux"
   },
   {
     "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
     "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
-    "title": "Éthique et IA",
-    "section": "uniformisation",
-    "text": "uniformisation\n\ndes approches:\net des pratiques\n\nRépondre par:\n\nQuelles techniques non-IA éprouvées existent ? (tous ces exemples sont bcp trop techniques) = extraction de mots-clés: simple regex = recherche d’entités nommées: simple regex ! = recherche d’information: GUI avec filtres, = corrections orthotypographiques:\n\n-&gt; pluralité d’approches encourage à modéliser la réponse par ses propres moyens."
+    "title": "Éthique et IA générative",
+    "section": "Uniformisation",
+    "text": "Uniformisation\n\nDes approches\nDes pratiques\nDu discours (création et contrôle des besoins)\n\nRépondre par:\n\nValoriser l’agentivité des étudiant.e.s et des enseignant.e.s,\nIdentifier ses besoins et attentes pour choisir son outil,\nFavoriser une pluralité d’approches.\n\nExemples:\n\ncorrection ortho-typographique : le dictionnaire ?\nlittératie numérique"
   },
   {
     "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais",
@@ -579,5 +579,12 @@
     "title": "IEML-RS",
     "section": "",
     "text": "src:\n\nsrc/script.js: extension script\nsrc/manifest.json: Firefox extension manifest.\n\nContent of src must be compressed into a zip file to be converted into xpi when added to the Firefox catalog.\n\n\nwrangler:\n\nwrangler/index.js: proxy endpoint to Isidore, Together AI and Crossref. + Data store of all things contained in data.\n\ndata:\n\ndata.csv: original 400 words translated in IEML (updated with /saveKeyword API endpoint)\nembd_full.tar.xz: embeddings of the IEML dictionnary (by word)\n\nrag-eval: detailed in rag_evaluation_report.md."
+  },
+  {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais-algorithmiques",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais-algorithmiques",
+    "title": "Éthique et IA générative",
+    "section": "Biais algorithmiques",
+    "text": "Biais algorithmiques\n\nTous les algo ont des biais : ex : https://laurenleek.substack.com/p/how-google-maps-quietly-allocates?r=2mgxo2&utm_campaign=post&utm_medium=web&triedRedirect=true\nInvisibilisation des biais par un effet d’objectivité et d’autorité de la machine\n\nRépondre par:\n\nEnseignement de l’étude critique et de l’analyse critique\nAccepter de changer nos critères d’évaluation.\n\nExemples :\n\nSimplifier la lettre de recommendation, les mails etc.\nValoriser l’erreur et le dysfonctionnel (Vitali-Rosati 2024)\n\n\n\n\n\nRikap, Cecilia. 2021. Capitalism, Power and Innovation: Intellectual Monopoly Capitalism Uncovered. London: Routledge. https://doi.org/10.4324/9780429341489.\n\n\nSrnicek, Nick. 2026. Silicon Empires: The Fight for the Future of AI. Cambridge: Polity Press.\n\n\nVitali-Rosati, Marcello. 2024. Éloge Du Bug. Éditions La Découverte."
   }
 ]

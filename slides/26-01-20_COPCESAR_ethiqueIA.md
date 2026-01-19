@@ -1,5 +1,5 @@
 ---
-title: Éthique et IA 
+title: Éthique et IA générative
 author: 
     - name: Alexia Schneider 
       orcid: 0009-0000-0651-9792
@@ -20,58 +20,54 @@ format:
         slide-number: true
 logo: "img/stickerAvecTexte.png"
 ---
-## concentration économique et politique 
 
-Problème: 
+## Uniformisation 
 
-- manipulation politique
-- destruction de la planète
-- remplace des emplois ?
-- typologie des stratégies d'accumulation : 
-verticale (google)
-open-source
+- Des approches
+- Des pratiques
+- Du discours (création et contrôle des besoins)
 
 Répondre par: 
 
-Encourager à sensibiliser à ces enjeux auprès de l'université 
+- Valoriser l'agentivité des étudiant.e.s et des enseignant.e.s, 
+- Identifier ses besoins et attentes pour choisir son outil, 
+- Favoriser une pluralité d'approches.
 
-Proposer des alternatives open-sources: Linux, Llama
+Exemples: 
 
-Shkolè et la force du dysfonctionnel. 
+- correction ortho-typographique : le dictionnaire ? 
+- littératie numérique 
 
-Pour la perte d'emploi ? 
 
+## Concentration économique et politique 
 
-## uniformisation 
+- Destruction de la planète, 
+- Souveraineté digitale : Concentration dans les _clouds_[@rikapCapitalismPowerInnovation2021]
 
-- des approches: 
--  et des pratiques
+![résumé stratégies de concentration des grandes entreprises de la tech [@srnicekSiliconEmpiresFight2026]](img/aiEcononmicStrategies.png)
 
 Répondre par: 
 
+- Sensibiliser auprès de l'université : enjeux d'infrastructure
+- Alternatives open-sources et low-tech si possible
 
-- Quelles techniques non-IA éprouvées existent ? (tous ces exemples sont bcp trop techniques)
-= extraction de mots-clés: simple regex 
-= recherche d'entités nommées: simple regex ! 
-= recherche d'information: GUI avec filtres, 
-= corrections orthotypographiques: 
+Exemples:
 
+- MS. Word -> LibreOffice, Stylo, markdown
+- Mac/Windows -> Linux
 
--> pluralité d'approches encourage à modéliser la réponse par ses propres moyens.
+## Biais algorithmiques
 
+- Tous les algo ont des biais : ex : https://laurenleek.substack.com/p/how-google-maps-quietly-allocates?r=2mgxo2&utm_campaign=post&utm_medium=web&triedRedirect=true
+- Invisibilisation des biais par un effet d'objectivité et d'autorité de la machine
 
-## biais 
+Répondre par: 
 
-- tout algo a des biais
-- opacité 
-- renforcement et invisibilisation des biais par un effet d'objectivité et d'autorité de la machine. 
+- Enseignement de l'étude critique et de l'analyse critique
+- Accepter de changer nos critères d'évaluation.
 
-Répondre: 
-enseigner l'étude critique, l'analyse critique
-avec les méthodes d'analyse, 
-valoriser le droit à l'erreur de la machine et de l'humain ? (idk spitballing) 
+Exemples : 
 
+- Simplifier la lettre de recommendation, les mails etc. 
+- Valoriser l'erreur et le dysfonctionnel [@vitali-rosatiElogeBug2024]
 
-## tldr
-
--> contrer le discours de la facilité et de l'intuitif, qui est un discours marketing par la valorisation de l'agentivité des étudiant.e.s et des enseignant.e.s.

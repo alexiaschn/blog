@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-toc: true
+# toc: true
 bibliography: phd_udem.bib
 
 format:
