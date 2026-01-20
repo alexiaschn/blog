@@ -44,7 +44,13 @@ Exemples:
 - Destruction de la planète, 
 - Souveraineté digitale : Concentration dans les _clouds_[@rikapCapitalismPowerInnovation2021]
 
-![résumé stratégies de concentration des grandes entreprises de la tech [@srnicekSiliconEmpiresFight2026]](img/aiEcononmicStrategies.png)
+---
+
+![résumé stratégies de concentration des grandes entreprises de la tech ](img/aiEcononmicStrategies.png) 
+
+[@srnicekSiliconEmpiresFight2026]
+
+---
 
 Répondre par: 
 
@@ -70,4 +76,6 @@ Exemples :
 
 - Simplifier la lettre de recommendation, les mails etc. 
 - Valoriser l'erreur et le dysfonctionnel [@vitali-rosatiElogeBug2024]
+
+## Bibliographie
 
