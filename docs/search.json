@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -593,5 +593,89 @@
     "title": "Éthique et IA générative",
     "section": "Bibliographie",
     "text": "Bibliographie\n\n\n\n\nRikap, Cecilia. 2021. Capitalism, Power and Innovation: Intellectual Monopoly Capitalism Uncovered. London: Routledge. https://doi.org/10.4324/9780429341489.\n\n\nSrnicek, Nick. 2026. Silicon Empires: The Fight for the Future of AI. Cambridge: Polity Press.\n\n\nVitali-Rosati, Marcello. 2024. Éloge Du Bug. Éditions La Découverte."
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#présentation",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#présentation",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Présentation",
+    "text": "Présentation\nhttps://revue30.org/evenements/atelier-automatisation-complexe-revues/ Présentation : 30 min Discussion : 45min\nLieu: à distance https://bbb.futuretic.fr/rooms/up9-kkg-eld-jjl/join Jour et heure : Jeudi : 9h-10h15 (Montréal) / 15h-16h15 (Paris) Un atelier par mois de février à mai. Suivre la newsletter pour le détail du calendrier.\nObjectifs de la série d’atelier:\n\nComprendre plus en profondeur les systèmes d’IA\nS’outiller concrètement à l’évaluation qualitative (et quantitative) des outils et algorithmes\n\nCalendrier:\n12 février : Introduction aux architectures de systèmes complexes intégrant de l’“IA” - Alexia Schneider\n19 mars : Evaluation of LLMs for the production of an article’s abstract (titre à confirmer) - Gauransh Kumar NB changement d’heure : 9h-10h15 (Montréal) (14h-15h15 heure de Paris)\n16 avril : Mythes de l’automatisation, exemple de la HTR (titre à confirmer) - Alix Chagué\nMai : TBA"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#quelle-complexité",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#quelle-complexité",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Quelle complexité ?",
+    "text": "Quelle complexité ?\nIA, dite générative ou d’automatisation de la prédiction de token, effectue aujourd’hui des tâches complexes à deux niveaux:\n\ninterprétation d’une instruction donnée en langue naturelle (avec son lot d’ambiguïté).\nintégration de LLM dans des process ou pipelines qui impliquent des interactions en chaînes pour traiter une demande :\n\nSystèmes agentiques “agentic AI”\nRAG"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#les-agents-ia",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#les-agents-ia",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Les agents IA",
+    "text": "Les agents IA\nRenvoie à la notion d’autonomie, d’agentivité : narratif promethéen promut par les entreprises de la tech.\nEn réalité : Un agent est un enchaîntement d’appels à un LLM.\nL’agent est ce qui permet d’intégrer à un prompt des informations complémentaires de manière asynchrone. Informations que le LLM aura solicitées après analyse de la demande entrées par l’utilisateur.ice.\nAutrement dit, un agent est une “IA” qui se répond à elle-même."
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#définition-hypée-des-ia-agentiques",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#définition-hypée-des-ia-agentiques",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Définition hypée des IA agentiques",
+    "text": "Définition hypée des IA agentiques\n\nDescription des IA agentiques par Docker (Irwin and Xu 2025)"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#description-pas-hypée-de-lagent-conversationnel-de-la-démo",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#description-pas-hypée-de-lagent-conversationnel-de-la-démo",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Description pas hypée de l’agent conversationnel de la démo",
+    "text": "Description pas hypée de l’agent conversationnel de la démo"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#applications-de-chat-actuelles",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#applications-de-chat-actuelles",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Applications de chat actuelles",
+    "text": "Applications de chat actuelles\nChatGPT, Le Chat de Mistral etc. sont des applications qui interagissent avec un LLM (GPT5.2, Mistral). Ce qui est envoyé comme requête est appelé un prompt. Le prompt ne contient pas que la requête de l’utilisateur.\nDans ce prompt, on trouve un ensemble d’instructions préliminaires (le system prompt) et d’informations complémentaires comme l’historique des échanges (chat history).\nDepuis décembre 2024, le Model Context Protocol (MCP) permet l’intégration modulaire de l’interface de chat à d’autres fonctionalités des applications grands publics de chat -&gt; interaction avec un agenda sur le cloud, des sites marchands etc.\n\n\n\nLe MCP1\n\n\nsource: https://modelcontextprotocol.io/docs/getting-started/intro –&gt;"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#retrieval-augmented-generation",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#retrieval-augmented-generation",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Retrieval Augmented Generation",
+    "text": "Retrieval Augmented Generation\nLimites du LLM:\n\nreprésentation figée sur les données d’entraînement (= mémoire implicite ne peut pas être mise à jour)\nfenêtre contextuelle limitée (ajd jusque 120 000 tokens, en réalité déclin après ~30 000 tokens)\n\n-&gt; perte de fiabilité\nLe RAG : architecture de système d’IA qui repose sur une base de connaissance externe dans le but d’améliorer les réponses d’une IA générative sans demander d’entrainement supplémentaire (fine tuning).(Lewis et al. 2021) (Facebook, University College London, New York University)"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#rag-en-bref",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#rag-en-bref",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "RAG en bref",
+    "text": "RAG en bref\nRequête d’une base de données1 avec des méthodes de Recherche d’Information (TF-iDF ou similarité cosinus) + intégration des morceaux extraits au prompt. Le LLM effectue une synthèse.\nou d’un moteur de recherche"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#points-dattention-sur-le-rag",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#points-dattention-sur-le-rag",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Points d’attention sur le RAG",
+    "text": "Points d’attention sur le RAG\n\nJeux de données externes peut aussi être biaisé,\nAjout de couches d’interprétation,\nDissémination de l’information quand l’information se trouve dans plusieurs chunks,\nAngles morts quand l’information importante est dans un chunk non extrait."
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#schéma-de-larchitecture-dun-agent-ia",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#schéma-de-larchitecture-dun-agent-ia",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Schéma de l’architecture d’un agent IA",
+    "text": "Schéma de l’architecture d’un agent IA"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#prochains-rendez-vous",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#prochains-rendez-vous",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Prochains rendez-vous",
+    "text": "Prochains rendez-vous\n19 mars : Evaluation of LLMs for the production of an article’s abstract (titre à confirmer) - Gauransh Kumar NB changement d’heure : 9h-10h15 (Montréal) (14h-15h15 heure de Paris)\n16 avril : Mythes de l’automatisation, exemple de la HTR (titre à confirmer) - Alix Chagué\nmai : TBA"
+  },
+  {
+    "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#bibliographie",
+    "href": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#bibliographie",
+    "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\n\n\n\nIrwin, Michael, and Yiwen Xu. 2025. “GenAI Vs. Agentic AI: What Developers Need to Know.” Docker.\n\n\nLewis, Patrick, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, et al. 2021. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” arXiv. https://doi.org/10.48550/arXiv.2005.11401."
   }
 ]
