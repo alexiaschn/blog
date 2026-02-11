@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -677,5 +677,61 @@
     "title": "Atelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues",
     "section": "Bibliographie",
     "text": "Bibliographie\n\n\n\n\nIrwin, Michael, and Yiwen Xu. 2025. “GenAI Vs. Agentic AI: What Developers Need to Know.” Docker.\n\n\nLewis, Patrick, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, et al. 2021. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” arXiv. https://doi.org/10.48550/arXiv.2005.11401."
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#latex-cest-bien",
+    "href": "slides/26-02-24_typstEcrinum.html#latex-cest-bien",
+    "title": "Typst",
+    "section": "LaTeX C’EST BIEN",
+    "text": "LaTeX C’EST BIEN\n\nC’est beeeeau"
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#latex-cest-bien-1",
+    "href": "slides/26-02-24_typstEcrinum.html#latex-cest-bien-1",
+    "title": "Typst",
+    "section": "LaTeX C’EST … BIEN",
+    "text": "LaTeX C’EST … BIEN\n\n448 lignes de .tex + 3633 lignes de .cls\n\n4 pages .pdf"
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#quest-ce-qui-se-passe-ici",
+    "href": "slides/26-02-24_typstEcrinum.html#quest-ce-qui-se-passe-ici",
+    "title": "Typst",
+    "section": "Qu’est-ce qui se passe ici ?",
+    "text": "Qu’est-ce qui se passe ici ?\n\n\n\n\nhmmmm, de la magie je suppose\n\n\n\n\n\nL’embarras du choix"
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#section",
+    "href": "slides/26-02-24_typstEcrinum.html#section",
+    "title": "Typst",
+    "section": "???",
+    "text": "???\n\n\n\n\nhmmmm, de la magie je suppose\n\n\n\n\n\nL’embarras du choix"
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#introducing-typst",
+    "href": "slides/26-02-24_typstEcrinum.html#introducing-typst",
+    "title": "Typst",
+    "section": "INTRODUCING TYPST",
+    "text": "INTRODUCING TYPST\n\nreliable\nfast\nintuitive"
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#latex-cest-explicite",
+    "href": "slides/26-02-24_typstEcrinum.html#latex-cest-explicite",
+    "title": "Typst",
+    "section": "LaTeX C’EST EXPLICITE",
+    "text": "LaTeX C’EST EXPLICITE\n\n\\subsection{Research Questions}\n\n\\begin{itemize}\n    \\item {\\textit{RQ1}}: What kind of alternative to AI research assistant can be designed that can put forward unexpected connections in an explainable and transparent way for the user?\n\n    \\item {\\textit{RQ2}}: What can a direct comparison between a symbolic ontology and an LLM-based semantic retrieval reveal about their underlying epistemic models? \n\\end{itemize}\n\n\\subsection{Contributions}"
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#what-is-typst",
+    "href": "slides/26-02-24_typstEcrinum.html#what-is-typst",
+    "title": "Typst",
+    "section": "WHAT IS TYPST",
+    "text": "WHAT IS TYPST\nLaurenz Mädje + Martin Haug développent Typst as a side project en 2023.\nUn compilateur open-source et une application propriétaire en ligne, comme Overleaf pour LaTeX."
+  },
+  {
+    "objectID": "slides/26-02-24_typstEcrinum.html#what-is-typst-1",
+    "href": "slides/26-02-24_typstEcrinum.html#what-is-typst-1",
+    "title": "Typst",
+    "section": "WHAT IS TYPST",
+    "text": "WHAT IS TYPST\nRust.\nSyntaxe = Markdown pour la structure + du code précédé par #."
   }
 ]
