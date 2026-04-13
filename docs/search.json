@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nUnderstanding current AI tools’ impact on research and developping alternative AI tools\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -733,5 +733,89 @@
     "title": "Typst",
     "section": "WHAT IS TYPST",
     "text": "WHAT IS TYPST\nRust.\nSyntaxe = Markdown pour la structure + du code précédé par #."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#ma-vie-mon-oeuvre",
+    "href": "slides/26-04-14_pres_C2DH.html#ma-vie-mon-oeuvre",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Ma vie mon oeuvre",
+    "text": "Ma vie mon oeuvre\nLiterature then NLP."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#a-slide-everyone-will-have-something-to-say-about",
+    "href": "slides/26-04-14_pres_C2DH.html#a-slide-everyone-will-have-something-to-say-about",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "A slide everyone will have something to say about",
+    "text": "A slide everyone will have something to say about\nAn ecosystem in 3 complementory parts :\n\nWriting and editing -&gt; text editors : Authors, Editors of journals\nPublishing and indexing -&gt; diffuseurs, indexers, search engines : Developpers, Ontologists\nQuerying et Retrieving -&gt; search engines :Developpers, Researchers\n\nHow is the research ecosystem influenced by inductive algorithms and current AI tools in the production-to-query-of-articles pipeline?"
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#ai-tools-as-oracle",
+    "href": "slides/26-04-14_pres_C2DH.html#ai-tools-as-oracle",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "AI tools as oracle",
+    "text": "AI tools as oracle\n\nblack box effect\nthe 🪄✨ sparkles ✨🪄\nthe blank box (Tay 2026) : natural language interactions and sleek UX."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#many-issues-with-the-use-of-at-least-some-llm-based-apps",
+    "href": "slides/26-04-14_pres_C2DH.html#many-issues-with-the-use-of-at-least-some-llm-based-apps",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Many issues with the use of at least some LLM-based apps",
+    "text": "Many issues with the use of at least some LLM-based apps\n\nWriting and editing: uniformisation of language and ideas.\nPublishing and indexing: citation concentration, black box algorithms.\nQuerying and retrieving: confirmation bias, filter bubbles.\n\nbonus : data sovereignty, foundation of science on good-faith\n-&gt; in most cases, proprietary apps and current AI features are only exacerbating already existing dynamics and not creating entirely new issues."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#acknowledgements",
+    "href": "slides/26-04-14_pres_C2DH.html#acknowledgements",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nTechnologies bear no moral judgement, they carry the positions and goals their developpers intended for them. The same technology can be leveraged for entirely different purposes : in other words, the blank box is not the only design possible for an LLM-based application."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#goals",
+    "href": "slides/26-04-14_pres_C2DH.html#goals",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Goals",
+    "text": "Goals\n\nExpliciting the biases, improving on AI- and digital literacy.\nSuggesting epistemic alternatives : e.g. valorisation of serendipity and corrections as an engagement strategy vs. personalization of interactions.\nDevelopping tools and functionnality materialising this theoretical standpoint :\n\nSemantic enriching with LOD embedded in the text : text editor Stylo\nAlternative exploration of large corpora on qualitative aspects (e.g. citation dis/agreement) : journals, érudit, OpenEdition, Isidore.\nQuerying strategy using semantic structured data (via IEML) as opposed to natural language : Isidore."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#context",
+    "href": "slides/26-04-14_pres_C2DH.html#context",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Context",
+    "text": "Context\nAn ecosystem in 3 parts :\n\nWriting and editing -&gt; text editors : Authors, Editors of journals\nPublishing and indexing -&gt; diffuseurs (journal providers), search engines : Developpers, Ontologists\nQuerying et Retrieving -&gt; search engines : Developpers, Researchers, Students\n\nHow is the research ecosystem influenced by inductive algorithms and current AI tools in the pipeline of production-to-query-of-articles ?"
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#some-issues-with-llm-based-apps-and-functionalities",
+    "href": "slides/26-04-14_pres_C2DH.html#some-issues-with-llm-based-apps-and-functionalities",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Some issues with LLM-based apps and functionalities",
+    "text": "Some issues with LLM-based apps and functionalities\n\nWriting and editing: standardisation of language and ideasé\nPublishing and indexing: citation concentration (de Solla Price 1963; Merton 1968), black box algorithms.\nQuerying and retrieving: confirmation bias, filter bubbles (Pariser 2011)\n\nBonus: data sovereignty, uncertain foundation of science on good-faith.\nNew biases or exercerbation of already existing dynamics?"
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#a-paradigmatic-issue",
+    "href": "slides/26-04-14_pres_C2DH.html#a-paradigmatic-issue",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "A Paradigmatic issue",
+    "text": "A Paradigmatic issue\nLLMs are based on the distributional hypothesis (Harris 1981):\n\nYou shall know a word by the company it keeps. — Firth (1962)\n\nvs. for instance generative linguistics:\n\nColorless green ideas sleep furiously — Chomsky (1957)\n\nIn the context of writing and information retrieval: is the most probable output the most relevant output?"
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#discoverabilitydécouvrabilité",
+    "href": "slides/26-04-14_pres_C2DH.html#discoverabilitydécouvrabilité",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Discoverability/Découvrabilité",
+    "text": "Discoverability/Découvrabilité\nFindability/Trouvabilité\nSerendipity/Trouvaille : ‘browsing’ is a 4 dimensions process (Rice, McCreadie, and Chang 2001) : 1. the act of scanning; 2. the presence or absence of purpose; 3. the specificity of search outcomes or goals; 4. and knowledge about the resource and object sought.\n\nModelisation of serendipity with reflexive intent (Makri and Blandford 2012)Serendipity is a process rather than a goal, and this process implies necessarily a selection step based on complex cognitive connexions between past and present information.\nPutting serendipity at the forefront of dedicated research and writing tools can be a way to 1. reconnect digital tools and the internet to its roots (open exploration based on a network of unrelated data) 2. allow human agency to be exercised and a support for ai litteracy."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#main-goals",
+    "href": "slides/26-04-14_pres_C2DH.html#main-goals",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Main goals",
+    "text": "Main goals\n\nExpliciting the biases, improving on AI- and digital- literacy.\nSuggesting epistemic alternatives : e.g. valorisation of serendipity and corrections as an engagement strategy vs. personalization of interactions.\nDevelopping tools and functionnality materialising this theoretical standpoint :\n\nSemantic enriching with LOD embedded in the text : text editor Stylo\nAlternative exploration of large corpora on qualitative aspects (e.g. citation dis/agreement) : journals, érudit, OpenEdition, Isidore.\nQuerying strategy using semantic structured data (via IEML) as opposed to natural language : Isidore."
+  },
+  {
+    "objectID": "slides/26-04-14_pres_C2DH.html#bibliography",
+    "href": "slides/26-04-14_pres_C2DH.html#bibliography",
+    "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
+    "section": "Bibliography",
+    "text": "Bibliography\n\n\n\n\nChomsky, Noam. 1957. Syntactic Structures.\n\n\nde Solla Price, Derek John. 1963. Little Science, Big Science. George B 1962. New York: Columbia University Press.\n\n\nFirth, John Rupert. 1962. Studies in Linguistic Analysis. Repr. Special Volume of the Philological Society. Oxford: Blackwell.\n\n\nHarris, Zellig S. 1981. “Distributional Structure.” In Papers on Syntax, edited by Zellig S. Harris and Henry Hiż, 3–22. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-009-8467-7_1.\n\n\nMakri, Stephann, and Ann Blandford. 2012. “Coming Across Information Serendipitously – Part 1: A Process Model.” Journal of Documentation 68 (5): 684–705. https://doi.org/10.1108/00220411211256030.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nRice, Ronald E., Maureen McCreadie, and Shan-Ju Chang. 2001. “Results: Motivating Themes and Patterns of Browsing.” In Accessing and Browsing Information and Communication. The MIT Press. https://doi.org/10.7551/mitpress/1066.001.0001.\n\n\nTay, Aaron. 2026. “The Blank Box Problem: Why It’s Harder Than Ever to Know What to Type Into an AI Search Bar.” Substack Newsletter. Aaron Tay’s Musings about Librarianship."
   }
 ]
