@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nUnderstanding current AI tools’ impact on research and developping alternative AI tools\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nUnderstanding current AI tools’ impact on research and developping alternative AI tools\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nQuelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -817,5 +817,208 @@
     "title": "Understanding current AI tools’ impact on research and developping alternative AI tools",
     "section": "Bibliography",
     "text": "Bibliography\n\n\n\n\nChomsky, Noam. 1957. Syntactic Structures.\n\n\nde Solla Price, Derek John. 1963. Little Science, Big Science. George B 1962. New York: Columbia University Press.\n\n\nFirth, John Rupert. 1962. Studies in Linguistic Analysis. Repr. Special Volume of the Philological Society. Oxford: Blackwell.\n\n\nHarris, Zellig S. 1981. “Distributional Structure.” In Papers on Syntax, edited by Zellig S. Harris and Henry Hiż, 3–22. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-009-8467-7_1.\n\n\nMakri, Stephann, and Ann Blandford. 2012. “Coming Across Information Serendipitously – Part 1: A Process Model.” Journal of Documentation 68 (5): 684–705. https://doi.org/10.1108/00220411211256030.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nRice, Ronald E., Maureen McCreadie, and Shan-Ju Chang. 2001. “Results: Motivating Themes and Patterns of Browsing.” In Accessing and Browsing Information and Communication. The MIT Press. https://doi.org/10.7551/mitpress/1066.001.0001.\n\n\nTay, Aaron. 2026. “The Blank Box Problem: Why It’s Harder Than Ever to Know What to Type Into an AI Search Bar.” Substack Newsletter. Aaron Tay’s Musings about Librarianship."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#plan",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#plan",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Plan",
+    "text": "Plan\n\nLes assistants IA et la recherche documentaire\n\nLa sérendipité comme alternative épistémologique au régime de découvrabilité matérialisé par les outils d’IA actuels.\nPropositions pour le développements d’outils valorisant l’agentivité humaine."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#introduction",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#introduction",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Introduction",
+    "text": "Introduction\nCette communication présente la plus-value de la sérendipité comme alternative épistémique et fait état de propositions pour valoriser l’agentivité humaine dans les outils et fonctionnalités dites d’IA en contexte de recherche documentaire.\nContributions :\n\nDescription de l’influence possible de fonctionalités d’automatisation de tâches sémantiques dans l’écosystème de la production et diffusion de contenu savant.\nContribution théorique : la sérendipité comme support à l’agentivité humaine et alternative épistémologique aux paradigmes dominants de RI.\nPropositions techniques concrètes de valorisation de l’agentivité humaine."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#ia-et-ri",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#ia-et-ri",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "IA et RI",
+    "text": "IA et RI\nIA : “automatisation de la cognition” Abbass (2021)\nRecherche d’Information (RI) : mise en correspondance d’une requête avec un ou plusieurs documents.\nContexte : le sujet traverse toute la diffusion de la recherche à toutes les étapes: de l’écriture/édition à la diffusion et enfin la construction de requêtes."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#typologie-des-interventions-possibles-de-lia-dans-la-recherche-documentaire",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#typologie-des-interventions-possibles-de-lia-dans-la-recherche-documentaire",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Typologie des interventions possibles de l’IA dans la recherche documentaire",
+    "text": "Typologie des interventions possibles de l’IA dans la recherche documentaire\n\nCréation de métadonnées\nExpansion de requête\nRI\nClassement\nEnrichissement de la liste de résultats\nSynthèse et analyse des sources"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#création-de-métadonnées",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#création-de-métadonnées",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Création de métadonnées",
+    "text": "Création de métadonnées\nDésambiguisation, keywords, classification de topics, abstract. (OpenAlex, Isidore? -&gt; ML pour attribution de sujets reliés)."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#expansion-de-requête",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#expansion-de-requête",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Expansion de requête",
+    "text": "Expansion de requête\n\nMéthodes sans IA : thésaurus, ontologies.\nQuery expansion avec un LLM: “Écrit 10 variants de la requête suivantes”"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#méthodes-de-recherche-dinformation",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#méthodes-de-recherche-dinformation",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Méthodes de Recherche d’information",
+    "text": "Méthodes de Recherche d’information\n\nMéthodes classiques (non IA ?):\n\nrecherche exacte1 avec opérateurs booléens: ex: ‘citation’ retourne ‘The decrease in uncited articles and its effect on the concentration of citations’\nrecherche lexicale statistique: TF-iDF (term frequency inverse document frequency) et BM25 -&gt; ranking de la recherche terme par rapport à sa présence dans le corpus.\nex: SemanticScholar, Isidore\n\nRecherche sémantique (semantic search/dense retrieval) utilisation des plongements lexicaux de modèles types encodeur (BERT) ou décodeur (e.g. GPT) lors de la recherche: représentation vectorielle de la requête et de l’entièreté de la base de données -&gt; mesure de similarité cosinus.\n\nex: fonction “Semantic Results” de JSTOR\n\nRecherche hybride (hybrid search): mélange de 1. et 2. (pas forcément 50/50).\n\n-&gt; Impact sur la manière de requêter: 1. par mot-clé, 2. ‘en langue naturelle’.\nou regex!"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#reranking",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#reranking",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Reranking",
+    "text": "Reranking\nClassement des articles présentés selon un critère de pertinence par rapport à la requête.\n\nML classique (entraînement d’un modèle au classement)\nComparaison de vecteurs (requête/titre de l’article): score = proximité. ex: Primo search assistant1\nÉvaluation par un LLM type ‘gen AI’ : prompt de classement ou catégorisation de pertinence. Fournissent les explications: Ex: Asta\n\nSource: https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/015_Getting_Started_with_Primo_Research_Assistant"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#reranking-suite",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#reranking-suite",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Reranking (suite)",
+    "text": "Reranking (suite)\n\nAjout de critères externes Ex: semantic Scholar, “highly-cited papers”"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#enrichissement-de-la-liste-de-résultats",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#enrichissement-de-la-liste-de-résultats",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Enrichissement de la liste de résultats",
+    "text": "Enrichissement de la liste de résultats\n\nGoogle Scholar Labs donne une explication de la présence de l’article dans la liste de résultat"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#synthèse-des-articles-ou-assistant-de-revue-de-littérature",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#synthèse-des-articles-ou-assistant-de-revue-de-littérature",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Synthèse des articles ou assistant de revue de littérature",
+    "text": "Synthèse des articles ou assistant de revue de littérature\nSynthèse des articles extraits pour répondre à une question en langue naturelle =&gt; RAG.\n\nRAG simple: Elicit, SciSpace (source: Semantic Scolar, Open Alex), fonction TLDR de Semantic Scholar.\nDeep research : Agentic AI, spécialisation de plusieurs agents, retourne un rapport complet en quelques minutes. Fonctionalités spécialisés Ex: Consensus fonctionalité “Study Snapchot”."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#limites-des-outils-de-synthèse",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#limites-des-outils-de-synthèse",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Limites des outils de synthèse",
+    "text": "Limites des outils de synthèse\n\nQuelles bases de données ?\nBasé sur métadonnées seulement (abstract) ?\nPeut inventer des sources pour répondre à une question (-&gt; citogenesis phénomène qui précède les LLM et les lit review assistants.)\n\n\nThe AI-generated things get propagated into other real things, so students see them cited in real things and assume they’re real, and get confused as to why they lose points for using fake sources when other real sources use them (Klee 2025)"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#loracle",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#loracle",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "L’oracle",
+    "text": "L’oracle\n\neffet boîte noire\n“blank box”(Tay 2026)\n“sparkle” et discours utilitariste."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#la-modélisation-sémantique-basée-sur-lhypothèse-distributionnelle",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#la-modélisation-sémantique-basée-sur-lhypothèse-distributionnelle",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "La modélisation sémantique basée sur l’hypothèse distributionnelle",
+    "text": "La modélisation sémantique basée sur l’hypothèse distributionnelle\nHypothèse distributionnelle de Harris (1981).\n\nYou shall know a word by the company it keeps. — Firth (1962)\n\nvs. \n\nColorless green ideas sleep furiously — Chomsky (1957)\n\nDans le cadre d’une recherche d’information : faut-il chercher seulement ce qui est le plus probable ?\nConséquence : cristallistion d’un modèle sémantique induit depuis une probabilité basée sur une fréquence d’occurrence dès la requête effectuée et plus seulement pour la recherche d’articles pertinents.\nLa manière de requêter un moteur de recherche va déterminer les informations auxquelles nous avons accès et sur lesquelles nous basons nos recherches."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#découvrabilité",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#découvrabilité",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Découvrabilité",
+    "text": "Découvrabilité\nL’innovation et la recherche dépendent fortement de notre capacité à effectuer de nouveaux liens sémantiques.\nDeux faces :\n\ntrouvabilité : accéder à l’information que l’on cherche (côté de l’indexation documentaire)\nsérendipité : accéder de manière fortuite à ce qu’on ne sait pas ne pas savoir (côté utilisateur)\n\nBeaucoup étudié dans le contexte du e-commerce et la diffusion de contenus culturels sinon par les sciences de l’information et de la documentation."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#sérendipité-et-créativité",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#sérendipité-et-créativité",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Sérendipité et créativité",
+    "text": "Sérendipité et créativité\n‘browsing’ est un processus a 4 dimensions (Rice, McCreadie, and Chang 2001) :\n\nthe act of scanning;\nthe presence or absence of purpose;\nthe specificity of search outcomes or goals;\nand knowledge about the resource and object sought.\n\nLa sérendipité est le processus et le résultat de ce ‘chance encounter’ -&gt; créativité de la connexion.\n\nModélisation de la sérendipité (Makri and Blandford 2012)NB : dans ce modèle : dimension réflexive de la sérendipité par contraste avec le hasard."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#place-de-la-sérendipité-dans-la-science",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#place-de-la-sérendipité-dans-la-science",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Place de la sérendipité dans la science",
+    "text": "Place de la sérendipité dans la science\nLes approches exploratoires et sérendipitaires en recherche documentaire :\n\n“adjacent possible” (Kauffman 1996; Björneborn 2022) : contraintes environnementales donne lieu à une négociation entre exploitation et exploration (Monechi et al. 2017)\nexploitent la profusion pour générer des connexions inattendues (Bates 1989; Sandra Erdelez 1999)\nfavorisent le décloisonement disciplinaire (Dumas Primbault 2023)"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#la-sérendipité-et-le-numérique",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#la-sérendipité-et-le-numérique",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "La sérendipité et le numérique",
+    "text": "La sérendipité et le numérique\nL’exploration au coeur de l’expérience du numérique connecté :\n\nla force politique d’Internet (1969-2009) réside dans la prééminence donnée à une catégorie particulière d’activité : l’exploration. Internet s’est fondamentalement constitué sur le réaménagement de l’action autour de l’exploration : il a donné la prééminence à l’expérimentation sur l’intériorisation, aux tâtonnements incertains sur les apprentissages formels, au jeu et au défi sur l’examen scolaire. Il a structuré des communautés sceptiques, ouvertes et curieuses. — (Auray 2011)\n\nvs. l’émergence de logiques algorithmiques limitantes :\n\nWhile it was felt that some element of control could be exercised to attract “chance encounters”, there was a perception that such encounters may really be manifestations of the hidden, but logical, influences of information gatekeepers – inherent in, for example, library classification schemes — (Foster and Ford 2003)"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#défis-de-la-sérendipité",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#défis-de-la-sérendipité",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Défis de la sérendipité",
+    "text": "Défis de la sérendipité\nReproductibilité : comment garder trace d’un parcours exploratoire? On garde en mémoire un nombre limité d’étapes qui mènent à une résolution (Sanda Erdelez 2004).\nÉvaluation : comment évaluer l’impact d’une trouvaille ? Et l’intérêt d’une nouvelle fonctionnalité de recherche (Pouyllau 2023, 2025) ?\nDesign : comment expliciter la différence entre une recherche par mots-clés simple et une recherche assistée par une stratégie d’IA pour un.e utilisateur.ice sans connaissance particulière de ces enjeux ?"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#questions-à-lorigine-des-propositions",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#questions-à-lorigine-des-propositions",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Questions à l’origine des propositions",
+    "text": "Questions à l’origine des propositions\nComment concevoir des systèmes explicables qui :\n\nFavorisent la sérendipité et l’exploration critique ?\nComparent IA symbolique et IA connexionniste ?\nPermettent une visualisation réflexive du raisonnement algorithmique ?"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#changement-paradigmatique",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#changement-paradigmatique",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Changement paradigmatique",
+    "text": "Changement paradigmatique\nParadigme DH :\n\n« Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » — (Drucker 2013)\n\nContrefactualisation : (Chevillon 2026) cerner quelle variable explicative changer à l’algo pour obtenir un autre résultat : expliciter les possibles alternatifs.\nEt le “Delight” dans l’expérience utilisateur. (Rodwell, Neumann, and Lindner 2025)\nLe provotype :\nProvotype (Boer and Donovan 2012)\n=&gt; faire apparaitre la limite et le potentiel à la fois."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#lexploration-et-le-désordre",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#lexploration-et-le-désordre",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "L’exploration et le désordre",
+    "text": "L’exploration et le désordre\nFaire apparaitre d’autres facettes sémantiques pour permettre d’autres parcours : exaptation : recombination de ce qui est disponible.\nEx: françaiS au pluriel (Suchet 2026)"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#classification-et-quantification-comme-appui-au-jugement-humain",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#classification-et-quantification-comme-appui-au-jugement-humain",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Classification et quantification comme appui au jugement humain",
+    "text": "Classification et quantification comme appui au jugement humain\nExtraction sémantique aspectuelle basée sur une classification sélective et non une décision qu’on ne peut pas évaluer ex: classification selon une typologie ou un spectre de la pertinence d’une citation pour appuyer une évaluation plutôt qu’un commentaire rédigé synthétisant tout l’état de l’art de l’article.\nEx: Evidence-RAG du C2DH-JDH\nEx : Le dés/accord de citation dans un réseau citationnel"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#expertise-et-esprit-de-contradiction",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#expertise-et-esprit-de-contradiction",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Expertise et esprit de contradiction",
+    "text": "Expertise et esprit de contradiction\nProposer des points de comparaison: limiter l’effet “angle mort” en proposant certains documents jugés non pertinents par l’algorithmes: produire des rapports complets retraçant le parcours de sélection (critères du reranking, prompt de reformulation de la requête)\nEx: Visualisation côte-à-côte des panels de recherche dans IEML-RS\nEt Esprit de contradiction : permettre la correction et l’évaluation par l’utilisateur.ice.\nEx: ChainForge ou IEML-RS : (idée de Pierre Lévy : permettre la correction de la traduction automatique en IEML générée par Gemini)."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#bibliographie",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#bibliographie",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\n\n\n\nAbbass, Hussein. 2021. “Editorial: What Is Artificial Intelligence?” IEEE Transactions on Artificial Intelligence 2 (2): 94–95. https://doi.org/10.1109/TAI.2021.3096243.\n\n\nAuray, N. 2011. “Les technologies de l’information et le régime exploratoire.”\n\n\nBates, Marcia J. 1989. “The Design of Browsing and Berrypicking Techniques for the Online Search Interface.” Online Review 13 (5): 407–24. https://doi.org/10.1108/eb024320.\n\n\nBjörneborn, Lennart. 2022. “Adjacent Possible.” In The Palgrave Encyclopedia of the Possible, edited by Vlad Petre Glăveanu, 16–28. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-90913-0_100.\n\n\nBoer, Laurens, and Jared Donovan. 2012. “Provotypes for Participatory Innovation.” In Proceedings of the Designing Interactive Systems Conference, 388–97. Newcastle Upon Tyne United Kingdom: ACM. https://doi.org/10.1145/2317956.2318014.\n\n\nCai, Alice, Ian Arawjo, and Elena L. Glassman. 2024. “Antagonistic AI.” arXiv. https://doi.org/10.48550/arXiv.2402.07350.\n\n\nChevillon, Guillaume. 2026. Algorithmes queers: perturber les technologies, imaginer nos futurs. Culture 22. Montreuil: Éditions B42.\n\n\nChomsky, Noam. 1957. Syntactic Structures.\n\n\nDrucker, Johanna. 2013. “Performative Materiality and Theoretical Approaches to Interface.” Digital Humanities Quarterly 007 (1).\n\n\nDumas Primbault, Simon. 2023. “Naviguer dans les savoirs à l’ère numérique. Pour une ethnographie des pratiques informationnelles sur Gallica.” Études de communication. langages, information, médiations, no. 61 (December): 61–89. https://doi.org/10.4000/edc.16108.\n\n\nErdelez, Sanda. 2004. “Investigation of Information Encountering in the Controlled Research Environment.” Information Processing & Management 40 (6): 1013–25. https://doi.org/10.1016/j.ipm.2004.02.002.\n\n\nErdelez, Sandra. 1999. “Information Encountering: It’s More Than Just Bumping into Information.” Bulletin of the American Society for Information Science and Technology 25 (3): 26–29. https://doi.org/10.1002/bult.118.\n\n\nFirth, John Rupert. 1962. Studies in Linguistic Analysis. Repr. Special Volume of the Philological Society. Oxford: Blackwell.\n\n\nFoster, Allen, and Nigel Ford. 2003. “Serendipity and Information Seeking: An Empirical Study.” Journal of Documentation 59 (3): 321–40. https://doi.org/10.1108/00220410310472518.\n\n\nGoodfellow, Ian J., Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. “Generative Adversarial Networks.” arXiv. https://doi.org/10.48550/arXiv.1406.2661.\n\n\nHarris, Zellig S. 1981. “Distributional Structure.” In Papers on Syntax, edited by Zellig S. Harris and Henry Hiż, 3–22. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-009-8467-7_1.\n\n\nKauffman, Stuart A. 1996. “Investigations.” Working {{Papers}} 96-08-072. Santa Fe Institute. https://doi.org/None.\n\n\nKlee, Miles. 2025. “AI Is Inventing Academic Papers That Don’t Exist – And They’re Being Cited in Real Journals.” Rolling Stone.\n\n\nMakri, Stephann, and Ann Blandford. 2012. “Coming Across Information Serendipitously – Part 1: A Process Model.” Journal of Documentation 68 (5): 684–705. https://doi.org/10.1108/00220411211256030.\n\n\nMonechi, Bernardo, Ãlvaro Ruiz-Serrano, Francesca Tria, and Vittorio Loreto. 2017. “Waves of Novelties in the Expansion into the Adjacent Possible.” PLOS ONE 12 (6): e0179303. https://doi.org/10.1371/journal.pone.0179303.\n\n\nPerkins, David N. 1994. “Insight in Minds and Genes,” November. https://doi.org/10.7551/mitpress/4879.003.0022.\n\n\nPouyllau, Stéphane. 2023. “Utiliser isidore.science : un regard sur les usages d’un moteur de recherche académique.” {Keynote}.\n\n\n———. 2025. “&lt;&lt; Durabilité et refactorisation des instruments de la recherche en SHS : le cas d’isidore.science et le projet ISIDORE 2030 &gt;&gt;.” Montréal.\n\n\nRice, Ronald E., Maureen McCreadie, and Shan-Ju Chang. 2001. “Results: Motivating Themes and Patterns of Browsing.” In Accessing and Browsing Information and Communication. The MIT Press. https://doi.org/10.7551/mitpress/1066.001.0001.\n\n\nRodwell, Elizabeth, Kristina Neumann, and Peggy Lindner. 2025. “User Experience (UX) Heuristics for the Digital Humanities.” Digital Humanities Quarterly 019 (4).\n\n\nSchneider, Alexia. 2026. “An Imperfect AI to Uphold Human Agency : Vindicating the ‘Yes but’ of This World.” Short {{Talk}}. Montréal.\n\n\nSchneider, Alexia, Pierre Levy, and Marcello Vitali-Rosati. 2026. “Reclaiming Epistemic Agency in AI-Assisted Research: A Recom- Mender System That Reveals, Rather Than Hides, IR Logic.” Daejeon, South Corea.\n\n\nSuchet, Myriam. 2026. “En françaiS Au Pluriel.” En françaiS Au Pluriel. https://www.enfrancaisaupluriel.fr/pages/266.\n\n\nTay, Aaron. 2026. “The Blank Box Problem: Why It’s Harder Than Ever to Know What to Type Into an AI Search Bar.” Substack Newsletter. Aaron Tay’s Musings about Librarianship."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#sérendipité-créativité-et-llm",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#sérendipité-créativité-et-llm",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Sérendipité, créativité et LLM",
+    "text": "Sérendipité, créativité et LLM\n\nThe work of any creative system can be viewed as a process of search through a space of possibilities or a ‘possibility space’” — Perkins (1994) cité par Björneborn (2022)\n\nEspace latent : espace des possibles selon les contraintes définies par la développeuse de l’algorithme, contient tout ce qu’est capable de prédire un algorithme."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#expertise-et-friction",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#expertise-et-friction",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Expertise et friction",
+    "text": "Expertise et friction\n\nRapports complets retraçant la médiation algorithmique de la demande utilisateur.ice à la réponse ou à la liste d’articles en retour (critères du reranking, prompt de reformulation de la requête etc. ). Ex : développement en cours à Impresso.\nProposer des points de comparaison: limiter l’effet “angle mort” en proposant des critères de pertinences originaux (càd pas seulement définis par les interactions précédentes ou le nombre de citation)."
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#esprit-de-contradiction",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#esprit-de-contradiction",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "“Esprit de contradiction”",
+    "text": "“Esprit de contradiction”\nRéseaux antagoniste génératif (generative adversarial networks, GANs) (Goodfellow et al. 2014) et IA antagoniste (Cai, Arawjo, and Glassman 2024).\nEsprit de contradiction : permettre la correction et l’évaluation par l’utilisateur.ice. : (Schneider 2026) à venir INKE\nEx : IEML-RS (Schneider, Levy, and Vitali-Rosati 2026)"
+  },
+  {
+    "objectID": "slides/26-04-26_pres_placeSerendipiteRI.html#remerciements",
+    "href": "slides/26-04-26_pres_placeSerendipiteRI.html#remerciements",
+    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "section": "Remerciements",
+    "text": "Remerciements\nCes travaux ont bénéficié d’un octroi grâce au financement du Consulat général de France à Québec et du Fonds de recherche du Québec qui a permis un séjour de recherche au sein du Huma-Num Lab par la bourse de mobilité Sophie Germain.\n\nRecherche financée par le CRSH à travers le projet de partenariat Revue3.0 ainsi qu’une bourse du Réseau Circé de mutualisation et de recherche pour les revues scientifiques."
   }
 ]
