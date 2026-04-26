@@ -21,6 +21,9 @@ logo: "img/stickerAvecTexte.png"
 footer: "Alexia Schneider - 2026"
 ---
 
+## Introduction
+
+
 <!-- abstract ;
 
 
@@ -34,6 +37,15 @@ Si ces algorithmes permettent de personnaliser le contenus, on peut se demander 
 Derrière la question du simple accès à l'information, se pose celle de l'invisibilisation de certains points de vue et de l'impact qu'on ne peut mesurer des méthodes de valorisation de certaines publications. 
  -->
 
+
+**Cette communication présente la plus-value de la sérendipité comme alternative épistémique et fait état de propositions pour valoriser l'agentivité humaine dans les outils et fonctionnalités dites d'IA en contexte de recherche documentaire.**
+
+Contributions : 
+
+- Description de l'influence possible de fonctionalités d'automatisation de tâches sémantiques dans l'écosystème de la production et diffusion de contenu savant. 
+- Contribution théorique : la sérendipité comme support à l'agentivité humaine et  alternative épistémologique aux paradigmes dominants de RI.
+- Propositions techniques concrètes de valorisation de l'agentivité humaine. 
+
 ## Plan 
 
 1. Les assistants IA et la recherche documentaire  
@@ -44,23 +56,12 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 
 # Les assistants IA et la recherche documentaire  
 
-## Introduction
 
-
-**Cette communication présente la plus-value de la sérendipité comme alternative épistémique et fait état de propositions pour valoriser l'agentivité humaine dans les outils et fonctionnalités dites d'IA en contexte de recherche documentaire.**
-
-Contributions : 
-
-- Description de l'influence possible de fonctionalités d'automatisation de tâches sémantiques dans l'écosystème de la production et diffusion de contenu savant. 
-- Contribution théorique : la sérendipité comme support à l'agentivité humaine et  alternative épistémologique aux paradigmes dominants de RI.
-- Propositions techniques concrètes de valorisation de l'agentivité humaine. 
-
-
-## IA et RI
+## "Intelligence artificielle" et Recherche d'Information
 
 IA : "automatisation de la cognition" @abbassEditorialWhatArtificial2021
 
-Recherche d'Information (RI) : mise en correspondance d'une requête avec un ou plusieurs documents. 
+Recherche d'Information : mise en correspondance d'une requête avec un ou plusieurs documents. 
 
 Contexte : le sujet traverse toute la diffusion de la recherche à toutes les étapes: de l'écriture/édition à la diffusion et enfin la construction de requêtes. 
 
@@ -71,76 +72,50 @@ Contexte : le sujet traverse toute la diffusion de la recherche à toutes les é
 
 ## Typologie des interventions possibles de l'IA dans la recherche documentaire
 
-1. Création de métadonnées
-2. Expansion de requête
-3. RI 
-4. Classement
+1. Création de métadonnées : Désambiguisation, création de mots-clés, classification de sujets, produition d'abstract. Ex: Isidore -> _machine learning_ pour attribution de sujets reliés. 
+2. Expansion de requête : Thésaurus, ontologie vs. _query expansion_
+3. Méthode de recherche d'information : recherche lexicale (booléen, regex, TFiDF, BM25) vs. recherche dite sémantique (comparaison de vecteurs). 
+4. Classement/ranking  
 5. Enrichissement de la liste de résultats 
-6. Synthèse et analyse des sources
+6. Synthèse et analyse des sources : RAG, _deep search_
 
-## Création de métadonnées
+Typologie en partie proposée par @tayWhatWeActually2025.
 
-Désambiguisation, keywords, classification de topics, abstract. 
-(OpenAlex, Isidore? -> ML pour attribution de sujets reliés). 
-
-## Expansion de requête
-
-1. Méthodes sans IA : thésaurus, ontologies.
-
-2. _Query expansion_ avec un LLM: "Écrit 10 variants de la requête suivantes"
-
-## Méthodes de Recherche d'information 
-
-1. Méthodes classiques (non IA ?): 
-    - recherche exacte[^regex] avec opérateurs booléens: 
-    ex: '**citation**' retourne 'The decrease in uncited articles and its effect on the concentration of **citation**s'
-    - recherche lexicale statistique: TF-iDF (_term frequency inverse document frequency_) et BM25 -> ranking de la recherche terme par rapport à sa présence dans le corpus. 
-    - ex: SemanticScholar, Isidore
-
-2. Recherche sémantique (_semantic search_/_dense retrieval_) utilisation des plongements lexicaux de modèles types encodeur (BERT) ou décodeur (e.g. GPT) lors de la recherche: représentation vectorielle de la requête et de l'entièreté de la base de données -> mesure de similarité cosinus.
-    - ex: fonction "Semantic Results" de JSTOR 
-
-3. Recherche hybride (_hybrid search_): mélange de 1. et 2. (pas forcément 50/50). 
-
--> Impact sur la manière de requêter: 1. par mot-clé, 2. 'en langue naturelle'. 
-
-[^regex]: ou regex!
-
-## Reranking
+<!-- ## Reranking
 
 Classement des articles présentés selon un critère de pertinence par rapport à la requête. 
 
-1. ML classique (entraînement d'un modèle au classement)
+1. _Machine learning_ classique (entraînement d'un modèle au classement).
 
 2. Comparaison de vecteurs (requête/titre de l'article): score = proximité. ex: Primo search assistant[^primo]
 
 3. Évaluation par un LLM type 'gen AI' : prompt de classement ou catégorisation de pertinence. Fournissent les explications: Ex: Asta
 
+4. Ajout de critères externes Ex: SemanticScholar, "highly-cited papers"
+
+[^primo]: Source: https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/015_Getting_Started_with_Primo_Research_Assistant
+ -->
+
 ---
 
 ![Asta présente la justification de la catégorie de pertinence](img/asta.png)
-
-## Reranking (suite)
-
-4. Ajout de critères externes Ex: semantic Scholar, "highly-cited papers"
-
-[^primo]: Source: https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/015_Getting_Started_with_Primo_Research_Assistant
-
-## Enrichissement de la liste de résultats
+<!-- 
+## Enrichissement de la liste de résultats -->
+--- 
 
 ![Google Scholar Labs donne une explication de la présence de l'article dans la liste de résultat](img/googlescholarlabs.png)
 
-## Synthèse des articles ou assistant de revue de littérature
+<!-- ## Synthèse des articles ou assistant de revue de littérature
 
 Synthèse des articles extraits pour répondre à une question en langue naturelle => RAG. 
 
 1. RAG simple: Elicit,  SciSpace (source: Semantic Scolar, Open Alex), fonction TLDR de Semantic Scholar. 
 
-2. _Deep research_ : Agentic AI, spécialisation de plusieurs agents, retourne un rapport complet en quelques minutes. Fonctionalités spécialisés Ex: Consensus fonctionalité "Study Snapchot".  
+2. _Deep research_ : Agentic AI, spécialisation de plusieurs agents, retourne un rapport complet en quelques minutes. Fonctionalités spécialisés Ex: Consensus fonctionalité "Study Snapchot".   -->
 
 --- 
 
-![Undermind.ai](img/undermindai.png)
+![Deep research avec Undermind.ai](img/undermindai.png)
 
 [source](https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1)
 
@@ -156,7 +131,7 @@ Synthèse des articles extraits pour répondre à une question en langue naturel
 
 - effet boîte noire
 - "blank box"[@tayBlankBoxProblem2026]
-- "sparkle" et discours utilitariste.
+- la pensée magique du "sparkle" et le discours utilitariste.
 
 # La sérendipité comme alternative épistémologique
 
@@ -179,7 +154,6 @@ Dans le cadre d'une recherche d'information : **faut-il chercher seulement ce qu
 
 La manière de requêter un moteur de recherche va déterminer les informations auxquelles nous avons accès et sur lesquelles nous basons nos recherches.   
 
-# La sérendipité comme alternative épistémologique 
 
 ## Découvrabilité 
 
@@ -190,7 +164,7 @@ Deux faces :
 - trouvabilité : accéder à l'information que l'on cherche (côté de l'indexation documentaire)
 - sérendipité : accéder de manière fortuite à ce qu'on ne sait pas ne pas savoir (côté utilisateur)
 
-Beaucoup étudié dans le contexte du e-commerce et la diffusion de contenus culturels sinon par les sciences de l'information et de la documentation. 
+Beaucoup étudié dans le contexte du e-commerce et la diffusion de contenus culturels sinon par les sciences de l'information et de la documentation pour la découvrabilité en science.  
 
 ## Sérendipité et créativité
 
@@ -203,10 +177,9 @@ Beaucoup étudié dans le contexte du e-commerce et la diffusion de contenus cul
 
 La sérendipité est le processus et le résultat de ce '_chance encounter_' -> créativité de la connexion. 
 
-
 ![Modélisation de la sérendipité [@makriComingInformationSerendipitously2012]](img/modelSerendipityMakri.png)
 
-NB : dans ce modèle : **dimension réflexive** de la sérendipité par contraste avec le hasard.
+Importance de la **dimension réflexive**  pour distinguer la sérendipité du hasard.
 
 ## Sérendipité, créativité et LLM
 
@@ -250,41 +223,38 @@ Reproductibilité : comment garder trace d'un parcours exploratoire? On garde en
 
 Évaluation : comment évaluer l'impact d'une trouvaille ? Et l'intérêt d'une nouvelle fonctionnalité de recherche [@pouyllauUtiliserIsidorescienceRegard2023; @pouyllauDurabiliteRefactorisationInstruments2025] ?
 
-Design : comment expliciter la différence entre une recherche par mots-clés simple et une recherche assistée par une stratégie d'IA pour un.e utilisateur.ice sans connaissance particulière de ces enjeux ?
+Design : de quelle manière peut-on créer des points d'affordance qui permettent aux utilisateur.ices de _trouver du sens_ ?
+
+## Questions de recherche 
+
+Comment concevoir des systèmes explicables qui :
+
+- Se trouvent au centre d'environnement favorisent la sérendipité et l’exploration critique ?
+
+- Permettent une interaction réflexive avec l'algorithme ?
 
 # Propositions 
 
 
-## Questions à l'origine des propositions
+## Laisser place à l'incertitude
 
-Comment concevoir des systèmes explicables qui :
+Un changement paradigmatique. 
 
-- Favorisent la sérendipité et l’exploration critique ?
-
-- Comparent IA symbolique et IA connexionniste ?
-
-- Permettent une visualisation réflexive du raisonnement algorithmique ?
-
-## Changement paradigmatique
-
-Paradigme DH : 
+Le paradigme des Humanités Numériques : 
 
 > « Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » 
 > --- [@druckerPerformativeMaterialityTheoretical2013]
 
 Contrefactualisation :  [@chevillonAlgorithmesQueersPerturber2026] cerner quelle variable explicative changer à l'algo pour obtenir un autre résultat : expliciter les possibles alternatifs. 
 
-Et le "Delight" dans l'expérience utilisateur. [@rodwellUserExperienceUX2025] 
+Et le _delight_ dans l'expérience utilisateur. [@rodwellUserExperienceUX2025] 
+<!-- 
+Ex : le _Provotype_ [@boerProvotypesParticipatoryInnovation2012] -->
 
-Le provotype : 
+=> Faire apparaitre les incertitudes et les limites des outils. 
 
-_Provotype_ [@boerProvotypesParticipatoryInnovation2012]
+## Désordonner  
 
-=> faire apparaitre la limite et le potentiel à la fois. 
-
-## L'exploration et le désordre  
-
-Faire apparaitre d'autres facettes sémantiques pour permettre d'autres parcours : _exaptation_ :  recombination de ce qui est disponible. 
 
 Ex: [françaiS au pluriel](https://www.enfrancaisaupluriel.fr/library?mode=tree)  [@suchetFrancaiSAuPluriel2026]
 
@@ -302,15 +272,11 @@ Ex: [françaiS au pluriel](https://www.enfrancaisaupluriel.fr/library?mode=tree)
 ![françaiS au pluriel : historique](img/francaisPluriel_historique.png)
 
 
-## Classification et quantification comme appui au jugement humain
+## Explorer d'autres facettes
 
-Extraction sémantique aspectuelle basée sur une classification sélective et non une décision qu'on ne peut pas évaluer ex: classification selon une typologie ou un spectre de la pertinence d'une citation pour appuyer une évaluation plutôt qu'un commentaire rédigé synthétisant tout l'état de l'art de l'article. 
+Mettre en valeur des facettes sémantiques sous-explorées pour offrir d'autres parcours. 
 
-
-Ex: Evidence-RAG du C2DH-JDH
-
-
-Ex : Le dés/accord de citation dans un réseau citationnel 
+Ex: typologie du type de citation -> réseau citationnel au-delà de la quantification
 
 ---
 
@@ -321,20 +287,39 @@ Ex : Le dés/accord de citation dans un réseau citationnel
 ![Visualisation par type de citation pour un article (en cours de développement : classifications  et scores randomisées)](img/desaccordCitation_articleView.png)
 
 
-## Expertise et friction
 
+## Restitution comme appui à l'expertise 
 
-- Rapports complets retraçant la médiation algorithmique de la demande utilisateur.ice à la réponse ou à la liste d'articles en retour (critères du reranking, prompt de reformulation de la requête etc. ). Ex : développement en cours à Impresso. 
+- Rapports complets retraçant la médiation algorithmique de la demande utilisateur.ice à la réponse ou à la liste d'articles en retour (critères du reranking, prompt de reformulation de la requête etc. ). 
 
-- Proposer des points de comparaison: limiter l'effet "angle mort" en proposant des critères de pertinences originaux (càd pas seulement définis par les interactions précédentes ou le nombre de citation). 
-
+- Exposer les limites et capacités de l'outil Ex : Barista, l'assistant de constructeur de requête sur Impresso  
 
 ---
 
 ![Visualisation côte-à-côte des panels de recherche dans IEML-RS
 ](img/etape6_affichageArticles.png)
 
-## "Esprit de contradiction"
+
+## Spécialisation de la classification et de la quantification 
+
+La classification spécialisée assiste le jugement humain :
+
+Ex: Evidence-RAG du _Journal of Digital History_ : assiste l'éditeur dans la restitution de l'évaluation d'un article : situe la pertinence d'un commentaire par rapport à l'article évalué.
+
+
+Ex : Le dés/accord de citation dans un réseau citationnel 
+
+
+
+## Exaptation et imperfection
+
+(théorie de l'évolution): "adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n'avaient pas été initialement sélectionnés."
+
+
+Ex: "Détournement" de la recherche de moteurs de recherche réputé défaillant de Gallica [@dumasprimbaultDecouvrabiliteCommePrise2025]
+
+
+## Friction 
 
 Réseaux antagoniste génératif (_generative adversarial networks, GANs_) [@goodfellowGenerativeAdversarialNetworks2014] et IA antagoniste [@caiAntagonisticAI2024]. 
 
@@ -357,7 +342,15 @@ Ex : IEML-RS [@schneiderReclaimingEpistemicAgency2026]
 <!-- 
  (idée de Pierre Lévy : permettre la correction de la traduction automatique en IEML générée par Gemini). -->
 
+## Résumé des propositions
 
+- Laisser place à l'incertitude
+- Désordonner 
+- Explorer d'autres facettes 
+- Restitution comme appui à l'expertise
+- Spécialisation de la classification et la quantification
+- Exaptation 
+- Friction
 
 # Conclusion
 

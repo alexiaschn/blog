@@ -164,8 +164,8 @@ Alexia Schneider <a href="https://orcid.org/0009-0000-0651-9792" class="quarto-t
 
   <p class="date">2026-04-14</p>
 </section>
-<section class="slide level2">
-
+<section id="introduction" class="slide level2">
+<h2>Introduction</h2>
 <!-- abstract ;
 
 
@@ -178,6 +178,13 @@ opérés par les algorithmes de RI.
 Si ces algorithmes permettent de personnaliser le contenus, on peut se demander s'ils ne provoquent pas des "bulles de filtre" comme les nomme Eli Pariser, et s'ils se basent sur des métriques de citation, alors on peut se demander s'ils ne favorisent pas la concentration de citation aux mains d'un nombre réduit. 
 Derrière la question du simple accès à l'information, se pose celle de l'invisibilisation de certains points de vue et de l'impact qu'on ne peut mesurer des méthodes de valorisation de certaines publications. 
  -->
+<p><strong>Cette communication présente la plus-value de la sérendipité comme alternative épistémique et fait état de propositions pour valoriser l’agentivité humaine dans les outils et fonctionnalités dites d’IA en contexte de recherche documentaire.</strong></p>
+<p>Contributions :</p>
+<ul>
+<li>Description de l’influence possible de fonctionalités d’automatisation de tâches sémantiques dans l’écosystème de la production et diffusion de contenu savant.</li>
+<li>Contribution théorique : la sérendipité comme support à l’agentivité humaine et alternative épistémologique aux paradigmes dominants de RI.</li>
+<li>Propositions techniques concrètes de valorisation de l’agentivité humaine.</li>
+</ul>
 </section>
 <section id="plan" class="slide level2 scrollable">
 <h2>Plan</h2>
@@ -194,20 +201,10 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 <h1>Les assistants IA et la recherche documentaire</h1>
 
 </section>
-<section id="introduction" class="slide level2">
-<h2>Introduction</h2>
-<p><strong>Cette communication présente la plus-value de la sérendipité comme alternative épistémique et fait état de propositions pour valoriser l’agentivité humaine dans les outils et fonctionnalités dites d’IA en contexte de recherche documentaire.</strong></p>
-<p>Contributions :</p>
-<ul>
-<li>Description de l’influence possible de fonctionalités d’automatisation de tâches sémantiques dans l’écosystème de la production et diffusion de contenu savant.</li>
-<li>Contribution théorique : la sérendipité comme support à l’agentivité humaine et alternative épistémologique aux paradigmes dominants de RI.</li>
-<li>Propositions techniques concrètes de valorisation de l’agentivité humaine.</li>
-</ul>
-</section>
-<section id="ia-et-ri" class="slide level2">
-<h2>IA et RI</h2>
+<section id="intelligence-artificielle-et-recherche-dinformation" class="slide level2">
+<h2>“Intelligence artificielle” et Recherche d’Information</h2>
 <p>IA : “automatisation de la cognition” <span class="citation" data-cites="abbassEditorialWhatArtificial2021">Abbass (<a href="#/bibliographie" role="doc-biblioref" onclick="">2021</a>)</span></p>
-<p>Recherche d’Information (RI) : mise en correspondance d’une requête avec un ou plusieurs documents.</p>
+<p>Recherche d’Information : mise en correspondance d’une requête avec un ou plusieurs documents.</p>
 <p>Contexte : le sujet traverse toute la diffusion de la recherche à toutes les étapes: de l’écriture/édition à la diffusion et enfin la construction de requêtes.</p>
 </section>
 <section class="slide level2">
@@ -217,77 +214,50 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 <section id="typologie-des-interventions-possibles-de-lia-dans-la-recherche-documentaire" class="slide level2 scrollable">
 <h2>Typologie des interventions possibles de l’IA dans la recherche documentaire</h2>
 <ol type="1">
-<li>Création de métadonnées</li>
-<li>Expansion de requête</li>
-<li>RI</li>
-<li>Classement</li>
+<li>Création de métadonnées : Désambiguisation, création de mots-clés, classification de sujets, produition d’abstract. Ex: Isidore -&gt; <em>machine learning</em> pour attribution de sujets reliés.</li>
+<li>Expansion de requête : Thésaurus, ontologie vs.&nbsp;<em>query expansion</em></li>
+<li>Méthode de recherche d’information : recherche lexicale (booléen, regex, TFiDF, BM25) vs.&nbsp;recherche dite sémantique (comparaison de vecteurs).</li>
+<li>Classement/ranking<br>
+</li>
 <li>Enrichissement de la liste de résultats</li>
-<li>Synthèse et analyse des sources</li>
+<li>Synthèse et analyse des sources : RAG, <em>deep search</em></li>
 </ol>
+<p>Typologie en partie proposée par <span class="citation" data-cites="tayWhatWeActually2025">Tay (<a href="#/bibliographie" role="doc-biblioref" onclick="">2025</a>)</span>.</p>
+<!-- ## Reranking
+
+Classement des articles présentés selon un critère de pertinence par rapport à la requête. 
+
+1. _Machine learning_ classique (entraînement d'un modèle au classement).
+
+2. Comparaison de vecteurs (requête/titre de l'article): score = proximité. ex: Primo search assistant[^primo]
+
+3. Évaluation par un LLM type 'gen AI' : prompt de classement ou catégorisation de pertinence. Fournissent les explications: Ex: Asta
+
+4. Ajout de critères externes Ex: SemanticScholar, "highly-cited papers"
+
+[^primo]: Source: https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/015_Getting_Started_with_Primo_Research_Assistant
+ -->
 </section>
-<section id="création-de-métadonnées" class="slide level2">
-<h2>Création de métadonnées</h2>
-<p>Désambiguisation, keywords, classification de topics, abstract. (OpenAlex, Isidore? -&gt; ML pour attribution de sujets reliés).</p>
+<section class="slide level2">
+
+<p><img data-src="img/asta.png" alt="Asta présente la justification de la catégorie de pertinence"> <!-- 
+## Enrichissement de la liste de résultats --></p>
 </section>
-<section id="expansion-de-requête" class="slide level2 scrollable">
-<h2>Expansion de requête</h2>
-<ol type="1">
-<li><p>Méthodes sans IA : thésaurus, ontologies.</p></li>
-<li><p><em>Query expansion</em> avec un LLM: “Écrit 10 variants de la requête suivantes”</p></li>
-</ol>
-</section>
-<section id="méthodes-de-recherche-dinformation" class="slide level2 scrollable">
-<h2>Méthodes de Recherche d’information</h2>
-<ol type="1">
-<li>Méthodes classiques (non IA ?):
-<ul>
-<li>recherche exacte<sup>1</sup> avec opérateurs booléens: ex: ‘<strong>citation</strong>’ retourne ‘The decrease in uncited articles and its effect on the concentration of <strong>citation</strong>s’</li>
-<li>recherche lexicale statistique: TF-iDF (<em>term frequency inverse document frequency</em>) et BM25 -&gt; ranking de la recherche terme par rapport à sa présence dans le corpus.</li>
-<li>ex: SemanticScholar, Isidore</li>
-</ul></li>
-<li>Recherche sémantique (<em>semantic search</em>/<em>dense retrieval</em>) utilisation des plongements lexicaux de modèles types encodeur (BERT) ou décodeur (e.g.&nbsp;GPT) lors de la recherche: représentation vectorielle de la requête et de l’entièreté de la base de données -&gt; mesure de similarité cosinus.
-<ul>
-<li>ex: fonction “Semantic Results” de JSTOR</li>
-</ul></li>
-<li>Recherche hybride (<em>hybrid search</em>): mélange de 1. et 2. (pas forcément 50/50).</li>
-</ol>
-<p>-&gt; Impact sur la manière de requêter: 1. par mot-clé, 2. ‘en langue naturelle’.</p>
-<aside><ol class="aside-footnotes"><li id="fn1"><p>ou regex!</p></li></ol></aside></section>
-<section id="reranking" class="slide level2 scrollable">
-<h2>Reranking</h2>
-<p>Classement des articles présentés selon un critère de pertinence par rapport à la requête.</p>
-<ol type="1">
-<li><p>ML classique (entraînement d’un modèle au classement)</p></li>
-<li><p>Comparaison de vecteurs (requête/titre de l’article): score = proximité. ex: Primo search assistant<sup>1</sup></p></li>
-<li><p>Évaluation par un LLM type ‘gen AI’ : prompt de classement ou catégorisation de pertinence. Fournissent les explications: Ex: Asta</p></li>
-</ol>
-<aside><ol class="aside-footnotes"><li id="fn2"><p>Source: https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/015_Getting_Started_with_Primo_Research_Assistant</p></li></ol></aside></section>
 <section class="slide level2">
 
 
-<img data-src="img/asta.png" class="r-stretch quarto-figure-center"><p class="caption">Asta présente la justification de la catégorie de pertinence</p></section>
-<section id="reranking-suite" class="slide level2 scrollable">
-<h2>Reranking (suite)</h2>
-<ol start="4" type="1">
-<li>Ajout de critères externes Ex: semantic Scholar, “highly-cited papers”</li>
-</ol>
-</section>
-<section id="enrichissement-de-la-liste-de-résultats" class="slide level2">
-<h2>Enrichissement de la liste de résultats</h2>
+<!-- ## Synthèse des articles ou assistant de revue de littérature
 
+Synthèse des articles extraits pour répondre à une question en langue naturelle => RAG. 
+
+1. RAG simple: Elicit,  SciSpace (source: Semantic Scolar, Open Alex), fonction TLDR de Semantic Scholar. 
+
+2. _Deep research_ : Agentic AI, spécialisation de plusieurs agents, retourne un rapport complet en quelques minutes. Fonctionalités spécialisés Ex: Consensus fonctionalité "Study Snapchot".   -->
 <img data-src="img/googlescholarlabs.png" class="r-stretch quarto-figure-center"><p class="caption">Google Scholar Labs donne une explication de la présence de l’article dans la liste de résultat</p></section>
-<section id="synthèse-des-articles-ou-assistant-de-revue-de-littérature" class="slide level2 scrollable">
-<h2>Synthèse des articles ou assistant de revue de littérature</h2>
-<p>Synthèse des articles extraits pour répondre à une question en langue naturelle =&gt; RAG.</p>
-<ol type="1">
-<li><p>RAG simple: Elicit, SciSpace (source: Semantic Scolar, Open Alex), fonction TLDR de Semantic Scholar.</p></li>
-<li><p><em>Deep research</em> : Agentic AI, spécialisation de plusieurs agents, retourne un rapport complet en quelques minutes. Fonctionalités spécialisés Ex: Consensus fonctionalité “Study Snapchot”.</p></li>
-</ol>
-</section>
 <section class="slide level2">
 
 
-<img data-src="img/undermindai.png" class="r-stretch quarto-figure-center"><p class="caption">Undermind.ai</p><p><a href="https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1">source</a></p>
+<img data-src="img/undermindai.png" class="r-stretch quarto-figure-center"><p class="caption">Deep research avec Undermind.ai</p><p><a href="https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1">source</a></p>
 </section>
 <section id="limites-des-outils-de-synthèse" class="slide level2">
 <h2>Limites des outils de synthèse</h2>
@@ -305,7 +275,7 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 <ul>
 <li>effet boîte noire</li>
 <li>“blank box”<span class="citation" data-cites="tayBlankBoxProblem2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Tay 2026</a>)</span></li>
-<li>“sparkle” et discours utilitariste.</li>
+<li>la pensée magique du “sparkle” et le discours utilitariste.</li>
 </ul>
 </section></section>
 <section>
@@ -326,11 +296,6 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 <p>Dans le cadre d’une recherche d’information : <strong>faut-il chercher seulement ce qui est le plus probable ?</strong></p>
 <p><strong>Conséquence : cristallistion d’un modèle sémantique induit depuis une probabilité basée sur une fréquence d’occurrence dès la requête effectuée</strong> et plus seulement pour la recherche d’articles pertinents.</p>
 <p>La manière de requêter un moteur de recherche va déterminer les informations auxquelles nous avons accès et sur lesquelles nous basons nos recherches.</p>
-</section></section>
-<section>
-<section id="la-sérendipité-comme-alternative-épistémologique-1" class="title-slide slide level1 center">
-<h1>La sérendipité comme alternative épistémologique</h1>
-
 </section>
 <section id="découvrabilité" class="slide level2">
 <h2>Découvrabilité</h2>
@@ -340,7 +305,7 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 <li>trouvabilité : accéder à l’information que l’on cherche (côté de l’indexation documentaire)</li>
 <li>sérendipité : accéder de manière fortuite à ce qu’on ne sait pas ne pas savoir (côté utilisateur)</li>
 </ul>
-<p>Beaucoup étudié dans le contexte du e-commerce et la diffusion de contenus culturels sinon par les sciences de l’information et de la documentation.</p>
+<p>Beaucoup étudié dans le contexte du e-commerce et la diffusion de contenus culturels sinon par les sciences de l’information et de la documentation pour la découvrabilité en science.</p>
 </section>
 <section id="sérendipité-et-créativité" class="slide level2 scrollable">
 <h2>Sérendipité et créativité</h2>
@@ -353,7 +318,7 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 </ol>
 <p>La sérendipité est le processus et le résultat de ce ‘<em>chance encounter</em>’ -&gt; créativité de la connexion.</p>
 
-<img data-src="img/modelSerendipityMakri.png" class="r-stretch quarto-figure-center"><p class="caption">Modélisation de la sérendipité <span class="citation" data-cites="makriComingInformationSerendipitously2012">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Makri and Blandford 2012</a>)</span></p><p>NB : dans ce modèle : <strong>dimension réflexive</strong> de la sérendipité par contraste avec le hasard.</p>
+<img data-src="img/modelSerendipityMakri.png" class="r-stretch quarto-figure-center"><p class="caption">Modélisation de la sérendipité <span class="citation" data-cites="makriComingInformationSerendipitously2012">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Makri and Blandford 2012</a>)</span></p><p>Importance de la <strong>dimension réflexive</strong> pour distinguer la sérendipité du hasard.</p>
 </section>
 <section id="sérendipité-créativité-et-llm" class="slide level2">
 <h2>Sérendipité, créativité et LLM</h2>
@@ -387,37 +352,35 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 <h2>Défis de la sérendipité</h2>
 <p>Reproductibilité : comment garder trace d’un parcours exploratoire? On garde en mémoire un nombre limité d’étapes qui mènent à une résolution <span class="citation" data-cites="erdelezInvestigationInformationEncountering2004">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Sanda Erdelez 2004</a>)</span>.</p>
 <p>Évaluation : comment évaluer l’impact d’une trouvaille ? Et l’intérêt d’une nouvelle fonctionnalité de recherche <span class="citation" data-cites="pouyllauUtiliserIsidorescienceRegard2023 pouyllauDurabiliteRefactorisationInstruments2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Pouyllau 2023</a>, <a href="#/bibliographie" role="doc-biblioref" onclick="">2025</a>)</span> ?</p>
-<p>Design : comment expliciter la différence entre une recherche par mots-clés simple et une recherche assistée par une stratégie d’IA pour un.e utilisateur.ice sans connaissance particulière de ces enjeux ?</p>
+<p>Design : de quelle manière peut-on créer des points d’affordance qui permettent aux utilisateur.ices de <em>trouver du sens</em> ?</p>
+</section>
+<section id="questions-de-recherche" class="slide level2">
+<h2>Questions de recherche</h2>
+<p>Comment concevoir des systèmes explicables qui :</p>
+<ul>
+<li><p>Se trouvent au centre d’environnement favorisent la sérendipité et l’exploration critique ?</p></li>
+<li><p>Permettent une interaction réflexive avec l’algorithme ?</p></li>
+</ul>
 </section></section>
 <section>
 <section id="propositions" class="title-slide slide level1 center">
 <h1>Propositions</h1>
 
 </section>
-<section id="questions-à-lorigine-des-propositions" class="slide level2">
-<h2>Questions à l’origine des propositions</h2>
-<p>Comment concevoir des systèmes explicables qui :</p>
-<ul>
-<li><p>Favorisent la sérendipité et l’exploration critique ?</p></li>
-<li><p>Comparent IA symbolique et IA connexionniste ?</p></li>
-<li><p>Permettent une visualisation réflexive du raisonnement algorithmique ?</p></li>
-</ul>
-</section>
-<section id="changement-paradigmatique" class="slide level2">
-<h2>Changement paradigmatique</h2>
-<p>Paradigme DH :</p>
+<section id="laisser-place-à-lincertitude" class="slide level2">
+<h2>Laisser place à l’incertitude</h2>
+<p>Un changement paradigmatique.</p>
+<p>Le paradigme des Humanités Numériques :</p>
 <blockquote>
 <p>« Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » — <span class="citation" data-cites="druckerPerformativeMaterialityTheoretical2013">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Drucker 2013</a>)</span></p>
 </blockquote>
 <p>Contrefactualisation : <span class="citation" data-cites="chevillonAlgorithmesQueersPerturber2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Chevillon 2026</a>)</span> cerner quelle variable explicative changer à l’algo pour obtenir un autre résultat : expliciter les possibles alternatifs.</p>
-<p>Et le “Delight” dans l’expérience utilisateur. <span class="citation" data-cites="rodwellUserExperienceUX2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Rodwell, Neumann, and Lindner 2025</a>)</span></p>
-<p>Le provotype :</p>
-<p><em>Provotype</em> <span class="citation" data-cites="boerProvotypesParticipatoryInnovation2012">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Boer and Donovan 2012</a>)</span></p>
-<p>=&gt; faire apparaitre la limite et le potentiel à la fois.</p>
+<p>Et le <em>delight</em> dans l’expérience utilisateur. <span class="citation" data-cites="rodwellUserExperienceUX2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Rodwell, Neumann, and Lindner 2025</a>)</span> <!-- 
+Ex : le _Provotype_ [@boerProvotypesParticipatoryInnovation2012] --></p>
+<p>=&gt; Faire apparaitre les incertitudes et les limites des outils.</p>
 </section>
-<section id="lexploration-et-le-désordre" class="slide level2">
-<h2>L’exploration et le désordre</h2>
-<p>Faire apparaitre d’autres facettes sémantiques pour permettre d’autres parcours : <em>exaptation</em> : recombination de ce qui est disponible.</p>
+<section id="désordonner" class="slide level2">
+<h2>Désordonner</h2>
 <p>Ex: <a href="https://www.enfrancaisaupluriel.fr/library?mode=tree">françaiS au pluriel</a> <span class="citation" data-cites="suchetFrancaiSAuPluriel2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Suchet 2026</a>)</span></p>
 </section>
 <section class="slide level2">
@@ -432,11 +395,10 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 
 
 <img data-src="img/francaisPluriel_historique.png" class="r-stretch quarto-figure-center"><p class="caption">françaiS au pluriel : historique</p></section>
-<section id="classification-et-quantification-comme-appui-au-jugement-humain" class="slide level2">
-<h2>Classification et quantification comme appui au jugement humain</h2>
-<p>Extraction sémantique aspectuelle basée sur une classification sélective et non une décision qu’on ne peut pas évaluer ex: classification selon une typologie ou un spectre de la pertinence d’une citation pour appuyer une évaluation plutôt qu’un commentaire rédigé synthétisant tout l’état de l’art de l’article.</p>
-<p>Ex: Evidence-RAG du C2DH-JDH</p>
-<p>Ex : Le dés/accord de citation dans un réseau citationnel</p>
+<section id="explorer-dautres-facettes" class="slide level2">
+<h2>Explorer d’autres facettes</h2>
+<p>Mettre en valeur des facettes sémantiques sous-explorées pour offrir d’autres parcours.</p>
+<p>Ex: typologie du type de citation -&gt; réseau citationnel au-delà de la quantification</p>
 </section>
 <section class="slide level2">
 
@@ -446,19 +408,30 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 
 
 <img data-src="img/desaccordCitation_articleView.png" class="r-stretch quarto-figure-center"><p class="caption">Visualisation par type de citation pour un article (en cours de développement : classifications et scores randomisées)</p></section>
-<section id="expertise-et-friction" class="slide level2">
-<h2>Expertise et friction</h2>
+<section id="restitution-comme-appui-à-lexpertise" class="slide level2">
+<h2>Restitution comme appui à l’expertise</h2>
 <ul>
-<li><p>Rapports complets retraçant la médiation algorithmique de la demande utilisateur.ice à la réponse ou à la liste d’articles en retour (critères du reranking, prompt de reformulation de la requête etc. ). Ex : développement en cours à Impresso.</p></li>
-<li><p>Proposer des points de comparaison: limiter l’effet “angle mort” en proposant des critères de pertinences originaux (càd pas seulement définis par les interactions précédentes ou le nombre de citation).</p></li>
+<li><p>Rapports complets retraçant la médiation algorithmique de la demande utilisateur.ice à la réponse ou à la liste d’articles en retour (critères du reranking, prompt de reformulation de la requête etc. ).</p></li>
+<li><p>Exposer les limites et capacités de l’outil Ex : Barista, l’assistant de constructeur de requête sur Impresso</p></li>
 </ul>
 </section>
 <section class="slide level2">
 
 
 <img data-src="img/etape6_affichageArticles.png" class="r-stretch quarto-figure-center"><p class="caption">Visualisation côte-à-côte des panels de recherche dans IEML-RS</p></section>
-<section id="esprit-de-contradiction" class="slide level2">
-<h2>“Esprit de contradiction”</h2>
+<section id="spécialisation-de-la-classification-et-de-la-quantification" class="slide level2">
+<h2>Spécialisation de la classification et de la quantification</h2>
+<p>La classification spécialisée assiste le jugement humain :</p>
+<p>Ex: Evidence-RAG du <em>Journal of Digital History</em> : assiste l’éditeur dans la restitution de l’évaluation d’un article : situe la pertinence d’un commentaire par rapport à l’article évalué.</p>
+<p>Ex : Le dés/accord de citation dans un réseau citationnel</p>
+</section>
+<section id="exaptation-et-imperfection" class="slide level2">
+<h2>Exaptation et imperfection</h2>
+<p>(théorie de l’évolution): “adaptation sélective opportuniste, privilégiant des caractères qui sont utiles à une nouvelle fonction, pour laquelle ils n’avaient pas été initialement sélectionnés.”</p>
+<p>Ex: “Détournement” de la recherche de moteurs de recherche réputé défaillant de Gallica <span class="citation" data-cites="dumasprimbaultDecouvrabiliteCommePrise2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Dumas Primbault 2025</a>)</span></p>
+</section>
+<section id="friction" class="slide level2">
+<h2>Friction</h2>
 <p>Réseaux antagoniste génératif (<em>generative adversarial networks, GANs</em>) <span class="citation" data-cites="goodfellowGenerativeAdversarialNetworks2014">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Goodfellow et al. 2014</a>)</span> et IA antagoniste <span class="citation" data-cites="caiAntagonisticAI2024">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Cai, Arawjo, and Glassman 2024</a>)</span>.</p>
 <p>Esprit de contradiction : permettre la correction et l’évaluation par l’utilisateur.ice. : <span class="citation" data-cites="schneiderImperfectAIUphold2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Schneider 2026</a>)</span> à venir INKE</p>
 <p>Ex : IEML-RS <span class="citation" data-cites="schneiderReclaimingEpistemicAgency2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Schneider, Levy, and Vitali-Rosati 2026</a>)</span></p>
@@ -475,6 +448,18 @@ Derrière la question du simple accès à l'information, se pose celle de l'invi
 
 <p><img data-src="img/etape3_propositionTraduction.png" alt="IEML-RS, sélection d’un mot-clé non-traduit en IEML - traduction automatique avec gemini"> <!-- 
  (idée de Pierre Lévy : permettre la correction de la traduction automatique en IEML générée par Gemini). --></p>
+</section>
+<section id="résumé-des-propositions" class="slide level2">
+<h2>Résumé des propositions</h2>
+<ul>
+<li>Laisser place à l’incertitude</li>
+<li>Désordonner</li>
+<li>Explorer d’autres facettes</li>
+<li>Restitution comme appui à l’expertise</li>
+<li>Spécialisation de la classification et la quantification</li>
+<li>Exaptation</li>
+<li>Friction</li>
+</ul>
 </section></section>
 <section>
 <section id="conclusion" class="title-slide slide level1 center">
@@ -505,9 +490,6 @@ Bates, Marcia J. 1989. <span>“The Design of Browsing and Berrypicking Techniqu
 <div id="ref-bjornebornAdjacentPossible2022" class="csl-entry" role="listitem">
 Björneborn, Lennart. 2022. <span>“Adjacent <span>Possible</span>.”</span> In <em>The <span>Palgrave Encyclopedia</span> of the <span>Possible</span></em>, edited by Vlad Petre Glăveanu, 16–28. Cham: Springer International Publishing. <a href="https://doi.org/10.1007/978-3-030-90913-0_100">https://doi.org/10.1007/978-3-030-90913-0_100</a>.
 </div>
-<div id="ref-boerProvotypesParticipatoryInnovation2012" class="csl-entry" role="listitem">
-Boer, Laurens, and Jared Donovan. 2012. <span>“Provotypes for Participatory Innovation.”</span> In <em>Proceedings of the <span>Designing Interactive Systems Conference</span></em>, 388–97. Newcastle Upon Tyne United Kingdom: ACM. <a href="https://doi.org/10.1145/2317956.2318014">https://doi.org/10.1145/2317956.2318014</a>.
-</div>
 <div id="ref-caiAntagonisticAI2024" class="csl-entry" role="listitem">
 Cai, Alice, Ian Arawjo, and Elena L. Glassman. 2024. <span>“Antagonistic <span>AI</span>.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2402.07350">https://doi.org/10.48550/arXiv.2402.07350</a>.
 </div>
@@ -522,6 +504,9 @@ Drucker, Johanna. 2013. <span>“Performative <span>Materiality</span> and <span
 </div>
 <div id="ref-dumasprimbaultNaviguerDansSavoirs2023" class="csl-entry" role="listitem">
 Dumas Primbault, Simon. 2023. <span>“<span>Naviguer dans les savoirs à l’ère numérique. Pour une ethnographie des pratiques informationnelles sur Gallica</span>.”</span> <em>Études de communication. langages, information, médiations</em>, no. 61 (December): 61–89. <a href="https://doi.org/10.4000/edc.16108">https://doi.org/10.4000/edc.16108</a>.
+</div>
+<div id="ref-dumasprimbaultDecouvrabiliteCommePrise2025" class="csl-entry" role="listitem">
+———. 2025. <span>“La Découvrabilité Comme ”Prise” - <span>Pratiques</span> de Détournement Du Moteur de Recherche de <span>Gallica</span>.”</span> In <em>Découvrabilité Des Contenus Culturels Et Scientifitques</em>, edited by Lise Verlaet and Chloé Delaporte. Montpellier, France.
 </div>
 <div id="ref-erdelezInvestigationInformationEncountering2004" class="csl-entry" role="listitem">
 Erdelez, Sanda. 2004. <span>“Investigation of Information Encountering in the Controlled Research Environment.”</span> <em>Information Processing &amp; Management</em> 40 (6): 1013–25. <a href="https://doi.org/10.1016/j.ipm.2004.02.002">https://doi.org/10.1016/j.ipm.2004.02.002</a>.
@@ -577,12 +562,14 @@ Schneider, Alexia, Pierre Levy, and Marcello Vitali-Rosati. 2026. <span>“Recla
 <div id="ref-suchetFrancaiSAuPluriel2026" class="csl-entry" role="listitem">
 Suchet, Myriam. 2026. <span>“En <span class="nocase">françaiS</span> Au Pluriel.”</span> <em>En françaiS Au Pluriel</em>. https://www.enfrancaisaupluriel.fr/pages/266.
 </div>
+<div id="ref-tayWhatWeActually2025" class="csl-entry" role="listitem">
+Tay, Aaron. 2025. <span>“What <span>Do We Actually Mean</span> by "<span>AI-Powered Search</span>"?”</span> Substack Newsletter. <em>Aaron Tay’s Musings about Librarianship</em>.
+</div>
 <div id="ref-tayBlankBoxProblem2026" class="csl-entry" role="listitem">
-Tay, Aaron. 2026. <span>“The <span>Blank Box Problem</span>: <span>Why It</span>’s <span>Harder Than Ever</span> to <span>Know What</span> to <span>Type Into</span> an <span>AI Search Bar</span>.”</span> Substack Newsletter. <em>Aaron Tay’s Musings about Librarianship</em>.
+———. 2026. <span>“The <span>Blank Box Problem</span>: <span>Why It</span>’s <span>Harder Than Ever</span> to <span>Know What</span> to <span>Type Into</span> an <span>AI Search Bar</span>.”</span> Substack Newsletter. <em>Aaron Tay’s Musings about Librarianship</em>.
 </div>
 </div>
 </section></section>
-
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="img/stickerAvecTexte.png" class="slide-logo"></p>
