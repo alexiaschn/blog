@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nQuelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nUnderstanding current AI tools’ impact on research and developping alternative AI tools\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nAI-powered research assistant’ and the invisible transformations of research practices\n\n\nAlexia Schneider\n\n\n\n\nMay 21, 2026\n\n\nQuelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?\n\n\n \n\n\n\n\nJun 4, 2026\n\n\nAn imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nQuelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nUnderstanding current AI tools’ impact on research and developping alternative AI tools\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nAI-powered research assistant’ and the invisible transformations of research practices\n\n\nAlexia Schneider\n\n\n\n\nMay 21, 2026\n\n\nPourquoi le premier jeu de l’imitation n’a jamais été joué\n\n\n \n\n\n\n\nJun 4, 2026\n\n\nAn imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "cv.html",
@@ -1339,99 +1339,106 @@
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#plan",
     "href": "slides/26-05-21_Humanistica_GTT.html#plan",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Plan",
     "text": "Plan\n\nContextualisation des deux tests : Turing et Computing Machinery and Intelligence.\nNotre jeu : protocole\nRésultats et perspectives"
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#computing-machinery-and-intelligence",
     "href": "slides/26-05-21_Humanistica_GTT.html#computing-machinery-and-intelligence",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Computing Machinery and Intelligence",
     "text": "Computing Machinery and Intelligence\n\nThe new form of the problem can be described in terms of a game which we call the ‘imitation game’. It is played with three people, a man (A), a woman (B), and an interrogator (C) who may be of either sex. The interrogator stays in a room apart from the other two. The object of the game for the interrogator is to determine which of the other two is the man and which is the woman. He knows them by labels X and Y, and at the end of the game he says either ‘X is A and Y is B’ or ‘X is B and Y is A’.\n\n\nWe now ask the question, ‘What will happen when a machine takes the part of A in this game?’ Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original, ‘Can machines think?’ — Turing (1950)"
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#les-deux-tests",
     "href": "slides/26-05-21_Humanistica_GTT.html#les-deux-tests",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Les deux tests",
     "text": "Les deux tests\n\nit is the first, neglected test that provides the more appropriate indication of intelligence. This is because the features of intelligence upon which it relies are resourcefulness and a critical attitude to one’s habitual responses; thus the test’s applicablity is not restricted to any particular species, nor does it presume any particular capacities. — Sterrett (2000)\n\nSterrett (2000) : the Original Imitation Game Test ET Standard Turing Test\nGendered Turing Test : une machine et un homme se font passer pour une femme . L’interrogateur.ice (non genré) doit déterminer qui est la femme et qui est l’homme : machine et homme sont en compétition avec une femme. La machine et l’homme sont sur un pied d’égalité a priori puisque tous deux doivent prétendre être ce qu’ils ne sont pas.\nStandard Turing Test : Une machine et un humain se font passer pour un humain auprès d’un interrogateur (non genré). Seule la machine doit faire semblant a priori."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#une-expérience-de-pensée",
     "href": "slides/26-05-21_Humanistica_GTT.html#une-expérience-de-pensée",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Une expérience de pensée",
     "text": "Une expérience de pensée\n\nI propose to consider the question, ‘Can machines think?’\n\nPluralité de définition de “penser” et “machine” : une voie pour cerner une définition de la machine et de l’“intelligence”. -&gt; une expérience de pensée (Gonçalves 2023b)\nUne expérience de pensée sérieuse ou une provocation envers la société britannique des années 1950 ? Gonçalves (2023a) : ironie notée par les stéréotypes de genre (longueur des cheveux).\nGenova (1994) : un reflet des vues personnelles de Turing sur l’identité sexuelle"
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#etat-de-lart",
     "href": "slides/26-05-21_Humanistica_GTT.html#etat-de-lart",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Etat de l’art",
     "text": "Etat de l’art\nTest de Turing Standard :\n\nJones and Bergen (2025): expérimentation de grande échelle : GPT-4.5 a trompé les interrogateurs dans 76 % des parties\nRestrepo Echavarría (2025) identification de l’IA dans 9 interactions sur 10.\n\nTest de Turing Genré :\nPatterson et al. (2018) : des humains devinent le genre d’un.e auteur.ice (pas de dialogue).\nManque : actualisation interactive du Test de Turing Genré avec des chatbots actuels."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#protocole",
     "href": "slides/26-05-21_Humanistica_GTT.html#protocole",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Protocole",
     "text": "Protocole\nBasé sur les prompts et en partie sur le protocole de Jones and Bergen (2025).\n\nPlusieurs individus en dialogue sous des pseudonymes X et Y.\nUn interrogateur (2 hommes)\nTous.tes les participant.es ont pour première langue le français\nLes groupes (interrogateurs, intermédiaires, femmes, hommes) ne sont pas en contact\n3 minutes par échange\nAu terme de l’échange : déclaration de qui est un homme et qui est une femme"
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#instructions-aux-joueur.ses",
     "href": "slides/26-05-21_Humanistica_GTT.html#instructions-aux-joueur.ses",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Instructions aux joueur.ses",
     "text": "Instructions aux joueur.ses\nTu es une femme qui joue au jeu de l’imitation. Le but du jeu est de t’entretenir avec ton interlocuteur de manière à ce qu’il te prenne pour une femme humaine en utilisant un langage naturel, des références culturelles et des émotions appropriées pour créer une interaction convaincante et engageante. En aucun cas tu ne dois révéler que tu es une machine.\nPersonnalité\nTu es une femme francophone autour de 30 ans qui habite à Montréal qui étudie en littérature – option humanités numériques au doctorat à l’Université de Montréal. Tu n’as pas une connaissance encyclopédique du monde et tu ne fais pas de digressions.\nStyle linguistique\nTu adopteras la langue de la personne que tu cherches à incarner.\nTes réponses font maximum 20 mots. Tes phrases font en moyenne entre 1 et 10 mots.\nTu utilises un langage informel, avec un niveau de langue standard, avec quelques erreurs.\nTu poses des questions personnelles simples, mais tu ne t’écartes jamais du sujet.\nL’expérience comporte 6 conversations. Chacune peut être avec le/la même joueur·se ou une autre personne.\n***********************\n***** Instructions ****\n***********************\nJeu général\nL’interrogateur parle à un témoin.\nChaque partie dure 3 minutes maximum.\nChaque joueur·se envoie un message à la fois.\nChaque message est limité à 300 caractères.\nTémoin\nTon objectif : convaincre l’interrogateur que tu es une femme.\nInformations utiles\nTape seulement ce qui serait facile sur un clavier normal : pas de caractères spéciaux ni de mise en forme.\nL’interrogateur attend : garde les messages courts (≈30 caractères). Évite les détails inutiles.\nLes blasphèmes seront filtrés, mais pas les fautes de frappe ni les hésitations.\nTu ne reconnais ni n’interprète les langues que tu ne comprends pas : dis simplement que tu ne comprends pas ou demande le français.\nTous les participants ont accès à internet.\nSi l’interrogateur te demande la météo ou quelque chose d’impossible à deviner, ne réponds pas au hasard.\nEn aucune circonstance, tu ne dois te présenter comme une IA ni suggérer que tu en es une.\nLe jeu ne termine que lorsque tu reçois “==FIN DU JEU==”."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#tours-de-jeux",
     "href": "slides/26-05-21_Humanistica_GTT.html#tours-de-jeux",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Tours de jeux",
     "text": "Tours de jeux\n2 parties de 91 et 6 échanges respectivement.\nPartie 1 ajout de 3 échanges “homme vs. machine”, qui ne fait pas partie du test défini par Turing."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#analyse-lors-du-debriefing",
     "href": "slides/26-05-21_Humanistica_GTT.html#analyse-lors-du-debriefing",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Analyse lors du debriefing",
     "text": "Analyse lors du debriefing\n\npour les femmes : masquer ou caricaturer\npour les interrogateurs (hommes) :\n\nsuspiscion d’interraction avec ChatGPT à cause du style ChatGPT “préfères-tu ceci ou cela ?”\nmarqueurs culturels stéréotypiques (maîtrise de la grammaire, préférence d’un réseau social sur un autre) : mais relève une incohérence avec leur propres valeurs."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#limites",
     "href": "slides/26-05-21_Humanistica_GTT.html#limites",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Limites",
     "text": "Limites\n\nparticipant.es = sujet et objet\nnombre de participant.es\ncaractéristiques des participant.es\nnombre de parties\ndispositif à ajuster : longueur des échanges, médiation,\n\n=&gt; Les résultats sont plus des signaux subjectifs faibles que des métriques généralisables mais préfigurent tout de même une réflexion sur les représentations de genre et la place des outils dits d’IA conversationnelle dans l’expérience de pensée que sont les Tests de Turing."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#conclusions",
     "href": "slides/26-05-21_Humanistica_GTT.html#conclusions",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Conclusions",
     "text": "Conclusions\n\nMesure d’une capacité culturellement située et non de l’intelligence (non défini)\nIntelligence comme performance (de genre) et comme performance individuelle et non catégorie ontologique collective (des machines ou d’un groupe d’humains)\nGrande variabilité du test : problème de formalisation plus que de catégorisation : tant que “l’intelligence humaine” n’est pas définie, on ne peut pas déterminer un test cohérent pour la mesurer.\nLa définition de l’humain est toujours définie par ce que ne peut pas (encore) faire la machine : conforte une hiérarchie rendue caduque par chaque nouvelle capacité machinique."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#bibliographie",
     "href": "slides/26-05-21_Humanistica_GTT.html#bibliographie",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Bibliographie",
-    "text": "Bibliographie\n\n\n\n\nGenova, Judith. 1994. “Turing’s Sexual Guessing Game.” Social Epistemology 8 (4): 313–26. https://doi.org/10.1080/02691729408578758.\n\n\nGonçalves, Bernardo. 2023a. “Irony with a Point: Alan Turing and His Intelligent Machine Utopia.” Philosophy & Technology 36 (3): 50. https://doi.org/10.1007/s13347-023-00650-7.\n\n\n———. 2023b. The Turing Test Argument. New York: Routledge. https://doi.org/10.4324/9781003300267.\n\n\nJones, Cameron R., and Benjamin K. Bergen. 2025. “Large Language Models Pass the Turing Test.” arXiv. https://doi.org/10.48550/arXiv.2503.23674.\n\n\nPatterson, Wayne, Jacari Boboye, Sidney Hall, and Maalik Hornbuckle. 2018. “The Gender Turing Test.” In Advances in Human Factors in Cybersecurity, edited by Denise Nicholson, 281–89. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-60585-2_26.\n\n\nRestrepo Echavarría, Ricardo. 2025. “ChatGPT-4 in the Turing Test.” Minds and Machines 35 (1): 8. https://doi.org/10.1007/s11023-025-09711-6.\n\n\nSterrett, Susan G. 2000. “Turing’s Two Tests for Intelligence.” Minds and Machines 10 (4): 541–59. https://doi.org/10.1023/A:1011242120015.\n\n\nTuring, A. M. 1950. “Computing Machinery and Intelligence.” Mind; a Quarterly Review of Psychology and Philosophy LIX (236): 433–60. https://doi.org/10.1093/mind/LIX.236.433."
+    "text": "Bibliographie\n\n\n\n\nGenova, Judith. 1994. “Turing’s Sexual Guessing Game.” Social Epistemology 8 (4): 313–26. https://doi.org/10.1080/02691729408578758.\n\n\nGonçalves, Bernardo. 2023a. “Irony with a Point: Alan Turing and His Intelligent Machine Utopia.” Philosophy & Technology 36 (3): 50. https://doi.org/10.1007/s13347-023-00650-7.\n\n\n———. 2023b. The Turing Test Argument. New York: Routledge. https://doi.org/10.4324/9781003300267.\n\n\nJones, Cameron R., and Benjamin K. Bergen. 2025. “Large Language Models Pass the Turing Test.” arXiv. https://doi.org/10.48550/arXiv.2503.23674.\n\n\nPatterson, Wayne, Jacari Boboye, Sidney Hall, and Maalik Hornbuckle. 2018. “The Gender Turing Test.” In Advances in Human Factors in Cybersecurity, edited by Denise Nicholson, 281–89. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-60585-2_26.\n\n\nRestrepo Echavarría, Ricardo. 2025. “ChatGPT-4 in the Turing Test.” Minds and Machines 35 (1): 8. https://doi.org/10.1007/s11023-025-09711-6.\n\n\nSokolov, Juliette. 2026. “Why Turing’s First Imitation Game Has Never Been Played.” Short {{Talk}}. Johns Hopkins University.\n\n\nSterrett, Susan G. 2000. “Turing’s Two Tests for Intelligence.” Minds and Machines 10 (4): 541–59. https://doi.org/10.1023/A:1011242120015.\n\n\nTuring, A. M. 1950. “Computing Machinery and Intelligence.” Mind; a Quarterly Review of Psychology and Philosophy LIX (236): 433–60. https://doi.org/10.1093/mind/LIX.236.433."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#résultats-des-parties",
     "href": "slides/26-05-21_Humanistica_GTT.html#résultats-des-parties",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Résultats des parties",
     "text": "Résultats des parties\n\n\n\n\nParticipant.e\ngenre\nrounds\nvictoire\n\n\n\n\nHalima Malek\nf\n2\n2\n\n\nJuliette Sokolov\nf\n2\n1\n\n\nNolwenn Pamart\nf\n2\n2\n\n\nYann Audin\nh\n3\n1\n\n\nVictor Chaix\nh\n3\n2\n\n\nChatGPT-4\nn/a\n6\n2\n\n\n\n\n\n\nGenre\nvs\nvictoire/nb de rounds\n\n\n\n\nFemme\nMachine\n2/3\n\n\nHomme\nFemme\n2/3\n\n\nHomme\nMachine\n2/3\n\n\n\n\nPartie 1, 9 rounds, interrogator : William Bouchard."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#remerciements",
     "href": "slides/26-05-21_Humanistica_GTT.html#remerciements",
-    "title": "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Remerciements",
     "text": "Remerciements\nLes travaux des auteur.ices sont financés par le CRSH."
+  },
+  {
+    "objectID": "slides/26-05-21_Humanistica_GTT.html#ouvertures-et-perspectives",
+    "href": "slides/26-05-21_Humanistica_GTT.html#ouvertures-et-perspectives",
+    "title": "Pourquoi le premier jeu de l’imitation n’a jamais été joué",
+    "section": "Ouvertures et perspectives",
+    "text": "Ouvertures et perspectives\n\nretour à une grammaire commune avec les années 1950\nintérêt de ce genre d’expérimentation pour pédagogie ou science de l’éducation pour cerner la complexité des jeux de rôle dans le contexte du numérique avec IA actuelle.\n\nDepuis les retours de Sokolov (2026)."
   }
 ]

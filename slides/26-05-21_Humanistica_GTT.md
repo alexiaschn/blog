@@ -1,5 +1,5 @@
 ---
-title: "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ? "
+title: "Pourquoi le premier jeu de l'imitation n'a jamais été joué"
 # abstract: Introduction to research
 # author: 
 #     - name: Alexia Schneider 
@@ -253,6 +253,14 @@ Partie 1, 9 rounds, interrogator : William Bouchard. </figcaption>
 - Intelligence comme performance (de genre) et comme performance individuelle et non catégorie ontologique collective (des machines ou d'un groupe d'humains)
 - Grande variabilité du test : problème de formalisation plus que de catégorisation : tant que "l'intelligence humaine" n'est pas définie, on ne peut pas déterminer un test cohérent pour la mesurer. 
 - La définition de l'humain est toujours définie par ce que ne peut pas (encore) faire la machine : conforte une hiérarchie rendue caduque par chaque nouvelle capacité machinique.
+
+## Ouvertures et perspectives
+
+- retour à une grammaire commune avec les années 1950 
+- intérêt de ce genre d'expérimentation pour pédagogie ou science de l'éducation pour cerner la complexité des jeux de rôle dans le contexte du numérique avec IA actuelle. 
+
+
+Depuis les retours de @sokolovWhyTuringsFirst2026. 
 
 ## Remerciements
 
