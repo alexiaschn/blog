@@ -23,65 +23,77 @@ footer: "Labo. recherche sur les écritures numériques - 2026"
 
 <!-- 10min + 5 min de question -->
 
-![]("img/intro_GTT_french.png")
+![](img/intro_GTT_french.png)
 
 ## Plan
 
-Contextualisation de l'article : Turing et Computing Machinery and Intelligence. 
+- Contextualisation des deux tests : Turing et Computing Machinery and Intelligence. 
+- Notre jeu : protocole 
+- Résultats et perspectives 
 
-Présentation des différents Tests de Turing et de l'état de l'art 
-
-<!-- 3 min  -->
-
-Dispositif mis en place : protocole, tours
-
-<!-- 3min -->
-
-Résultats et analyses superficielles
-
-<!-- 3 min -->
+<!-- 3 min each-->
 
 # Contexte
 
 ## Computing Machinery and Intelligence
 
 > The new form of the problem can be described in terms of a game which we call the ‘imitation game’. It is played with three people, a man (A), a woman (B), and an interrogator (C) who may be of either sex. The interrogator stays in a room apart from the other two. The object of the game for the interrogator is to determine which of the other two is the man and which is the woman. He knows them by labels X and Y, and at the end of the game he says either ‘X is A and Y is B’ or ‘X is B and Y is A’.
+
+> We now ask the question, **‘What will happen when a machine takes the part of A in this game?’** Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? **These questions replace our original, ‘Can machines think?’**
 > --- @turingComputingMachineryIntelligence1950a
 
 
+## Les deux tests
 
-## Différents tests reflètent différentes interprétations du texte de Turing
+
+> **it is the first, neglected test that provides the more appropriate indication of intelligence**. This is because the features of intelligence upon which it relies are resourcefulness and a critical attitude to one's habitual responses; thus the test's applicablity is not restricted to any particular species, nor does it presume any particular capacities.
+> --- @sterrettTuringsTwoTests2000 
+
+@sterrettTuringsTwoTests2000 : *the Original Imitation Game Test* ET *Standard Turing Test* 
+
+***Gendered Turing Test*** : une machine et un homme se font passer pour une femme . L'interrogateur.ice (non genré) doit déterminer qui est la femme et qui est l'homme : machine et homme sont en compétition avec une femme. **La machine et l'homme sont sur un pied d'égalité a priori puisque tous deux doivent prétendre être ce qu'ils ne sont pas.**
+
+***Standard Turing Test*** : Une machine et un humain se font passer pour un humain auprès d'un interrogateur (non genré). Seule la machine doit faire semblant _a priori_.
 
 
+## Une expérience de pensée
 
 > I propose to consider the question, ‘Can machines think?’ 
 
-In his article, Turing advocates for a plurality of definitions of “thinking” and “machine.” He does not defend a single definition of thinking or of the machine, but focuses instead on defining what a machine is rather than what thinking is. The Turing Test is less a formal model of human intelligence in opposition to machine intelligence than a thought experiment [@goncalvesTuringTestArgument2023 ], an invitation to reflect on our ambiguous and shifting conceptions of notions such as “woman,” “machine,” and “intelligence,” among others.
+Pluralité de définition de "penser" et "machine" : une voie pour cerner une définition de la machine et de l'"intelligence". -> une expérience de pensée [@goncalvesTuringTestArgument2023] 
 
-One may question the status of the Turing Test as a “serious” thought experiment and its scientific nature as originally conceived by Turing. Could it instead be read as a provocation addressed to 1950s British society and its conception of intelligence as a form of social and linguistic performance of gender? This hypothesis aligns with that of Gonçalves [@goncalvesIronyPointAlan2023 ], who emphasizes the ironic dimension of Turing’s text with respect to gender stereotypes.
+Une expérience de pensée sérieuse ou une provocation envers la société britannique des années 1950 ? @goncalvesIronyPointAlan2023 : ironie notée par les stéréotypes de genre (longueur des cheveux).
+
+@genovaTuringsSexualGuessing1994 : un reflet des vues personnelles de Turing sur l’identité sexuelle 
 
 
+## Etat de l'art
+
+Test de Turing Standard : 
+
+- @jonesLargeLanguageModels2025: expérimentation de grande échelle : GPT-4.5 a trompé les interrogateurs dans 76 % des parties
+- @restrepoechavarriaChatGPT4TuringTest2025 identification de l’IA dans 9 interactions sur 10.
+
+
+Test de Turing Genré : 
+
+@pattersonGenderTuringTest2018 : des humains devinent le genre d'un.e auteur.ice (pas de dialogue). 
+
+Manque : actualisation interactive du Test de Turing Genré avec des chatbots actuels.
 
 # Notre jeu 
 
-## Protocole : une interprétation
+## Protocole 
 
-**Participant.es**: 
+Basé sur les prompts et en partie sur le protocole de @jonesLargeLanguageModels2025. 
 
-- Several individuals who engage in dialogue as witnesses, presented as X or Y.
-- One person acting as the interrogator.
-- We decided to include only team members whose native language is French as players and interrogator
-- Two intermediaries manage two anonymous profiles (X and Y), relaying messages from the human witness or the machine to the interrogator and vice versa. 
- The interrogator is isolated; men and women are not in contact.
-- The interrogator sends a question to profile X.
-- The intermediary managing profile X copy-pastes the interrogator’s message to the human witness or to ChatGPT-4.
-- The intermediary copy-pastes the witness/machine’s response and sends it to the interrogator under profile X.
-- The exchanges between the interrogator and profiles X and Y take place alternately.
-- Each exchange lasts 3 minutes in total.
-- Exchanges are repeated in the same way until the allotted time ends.
-- The same process is applied to profile Y.
-- At the end of both exchanges, the interrogator declares which of X or Y they believe was the woman.
-- Our interrogators did not participate in the preliminary discussions of the experiment; they only received the instructions reproduced above. However, all human players were aware of the interrogator’s identity. 
+- Plusieurs individus en dialogue sous des pseudonymes X et Y.
+- Un interrogateur (2 hommes)
+- Tous.tes les participant.es ont pour première langue le français
+- Les groupes (interrogateurs, intermédiaires, femmes, hommes) ne sont pas en contact
+- 3 minutes par échange
+- Au terme de l'échange : déclaration de qui est un homme et qui est une femme
+
 
 ## Instructions aux joueur.ses
 
@@ -107,11 +119,11 @@ Tu poses des questions personnelles simples, mais tu ne t’écartes jamais du s
 
 L’expérience comporte 6 conversations. Chacune peut être avec le/la même joueur·se ou une autre personne.
 
-
+```
 ***********************
 ***** Instructions ****
 ***********************
-
+```
 
 Jeu général
 
@@ -149,24 +161,26 @@ Le jeu ne termine que lorsque tu reçois "==FIN DU JEU==".
 
 
 
-
 ## Tours de jeux 
 
 
-We conducted two full games of 9 and 6 rounds respectively. The first game included 3 “man vs. machine” rounds, which is not part of Turing’s imitation game. In the original, a round takes place either as “woman vs. man” or “woman vs. machine”; and in both cases, the man and the machine pretend to be a woman.
+2 parties de 9[^note] et 6 échanges respectivement. 
 
+
+[^note]: Partie 1 ajout de 3 échanges "homme vs. machine", qui ne fait pas partie du test défini par Turing. 
 
 
 # Résultats et perspectives
 
 
-Game 1, 9 rounds, interrogator : William Bouchard.
+## Résultats des parties 
+
 
 <figure>
 
-<figcaption> Game 1, 9 rounds, interrogator : William Bouchard.</figcaption>
 
-| Participant|gender|number of rounds|victory|
+
+| Participant.e|genre|rounds|victoire|
 | --------------|---|---|---|
 | Halima Malek|f|2|2|
 | Juliette Sokolov|f|2|1|
@@ -175,16 +189,22 @@ Game 1, 9 rounds, interrogator : William Bouchard.
 | Victor Chaix|h|3|2|
 | ChatGPT-4|n/a|6|2|
 
-| Gender|against|victory/played rounds|
+| Genre|vs|victoire/nb de rounds|
 | -------|---|---|
 | Femme|Machine|2/3|
 | Homme|Femme|2/3|
 | Homme|Machine|2/3|
 
-<figcaption>Game 2, 6 rounds, interrogator : Tony Gheeraert</figcaption>
+<figcaption>
+Partie 1, 9 rounds, interrogator : William Bouchard. </figcaption>
 
+</figure>
 
-| Participant|gender|number of rounds|victory|
+---
+
+<figure>
+
+| Participant.e|genre|rounds|victoire|
 |---|-|--|--|
 | Halima Malek|f|2|2|
 | Juliette Sokolov|f|2|1|
@@ -195,14 +215,17 @@ Game 1, 9 rounds, interrogator : William Bouchard.
 | Victor Chaix|h|1|1|
 | ChatGPT-4|n/a|3|1|
 
-|Gender|against|victory/played rounds|
+|Genre|vs.|victoire/nb de rounds|
 |---|--|--|
 |Femme|Machine|2/3|
 |Femme|Homme|1/3|
 
 
+<figcaption>Partie 2, 6 rounds, interrogateur : Tony Gheeraert</figcaption>
 
-As such, the results presented here are less intended to draw conclusions about intelligence or Turing’s imitation game than to provide a basis for reflection on representations and performances of gender in interaction with AI. The following section offers a qualitative and subjective analysis of this individual and collective experience.
+
+</figure>
+
 
 
 ## Analyse lors du debriefing
@@ -212,13 +235,28 @@ As such, the results presented here are less intended to draw conclusions about 
     - suspiscion d'interraction avec ChatGPT à cause du style ChatGPT "préfères-tu ceci ou cela ?"
     - marqueurs culturels stéréotypiques (maîtrise de la grammaire, préférence d'un réseau social sur un autre) : mais relève une incohérence avec leur propres valeurs.
 
+## Limites
+
+- participant.es = sujet et objet 
+- nombre de participant.es
+- caractéristiques des participant.es 
+- nombre de parties
+- dispositif à ajuster : longueur des échanges, médiation, 
+
+=> Les résultats sont plus des signaux subjectifs faibles que des métriques généralisables mais préfigurent tout de même une réflexion sur les représentations de genre et la place des outils dits d'IA conversationnelle dans l'expérience de pensée que sont les Tests de Turing.
+
+
 ## Conclusions 
 
 
-- mesure d'une capacité culturellement située et non de l'intelligence (non défini)
-- intelligence comme performance (de genre) et comme performance individuelle et non catégorie ontologique collective (des machines ou d'un groupe d'humains)
-- grande variabilité du test : problème de formalisation plus que de catégorisation : tant que "l'intelligence humaine" n'est pas définie, on ne peut pas déterminer un test cohérent pour la mesurer. 
-- la définition de l'humain est toujours définie par ce que ne peut pas (encore) faire la machine : conforte une hiérarchie rendue caduque par chaque nouvelle capacité machinique.
-- Tous les tests de Turing sont des provocations. 
+- Mesure d'une capacité culturellement située et non de l'intelligence (non défini)
+- Intelligence comme performance (de genre) et comme performance individuelle et non catégorie ontologique collective (des machines ou d'un groupe d'humains)
+- Grande variabilité du test : problème de formalisation plus que de catégorisation : tant que "l'intelligence humaine" n'est pas définie, on ne peut pas déterminer un test cohérent pour la mesurer. 
+- La définition de l'humain est toujours définie par ce que ne peut pas (encore) faire la machine : conforte une hiérarchie rendue caduque par chaque nouvelle capacité machinique.
+
+## Remerciements
+
+Les travaux des auteur.ices sont financés par le CRSH. 
+
 
 ## Bibliographie
