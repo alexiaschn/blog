@@ -1,10 +1,10 @@
 ---
-title: "AI-powered research assistant’ and the invisible transformations of research practices"
+title: "CSDH - AI-powered research assistant’ and the invisible transformations of research practices"
 author: 
     - name: Alexia Schneider 
       orcid: 0009-0000-0651-9792
       email: alexia.schneider@umontreal.ca
-date: 2026-04-14
+date: 2026-06-05
 bibliography: ../phd_udem.bib
 link-citations: true
 colorlinks: true
