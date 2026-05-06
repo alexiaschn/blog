@@ -1,5 +1,5 @@
 ---
-title: "An imperfect AI to uphold human agency : vindicating the 'yes but' of this world"
+title: "INKE - An imperfect AI to uphold human agency : vindicating the 'yes but' of this world"
 author: 
     - name: Alexia Schneider 
       orcid: 0009-0000-0651-9792

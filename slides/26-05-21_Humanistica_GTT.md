@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi le premier jeu de l'imitation n'a jamais été joué"
+title: "Humanistica - Pourquoi le premier jeu de l'imitation n'a jamais été joué"
 # abstract: Introduction to research
 # author: 
 #     - name: Alexia Schneider 

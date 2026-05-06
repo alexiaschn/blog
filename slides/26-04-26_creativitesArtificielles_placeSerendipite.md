@@ -1,11 +1,10 @@
 ---
-title: "Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ? "
-abstract: Introduction to research
+title: "Créativités Artificielles - Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ? "
 author: 
     - name: Alexia Schneider 
       orcid: 0009-0000-0651-9792
       email: alexia.schneider@umontreal.ca
-date: 2026-04-14
+date: 2026-04-26
 bibliography: ../phd_udem.bib
 link-citations: true
 colorlinks: true

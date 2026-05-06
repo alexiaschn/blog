@@ -1,5 +1,5 @@
 ---
-title: IEML-RS 
+title: "IFT6076 - evaluation IEML-RS"
 author:
     - name: Alexia Schneider 
       orcid: 0009-0000-0651-9792

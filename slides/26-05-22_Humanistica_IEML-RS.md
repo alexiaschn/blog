@@ -10,7 +10,7 @@ author:
     - name: Pierre Levy
       orcid: https://orcid.org/0000-0003-1599-221X
       email: pierre.levy@mac.com
-date: 2026-04-14
+date: 2026-05-22
 bibliography: ../phd_udem.bib
 link-citations: true
 colorlinks: true
