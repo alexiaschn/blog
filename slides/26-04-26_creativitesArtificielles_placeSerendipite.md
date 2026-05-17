@@ -359,7 +359,8 @@ Développer des outils qui explicitent les choix effectués, et laisse la place 
 
 ## Remerciements 
 
-Ces travaux ont bénéficié d’un octroi grâce au financement du Consulat général de France à Québec et du Fonds de recherche du Québec qui a permis un séjour de recherche au sein du Huma-Num Lab par la bourse de mobilité Sophie Germain. 
+Ces travaux ont bénéficié d’un octroi grâce au financement du Consulat général de France à Québec et du Fonds de recherche du Québec qui a permis un séjour de recherche au sein du Huma-Num Lab par la bourse de mobilité Sophie Germain ([https://doi.org/10.69777/381645](https://doi.org/10.69777/381645
+)). 
 
   <!--(« #DOSSIER » ou https://doi.org/10. 10.#####/#####) quand j'aurais le DOI  -->
 
