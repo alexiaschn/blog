@@ -51,9 +51,9 @@ footer: "Labo. recherche sur les écritures numériques - 2026"
 
 @sterrettTuringsTwoTests2000 : *the Original Imitation Game Test* ET *Standard Turing Test* 
 
-***Gendered Turing Test*** : une machine et un homme se font passer pour une femme . L'interrogateur.ice (non genré) doit déterminer qui est la femme et qui est l'homme : machine et homme sont en compétition avec une femme. **La machine et l'homme sont sur un pied d'égalité a priori puisque tous deux doivent prétendre être ce qu'ils ne sont pas.**
+***Test de Turing genré*** : une machine et un homme se font passer pour une femme . L'interrogateur.ice (non genré) doit déterminer qui est la femme et qui est l'homme : machine et homme sont en compétition avec une femme. **La machine et l'homme sont sur un pied d'égalité a priori puisque tous deux doivent prétendre être ce qu'ils ne sont pas.**
 
-***Standard Turing Test*** : Une machine et un humain se font passer pour un humain auprès d'un interrogateur (non genré). Seule la machine doit faire semblant _a priori_.
+***Test de Turing standard*** : Une machine et un humain se font passer pour un humain auprès d'un interrogateur (non genré). Seule la machine doit faire semblant _a priori_.
 
 
 ## Une expérience de pensée
@@ -69,7 +69,11 @@ Une expérience de pensée sérieuse ou une provocation envers la société brit
 
 ## Etat de l'art
 
+
 Test de Turing Standard : 
+
+- CAPTCHA (acronyme anglais de Completely Automated Public Turing test to tell Computers and Humans Apart)
+- prix Loebner
 
 - @jonesLargeLanguageModels2025: expérimentation de grande échelle : GPT-4.5 a trompé les interrogateurs dans 76 % des parties
 - @restrepoechavarriaChatGPT4TuringTest2025 identification de l’IA dans 9 interactions sur 10.
@@ -83,13 +87,26 @@ Manque : actualisation interactive du Test de Turing Genré avec des chatbots ac
 
 # Notre jeu 
 
+
+## Mise en place concrète 
+
+
+L'évaluateur échange pendant 3min avec un joueur puis 3min avec l'autre.
+
+**Parmi les deux joueur.ses il y a toujours une femme, et soit un homme soit un chatbot qui se fait passer pour une femme.**
+
+Après avoir parlé avec les deux, il choisit qui est selon lui la femme.
+
+**Ce scénario met en concurrence l'homme et la machine placés sur un pied d'égalité car devant se faire passer pour une femme.** 
+
+
 ## Protocole 
 
 Basé sur les prompts et en partie sur le protocole de @jonesLargeLanguageModels2025. 
 
 - Plusieurs individus en dialogue sous des pseudonymes X et Y.
 - Un interrogateur (2 hommes)
-- Tous.tes les participant.es ont pour première langue le français
+- Tous.tes les participant.es humain.es ont pour première langue le français et se sont identifié.es en genre par elleux-mêmes.
 - Les groupes (interrogateurs, intermédiaires, femmes, hommes) ne sont pas en contact
 - 3 minutes par échange
 - Au terme de l'échange : déclaration de qui est un homme et qui est une femme
@@ -237,17 +254,14 @@ Partie 1, 9 rounds, interrogator : William Bouchard. </figcaption>
 
 ## Limites
 
-- participant.es = sujet et objet 
-- nombre de participant.es
-- caractéristiques des participant.es 
-- nombre de parties
-- dispositif à ajuster : longueur des échanges, médiation, 
+- biais des participant.es qui sont sujets et objets
+- nombre de participant.es et de parties
+- dispositif : longueur des échanges, médiation, etc.
 
 => Les résultats sont plus des signaux subjectifs faibles que des métriques généralisables mais préfigurent tout de même une réflexion sur les représentations de genre et la place des outils dits d'IA conversationnelle dans l'expérience de pensée que sont les Tests de Turing.
 
 
 ## Conclusions 
-
 
 - Mesure d'une capacité culturellement située et non de l'intelligence (non défini)
 - Intelligence comme performance (de genre) et comme performance individuelle et non catégorie ontologique collective (des machines ou d'un groupe d'humains)
@@ -256,9 +270,8 @@ Partie 1, 9 rounds, interrogator : William Bouchard. </figcaption>
 
 ## Ouvertures et perspectives
 
-- retour à une grammaire commune avec les années 1950 
-- intérêt de ce genre d'expérimentation pour pédagogie ou science de l'éducation pour cerner la complexité des jeux de rôle dans le contexte du numérique avec IA actuelle. 
-
+- Le test genré montre qu'il y a une grammaire commune à travars la question du genre avec les années 1950 
+- Ce genre d'expérimentation a un intérêt pédagogique ou en science de l'éducation pour cerner la complexité des jeux de rôle dans le contexte du numérique avec IA actuelle. 
 
 Depuis les retours de @sokolovWhyTuringsFirst2026. 
 

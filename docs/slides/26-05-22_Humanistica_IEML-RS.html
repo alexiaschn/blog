@@ -189,11 +189,10 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 <section id="plan" class="slide level2">
 <h2>Plan</h2>
 <ul>
-<li>Introduction</li>
-<li>Problèmatique</li>
+<li>Introduction et problèmatique</li>
 <li>Etat de l’art (bref)</li>
-<li>Demonstration</li>
-<li>Evaluations des fonctionalités d’IEML-RS</li>
+<li>Démonstration</li>
+<li>Évaluations des fonctionalités d’IEML-RS</li>
 <li>Conclusion</li>
 </ul>
 <!-- 5 min par partie + 1 min conclusion -->
@@ -201,6 +200,7 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 </section>
 <section id="introduction" class="slide level2">
 <h2>Introduction</h2>
+<p>Cadre : recherche documentaire scientifique.</p>
 <p>Systèmes de recommandation ont changé de forme :</p>
 <p>d’algorithmes qui extraient des “you might also like” en bordure de moteurs de recherche à des outils qui prennent en charge une requête en langue naturelle.</p>
 </section>
@@ -219,31 +219,29 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 <li>opacité du ranking, des filtres, de la synthèse s’il y a lieu <span class="citation" data-cites="archambaultEvaluationCuttingEdgeAI2024 pattersonWhichAITools2025 tayReproducibilityInterpretabilityAcademic2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Archambault and Rincón 2024</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Patterson et al. 2025</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Tay 2025</a>)</span></li>
 </ul>
 </section>
-<section id="questions-de-recherche" class="slide level2">
-<h2>Questions de recherche</h2>
-<p>Comment concevoir des systèmes explicables qui :</p>
-<ul>
-<li>Se trouvent au centre d’environnement qui favorisent l’exploration critique et permettent un engagement intellectuel avec l’algorithme ?</li>
-</ul>
+<section id="question-de-recherche" class="slide level2">
+<h2>Question de recherche</h2>
+<p>Comment concevoir des systèmes explicables qui se trouvent au centre d’environnement qui favorisent l’exploration critique et permettent un engagement intellectuel avec l’algorithme ?</p>
 </section>
 <section id="quelques-exemples-de-systèmes-de-recommandations-alternatifs" class="slide level2">
 <h2>Quelques exemples de systèmes de recommandations alternatifs</h2>
 <ul>
 <li><p><code>Bridger</code> de <span class="citation" data-cites="portenoyBurstingScientificFilter2022">Portenoy et al. (<a href="#/bibliographie" role="doc-biblioref" onclick="">2022</a>)</span> expose les chercheur·se·s à des auteur·ice·s extérieur·e·s à leurs réseaux intellectuels habituels afin de favoriser le décloisonnement disciplinaire.</p></li>
 <li><p><code>VITALITY</code> de <span class="citation" data-cites="narechaniaVITALITYPromotingSerendipitous2022">Narechania et al. (<a href="#/bibliographie" role="doc-biblioref" onclick="">2022</a>)</span> propose une approche de revue de littérature fondée sur la visualisation</p></li>
-<li><p><code>STAK</code> de <span class="citation" data-cites="martinSTAKSerendipitousTool2017">Martin, Greenspan, and Quan-Haase (<a href="#/bibliographie" role="doc-biblioref" onclick="">2017</a>)</span>, s’est inspiré des affordances matérielles des bibliothèques physiques en tentant de recréer des environnements de navigation spatialisés.</p></li>
+<li><p><code>STAK</code> de <span class="citation" data-cites="martinSTAKSerendipitousTool2017">Martin, Greenspan, and Quan-Haase (<a href="#/bibliographie" role="doc-biblioref" onclick="">2017</a>)</span>, s’est inspiré des affordances matérielles des bibliothèques physiques en tentant de recréer des environnements de navigation spatialisés. <!-- 
+## IEML-RS : cadre théorique
+
+
+Question initiale des travaux avec IEML : Qu’est-ce qu’une comparaison directe entre une ontologie symbolique et une recherche sémantique fondée sur les GML peut révéler sur leurs modèles épistémiques sous-jacents ?
+
+
+- découvrabilité (trouvabilité et **sérendipité**)
+
+- ancrage de la _Performative Materiality_ des Humanités Numériques telle que définie par @druckerPerformativeMaterialityTheoretical2013 : 
+
+> « Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » 
+> --- @druckerPerformativeMaterialityTheoretical2013 --></p></li>
 </ul>
-</section>
-<section id="ieml-rs-cadre-théorique" class="slide level2">
-<h2>IEML-RS : cadre théorique</h2>
-<p>Question initiale des travaux avec IEML : Qu’est-ce qu’une comparaison directe entre une ontologie symbolique et une recherche sémantique fondée sur les GML peut révéler sur leurs modèles épistémiques sous-jacents ?</p>
-<ul>
-<li><p>découvrabilité (trouvabilité et <strong>sérendipité</strong>)</p></li>
-<li><p>ancrage de la <em>Performative Materiality</em> des Humanités Numériques telle que définie par <span class="citation" data-cites="druckerPerformativeMaterialityTheoretical2013">Drucker (<a href="#/bibliographie" role="doc-biblioref" onclick="">2013</a>)</span> :</p></li>
-</ul>
-<blockquote>
-<p>« Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » — <span class="citation" data-cites="druckerPerformativeMaterialityTheoretical2013">Drucker (<a href="#/bibliographie" role="doc-biblioref" onclick="">2013</a>)</span></p>
-</blockquote>
 </section>
 <section id="ieml" class="slide level2">
 <h2>IEML</h2>
@@ -261,6 +259,16 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 </figure>
 </div>
 <p>Dictionnaire de termes traduits en IEML <a href="https://ieml.intlekt.io/">https://ieml.intlekt.io/</a></p>
+<p>E (emptiness), U (virtual), A (actual), S (sign), B (being), and T (thing).</p>
+<p>Lettre minuscule : combinaison deux primitives : 26 symboles.</p>
+<p>Ponctuation : représente une des 6 couches du concept.</p>
+<p>Chaque couche est représentée par une triade suivant la syntaxe suivante : substance (role 1), attribut (role 2) et mode (role 3).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/ieml-declinaison-lettre-M.png"></p>
+<figcaption>Modulation de la primitive M</figcaption>
+</figure>
+</div>
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="img/ieml_melodie_paradigme.png"></p>
@@ -268,10 +276,14 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 </figure>
 </div>
 </section>
-<section>
-<section id="démonstration" class="title-slide slide level1 center">
-<h1>Démonstration</h1>
+<section class="slide level2">
 
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><video data-src="img/demo_ieml-rs.mp4" controls=""><a href="img/demo_ieml-rs.mp4">Video</a></video></p>
+<figcaption>Démonstration</figcaption>
+</figure>
+</div>
 </section>
 <section id="résumé-des-fonctionalités-principales" class="slide level2">
 <h2>Résumé des fonctionalités principales</h2>
@@ -281,14 +293,14 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 <li>Construction d’une requête envoyée à Isidore</li>
 <li>Comparaison des listes d’articles envoyé à partir de la requête simple et de la requête augmentée par LLM</li>
 </ul>
-</section></section>
+</section>
 <section>
 <section id="prompts" class="title-slide slide level1 center">
 <h1>Prompts</h1>
 
 </section>
-<section id="translation-prompt" class="slide level2">
-<h2>Translation prompt</h2>
+<section id="prompt-de-traduction-en-ieml" class="slide level2">
+<h2>Prompt de “traduction” en IEML</h2>
 <pre><code>Tu es un expert en sémantique. Tu dois décomposer sémantiquement le mot-clé "${keyword}" à partir des 9 valeurs suivantes :
 'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'
 ## Exemples
@@ -303,8 +315,8 @@ Ta réponse prendra la forme d'un CSV à 9 colonnes, les entêtes de colonnes so
 Il n'est pas nécessaire de remplir tous les champs. Un champs peut rester vide entre deux virgules, comme dans les exemples. 
 Répond uniquement avec une ligne CSV finale, sans explication.</code></pre>
 </section>
-<section id="query-augmentation-prompt" class="slide level2">
-<h2>Query augmentation prompt</h2>
+<section id="prompt-de-la-query-augmentation" class="slide level2">
+<h2>Prompt de la Query augmentation</h2>
 <pre><code>Produit 10 variants de la requête booléenne suivante "${keywords}". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  "impact of climate change on biodiversity". Réponse: "
 (climate change biodiversity impact) OU (effects of climate change on ecosystems) OU (biodiversity loss due to climate change) OU (climate change species extinction) OU (impact of global warming on wildlife) OU (effects of climate change on ecosystems and species diversity) OU (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OU (relationship between climate change and loss of biodiversity) OU (climate change threats to flora and fauna diversity) OU (impact of climate change on biodiversity)
 C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans donner d'explication.</code></pre>
@@ -313,11 +325,11 @@ C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans d
 <h2>Évaluations</h2>
 <ul>
 <li>Évaluation quantitative de la traduction produite par le LLM en IEML (RAG pour ancrage des traduction dans les mots du dictionnaire IEML)</li>
-<li>Évaluation quallitative (user study) de l’application dans son ensemble.</li>
+<li>Évaluation qualitative (user study) de l’application dans son ensemble.</li>
 </ul>
 </section>
-<section id="evaluation-de-la-traduction-automatique-en-ieml" class="slide level2">
-<h2>Evaluation de la traduction automatique en IEML</h2>
+<section id="évaluation-de-la-traduction-automatique-en-ieml" class="slide level2">
+<h2>Évaluation de la traduction automatique en IEML</h2>
 <div style="font-size: 20px;">
 <table class="caption-top" style="width:100%;">
 <colgroup>
@@ -500,10 +512,9 @@ C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans d
 </tbody>
 </table>
 <p>Le contexte (soit les entrées du dictionnaire) améliore marginalement les performances.</p>
-<p>NB: évaluation effectuée en novembre 2025</p>
 </section>
-<section id="evaluation-qualitative-de-ieml-rs" class="slide level2">
-<h2>Evaluation qualitative de IEML-RS</h2>
+<section id="évaluation-qualitative-de-ieml-rs" class="slide level2">
+<h2>Évaluation qualitative de IEML-RS</h2>
 <p>6 utilisateur.ices (PhD en HN). Démonstration suivie d’une observation d’utilisation de 10 min puis entrevue de 15 min.</p>
 <p>Critères :</p>
 <ul>
@@ -513,7 +524,7 @@ C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans d
 <p>Fonctionalités:</p>
 <ul>
 <li>navigation (mots-clés et concepts),</li>
-<li>traducion vers IEML,</li>
+<li>traduction vers IEML,</li>
 <li>comparaison des panels de listes d’articles.</li>
 </ul>
 </section>
@@ -531,7 +542,7 @@ C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans d
 <ul>
 <li><strong>Facilité d’utilisation</strong> :
 <ul>
-<li>confusion concernant l’intégration des concepts dans la requête</li>
+<li>confusion concernant l’intégration des concepts dans la requête,</li>
 <li>traduction automatique et validation : obstacle initial (base de données limitée) <!-- - **intégration directe au moteur de recherche de l'hébergeur** : principales améliorations (latence, informations plus détaillées sur l'article, distinction entre les fonctions de 'construction de requête' et de 'recherche d'article') --></li>
 </ul></li>
 <li><strong>Utilité</strong> :
@@ -547,23 +558,27 @@ C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans d
 <p>Exemple de conception d’environnement favorisant la sérendipité.</p>
 <p>Des outils réflechis en cours dans les HN :</p>
 <ul>
-<li>Barista du projet Impresso (assistant à la construction de requête et non assistant de recherche),</li>
+<li>Barista du projet Impresso : assistant à la construction de requête,</li>
 <li>les développement en cours à Isidore pour un RAG limité à des scénarii d’usage précis,</li>
-<li>le Evidence-RAG du JDH (pour assister à l’évaluation des commentaires évaluteur pendant le peer review process).</li>
+<li>le Evidence-RAG du JDH (pour assister à l’évaluation des commentaires évaluteur pendant le processus d’évaluation par les paires).</li>
 </ul>
 </section>
 <section id="remerciements" class="slide level2">
 <h2>Remerciements</h2>
 <p>Recherche financée par le CRSH à travers le projet de partenariat Revue3.0 ainsi qu’une bourse du Réseau Circé de mutualisation et de recherche pour les revues scientifiques.</p>
 </section>
+<section id="merci-pour-votre-attention" class="slide level2">
+<h2>Merci pour votre attention !</h2>
+<p>Lien vers le téléchargement du plugin pour Firefox:</p>
+<div class="align-center">
+<p><img data-src="img/qrcode-plugin.jpeg"></p>
+</div>
+</section>
 <section id="bibliographie" class="slide level2 smaller scrollable">
 <h2>Bibliographie</h2>
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-archambaultEvaluationCuttingEdgeAI2024" class="csl-entry" role="listitem">
 Archambault, Susan, and José Rincón. 2024. <span>“An <span>Evaluation</span> of <span>Cutting-Edge AI Research Tools Using</span> the <span>REACT Framework</span>.”</span> <em>Computers in Libraries</em> 44 (8).
-</div>
-<div id="ref-druckerPerformativeMaterialityTheoretical2013" class="csl-entry" role="listitem">
-Drucker, Johanna. 2013. <span>“Performative <span>Materiality</span> and <span>Theoretical Approaches</span> to <span>Interface</span>.”</span> <em>Digital Humanities Quarterly</em> 007 (1).
 </div>
 <div id="ref-levySemanticComputingIEML2023" class="csl-entry" role="listitem">
 Lévy, Pierre. 2023. <span>“Semantic Computing with <span>IEML</span>.”</span> <em>Collective Intelligence</em> 2 (4): 26339137231207634. <a href="https://doi.org/10.1177/26339137231207634">https://doi.org/10.1177/26339137231207634</a>.
@@ -601,15 +616,6 @@ Underwood, Ted. 2014. <span>“Theorizing <span>Research Practices We Forgot</sp
 <div id="ref-vargaNarrowingLiteratureUse2022" class="csl-entry" role="listitem">
 Varga, Attila. 2022. <span>“The Narrowing of Literature Use and the Restricted Mobility of Papers in the Sciences.”</span> <em>Proceedings of the National Academy of Sciences</em> 119 (17): e2117488119. <a href="https://doi.org/10.1073/pnas.2117488119">https://doi.org/10.1073/pnas.2117488119</a>.
 </div>
-</div>
-</section>
-<section class="slide level2">
-
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><video data-src="img/demo_ieml-rs.mp4" controls=""><a href="img/demo_ieml-rs.mp4">Video</a></video></p>
-<figcaption>Demonstration without sound</figcaption>
-</figure>
 </div>
 </section></section>
 <section>

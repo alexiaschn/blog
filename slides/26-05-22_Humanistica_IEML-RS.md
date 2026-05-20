@@ -22,6 +22,10 @@ format:
         # incremental: true
         scrollable: true
         slide-number: true
+    pptx:
+      smaller: true
+      scrollable: true
+      slide-number: true
 logo: "img/stickerAvecTexte.png"
 footer: "Alexia Schneider - 2026"
 ---
@@ -30,11 +34,10 @@ footer: "Alexia Schneider - 2026"
 
 ## Plan
 
-- Introduction 
-- Problèmatique 
+- Introduction et problèmatique 
 - Etat de l'art (bref)
-- Demonstration
-- Evaluations des fonctionalités d'IEML-RS
+- Démonstration
+- Évaluations des fonctionalités d'IEML-RS
 - Conclusion
 
 <!-- 5 min par partie + 1 min conclusion -->
@@ -42,6 +45,9 @@ footer: "Alexia Schneider - 2026"
 
 
 ## Introduction 
+
+
+Cadre : recherche documentaire scientifique. 
 
 Systèmes de recommandation ont changé de forme : 
 
@@ -60,11 +66,9 @@ d'algorithmes qui extraient des "you might also like" en bordure de moteurs de r
 - concentration de citations (effet Matthew [@mertonMatthewEffectScience1968]), bulles de filtre [@pariserFilterBubbleWhat2011], biais de confirmation [@underwoodTheorizingResearchPractices2014] : réduction de l'espace épistémique de la découverte [@nielsenGlobalCitationInequality2021; @vargaNarrowingLiteratureUse2022]. 
 - opacité du ranking, des filtres, de la synthèse s'il y a lieu [@archambaultEvaluationCuttingEdgeAI2024; @pattersonWhichAITools2025; @tayReproducibilityInterpretabilityAcademic2025]
 
-## Questions de recherche 
+## Question de recherche 
 
-Comment concevoir des systèmes explicables qui :
-
-- Se trouvent au centre d'environnement qui favorisent  l’exploration critique  et permettent un engagement intellectuel avec l'algorithme ?
+Comment concevoir des systèmes explicables qui se trouvent au centre d'environnement qui favorisent  l’exploration critique  et permettent un engagement intellectuel avec l'algorithme ?
 
 ## Quelques exemples de systèmes de recommandations alternatifs
 
@@ -73,7 +77,7 @@ Comment concevoir des systèmes explicables qui :
 - `VITALITY` de @narechaniaVITALITYPromotingSerendipitous2022 propose une approche de revue de littérature fondée sur la visualisation
 
 - `STAK` de @martinSTAKSerendipitousTool2017, s’est inspiré des affordances matérielles des bibliothèques physiques en tentant de recréer des environnements de navigation spatialisés.
-
+<!-- 
 ## IEML-RS : cadre théorique
 
 
@@ -85,7 +89,7 @@ Question initiale des travaux avec IEML : Qu’est-ce qu’une comparaison direc
 - ancrage de la _Performative Materiality_ des Humanités Numériques telle que définie par @druckerPerformativeMaterialityTheoretical2013 : 
 
 > « Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » 
-> --- @druckerPerformativeMaterialityTheoretical2013
+> --- @druckerPerformativeMaterialityTheoretical2013 -->
 
 
 ## IEML 
@@ -100,10 +104,24 @@ Information Economy MetaLanguage (IEML) [@levySemanticComputingIEML2023]
 
 Dictionnaire de termes traduits en IEML [https://ieml.intlekt.io/](https://ieml.intlekt.io/) 
 
+E (emptiness), U (virtual), A (actual), S (sign), B (being), and T (thing).
+
+Lettre minuscule : combinaison deux primitives : 26 symboles. 
+
+Ponctuation : représente une des 6 couches du concept. 
+
+Chaque couche est représentée par une triade suivant la syntaxe suivante : substance (role 1), attribut (role 2) et mode (role 3). 
+
+![Modulation de la primitive M ](img/ieml-declinaison-lettre-M.png)
+
+
 ![Tableau du paradigme des fonctions sémiotiques (sélection autour du concept de "mélodie")](img/ieml_melodie_paradigme.png)
 
 
-# Démonstration
+---
+
+![Démonstration](img/demo_ieml-rs.mp4)
+
 
 ## Résumé des fonctionalités principales
 
@@ -115,7 +133,7 @@ Dictionnaire de termes traduits en IEML [https://ieml.intlekt.io/](https://ieml.
 
 # Prompts
 
-## Translation prompt
+## Prompt de "traduction" en IEML
 
 
 ``` 
@@ -135,7 +153,7 @@ Répond uniquement avec une ligne CSV finale, sans explication.
 ```
 
 
-## Query augmentation prompt
+## Prompt de la Query augmentation 
 
 ```
 Produit 10 variants de la requête booléenne suivante "${keywords}". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  "impact of climate change on biodiversity". Réponse: "
@@ -148,9 +166,9 @@ C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans d
 ## Évaluations 
 
 - Évaluation quantitative de la traduction produite par le LLM en IEML (RAG pour ancrage des traduction dans les mots du dictionnaire IEML)
-- Évaluation quallitative (user study) de l'application dans son ensemble. 
+- Évaluation qualitative (user study) de l'application dans son ensemble. 
 
-## Evaluation de la traduction automatique en IEML
+## Évaluation de la traduction automatique en IEML
 
 
 <div style="font-size: 20px;">
@@ -197,10 +215,8 @@ openai_zeroshot|0.016|0.493|0.254
 
 Le contexte (soit les entrées du dictionnaire) améliore marginalement les performances. 
 
-NB: évaluation effectuée en novembre 2025
 
-
-## Evaluation qualitative de IEML-RS
+## Évaluation qualitative de IEML-RS
 
 6 utilisateur.ices (PhD en HN). Démonstration suivie d'une observation d'utilisation de 10 min puis entrevue de 15 min. 
 
@@ -212,7 +228,7 @@ Critères :
 Fonctionalités: 
 
 - navigation (mots-clés et concepts),
-- traducion vers IEML, 
+- traduction vers IEML, 
 - comparaison des panels de listes d'articles.  
 
 
@@ -229,7 +245,7 @@ Fonctionalités:
  -->
 
 - **Facilité d'utilisation** :
-    - confusion concernant l'intégration des concepts dans la requête
+    - confusion concernant l'intégration des concepts dans la requête,
     - traduction automatique et validation : obstacle initial (base de données limitée)
     <!-- - **intégration directe au moteur de recherche de l'hébergeur** : principales améliorations (latence, informations plus détaillées sur l'article, distinction entre les fonctions de 'construction de requête' et de 'recherche d'article') -->
 
@@ -244,22 +260,29 @@ Exemple de conception d'environnement favorisant la sérendipité.
 
 Des outils réflechis en cours dans les HN : 
 
-- Barista du projet Impresso (assistant à la construction de requête et non assistant de recherche),
+- Barista du projet Impresso : assistant à la construction de requête, 
 - les développement en cours à Isidore pour un RAG limité à des scénarii d'usage précis, 
-- le Evidence-RAG du JDH (pour assister à l'évaluation des commentaires évaluteur pendant le peer review process).
+- le Evidence-RAG du JDH (pour assister à l'évaluation des commentaires évaluteur pendant le processus d'évaluation par les paires).
 
 ## Remerciements
 
 Recherche financée par le CRSH à travers le projet de partenariat Revue3.0 ainsi qu'une bourse du Réseau Circé de mutualisation et de recherche pour les revues scientifiques. 
+
+## Merci pour votre attention !
+
+Lien vers le téléchargement du plugin pour Firefox: 
+
+::: {.align-center}
+
+![](img/qrcode-plugin.jpeg)
+
+:::
 
 ## Bibliographie
 
 ::: {#refs}
 :::
 
----
-
-![Demonstration without sound](img/demo_ieml-rs.mp4)
 
 
 # Screenshots

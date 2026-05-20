@@ -1355,7 +1355,7 @@
     "href": "slides/26-05-21_Humanistica_GTT.html#les-deux-tests",
     "title": "Humanistica - Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Les deux tests",
-    "text": "Les deux tests\n\nit is the first, neglected test that provides the more appropriate indication of intelligence. This is because the features of intelligence upon which it relies are resourcefulness and a critical attitude to one’s habitual responses; thus the test’s applicablity is not restricted to any particular species, nor does it presume any particular capacities. — Sterrett (2000)\n\nSterrett (2000) : the Original Imitation Game Test ET Standard Turing Test\nGendered Turing Test : une machine et un homme se font passer pour une femme . L’interrogateur.ice (non genré) doit déterminer qui est la femme et qui est l’homme : machine et homme sont en compétition avec une femme. La machine et l’homme sont sur un pied d’égalité a priori puisque tous deux doivent prétendre être ce qu’ils ne sont pas.\nStandard Turing Test : Une machine et un humain se font passer pour un humain auprès d’un interrogateur (non genré). Seule la machine doit faire semblant a priori."
+    "text": "Les deux tests\n\nit is the first, neglected test that provides the more appropriate indication of intelligence. This is because the features of intelligence upon which it relies are resourcefulness and a critical attitude to one’s habitual responses; thus the test’s applicablity is not restricted to any particular species, nor does it presume any particular capacities. — Sterrett (2000)\n\nSterrett (2000) : the Original Imitation Game Test ET Standard Turing Test\nTest de Turing genré : une machine et un homme se font passer pour une femme . L’interrogateur.ice (non genré) doit déterminer qui est la femme et qui est l’homme : machine et homme sont en compétition avec une femme. La machine et l’homme sont sur un pied d’égalité a priori puisque tous deux doivent prétendre être ce qu’ils ne sont pas.\nTest de Turing standard : Une machine et un humain se font passer pour un humain auprès d’un interrogateur (non genré). Seule la machine doit faire semblant a priori."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#une-expérience-de-pensée",
@@ -1369,14 +1369,14 @@
     "href": "slides/26-05-21_Humanistica_GTT.html#etat-de-lart",
     "title": "Humanistica - Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Etat de l’art",
-    "text": "Etat de l’art\nTest de Turing Standard :\n\nJones and Bergen (2025): expérimentation de grande échelle : GPT-4.5 a trompé les interrogateurs dans 76 % des parties\nRestrepo Echavarría (2025) identification de l’IA dans 9 interactions sur 10.\n\nTest de Turing Genré :\nPatterson et al. (2018) : des humains devinent le genre d’un.e auteur.ice (pas de dialogue).\nManque : actualisation interactive du Test de Turing Genré avec des chatbots actuels."
+    "text": "Etat de l’art\nTest de Turing Standard :\n\nCAPTCHA (acronyme anglais de Completely Automated Public Turing test to tell Computers and Humans Apart)\nprix Loebner\nJones and Bergen (2025): expérimentation de grande échelle : GPT-4.5 a trompé les interrogateurs dans 76 % des parties\nRestrepo Echavarría (2025) identification de l’IA dans 9 interactions sur 10.\n\nTest de Turing Genré :\nPatterson et al. (2018) : des humains devinent le genre d’un.e auteur.ice (pas de dialogue).\nManque : actualisation interactive du Test de Turing Genré avec des chatbots actuels."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#protocole",
     "href": "slides/26-05-21_Humanistica_GTT.html#protocole",
     "title": "Humanistica - Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Protocole",
-    "text": "Protocole\nBasé sur les prompts et en partie sur le protocole de Jones and Bergen (2025).\n\nPlusieurs individus en dialogue sous des pseudonymes X et Y.\nUn interrogateur (2 hommes)\nTous.tes les participant.es ont pour première langue le français\nLes groupes (interrogateurs, intermédiaires, femmes, hommes) ne sont pas en contact\n3 minutes par échange\nAu terme de l’échange : déclaration de qui est un homme et qui est une femme"
+    "text": "Protocole\nBasé sur les prompts et en partie sur le protocole de Jones and Bergen (2025).\n\nPlusieurs individus en dialogue sous des pseudonymes X et Y.\nUn interrogateur (2 hommes)\nTous.tes les participant.es humain.es ont pour première langue le français et se sont identifié.es en genre par elleux-mêmes.\nLes groupes (interrogateurs, intermédiaires, femmes, hommes) ne sont pas en contact\n3 minutes par échange\nAu terme de l’échange : déclaration de qui est un homme et qui est une femme"
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#instructions-aux-joueur.ses",
@@ -1404,7 +1404,7 @@
     "href": "slides/26-05-21_Humanistica_GTT.html#limites",
     "title": "Humanistica - Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Limites",
-    "text": "Limites\n\nparticipant.es = sujet et objet\nnombre de participant.es\ncaractéristiques des participant.es\nnombre de parties\ndispositif à ajuster : longueur des échanges, médiation,\n\n=&gt; Les résultats sont plus des signaux subjectifs faibles que des métriques généralisables mais préfigurent tout de même une réflexion sur les représentations de genre et la place des outils dits d’IA conversationnelle dans l’expérience de pensée que sont les Tests de Turing."
+    "text": "Limites\n\nbiais des participant.es qui sont sujets et objets\nnombre de participant.es et de parties\ndispositif : longueur des échanges, médiation, etc.\n\n=&gt; Les résultats sont plus des signaux subjectifs faibles que des métriques généralisables mais préfigurent tout de même une réflexion sur les représentations de genre et la place des outils dits d’IA conversationnelle dans l’expérience de pensée que sont les Tests de Turing."
   },
   {
     "objectID": "slides/26-05-21_Humanistica_GTT.html#conclusions",
@@ -1439,21 +1439,21 @@
     "href": "slides/26-05-21_Humanistica_GTT.html#ouvertures-et-perspectives",
     "title": "Humanistica - Pourquoi le premier jeu de l’imitation n’a jamais été joué",
     "section": "Ouvertures et perspectives",
-    "text": "Ouvertures et perspectives\n\nretour à une grammaire commune avec les années 1950\nintérêt de ce genre d’expérimentation pour pédagogie ou science de l’éducation pour cerner la complexité des jeux de rôle dans le contexte du numérique avec IA actuelle.\n\nDepuis les retours de Sokolov (2026)."
+    "text": "Ouvertures et perspectives\n\nLe test genré montre qu’il y a une grammaire commune à travars la question du genre avec les années 1950\nCe genre d’expérimentation a un intérêt pédagogique ou en science de l’éducation pour cerner la complexité des jeux de rôle dans le contexte du numérique avec IA actuelle.\n\nDepuis les retours de Sokolov (2026)."
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#plan",
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#plan",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Plan",
-    "text": "Plan\n\nIntroduction\nProblèmatique\nEtat de l’art (bref)\nDemonstration\nEvaluations des fonctionalités d’IEML-RS\nConclusion"
+    "text": "Plan\n\nIntroduction et problèmatique\nEtat de l’art (bref)\nDémonstration\nÉvaluations des fonctionalités d’IEML-RS\nConclusion"
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#introduction",
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#introduction",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Introduction",
-    "text": "Introduction\nSystèmes de recommandation ont changé de forme :\nd’algorithmes qui extraient des “you might also like” en bordure de moteurs de recherche à des outils qui prennent en charge une requête en langue naturelle."
+    "text": "Introduction\nCadre : recherche documentaire scientifique.\nSystèmes de recommandation ont changé de forme :\nd’algorithmes qui extraient des “you might also like” en bordure de moteurs de recherche à des outils qui prennent en charge une requête en langue naturelle."
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#problématique",
@@ -1467,7 +1467,7 @@
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#questions-de-recherche",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Questions de recherche",
-    "text": "Questions de recherche\nComment concevoir des systèmes explicables qui :\n\nSe trouvent au centre d’environnement qui favorisent l’exploration critique et permettent un engagement intellectuel avec l’algorithme ?"
+    "text": "Questions de recherche\nComment concevoir des systèmes explicables qui se trouvent au centre d’environnement qui favorisent l’exploration critique et permettent un engagement intellectuel avec l’algorithme ?"
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#quelques-exemples-de-systèmes-de-recommandations-alternatifs",
@@ -1488,7 +1488,7 @@
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#ieml",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "IEML",
-    "text": "IEML\nInformation Economy MetaLanguage (IEML) (Lévy 2023)\n\n\n\nMatrice de décomposition IEML à partir des 9 facettes sémantiques\n\n\n\n\n\nVisualisation de la grille dans le plugin IEML-RS\n\n\nDictionnaire de termes traduits en IEML https://ieml.intlekt.io/\n\n\n\nTableau du paradigme des fonctions sémiotiques (sélection autour du concept de “mélodie”)"
+    "text": "IEML\nInformation Economy MetaLanguage (IEML) (Lévy 2023)\n\n\n\nMatrice de décomposition IEML à partir des 9 facettes sémantiques\n\n\n\n\n\nVisualisation de la grille dans le plugin IEML-RS\n\n\nDictionnaire de termes traduits en IEML https://ieml.intlekt.io/\nE (emptiness), U (virtual), A (actual), S (sign), B (being), and T (thing).\nLettre minuscule : combinaison deux primitives : 26 symboles.\nPonctuation : représente une des 6 couches du concept.\nChaque couche est représentée par une triade suivant la syntaxe suivante : substance (role 1), attribut (role 2) et mode (role 3).\n\n\n\nModulation de la primitive M\n\n\n\n\n\nTableau du paradigme des fonctions sémiotiques (sélection autour du concept de “mélodie”)"
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#résumé-des-fonctionalités-principales",
@@ -1516,7 +1516,7 @@
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#évaluations",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Évaluations",
-    "text": "Évaluations\n\nÉvaluation quantitative de la traduction produite par le LLM en IEML (RAG pour ancrage des traduction dans les mots du dictionnaire IEML)\nÉvaluation quallitative (user study) de l’application dans son ensemble."
+    "text": "Évaluations\n\nÉvaluation quantitative de la traduction produite par le LLM en IEML (RAG pour ancrage des traduction dans les mots du dictionnaire IEML)\nÉvaluation qualitative (user study) de l’application dans son ensemble."
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#evaluation-de-la-traduction-automatique-en-ieml",
@@ -1530,7 +1530,7 @@
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#récapitulatif-de-lévaluation",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Récapitulatif de l’évaluation",
-    "text": "Récapitulatif de l’évaluation\nModèles (via l’API de Together AI) :\n\nMeta-Llama-3-70B-Instruct-Turbo\nGemma-3n-E4B-it,\nGPT-oss-20B\n\n\nTableau de l’évaluation des modèles pour la traduction automatique\n\n\nmodel/strategy\nBLEU\nCosine\navg\n\n\n\n\nbaseline\n0.056\n0.515\n0.286\n\n\nllama_fewshot\n0.0222\n0.555\n0.289\n\n\ngemma_fewshot\n0.020\n0.491\n0.255\n\n\nopenai_fewshot\n0.0167\n0.498\n0.257\n\n\nllama_zeroshot\n0.0129\n0.514\n0.263\n\n\ngemma_zeroshot\n0.0160\n0.479\n0.248\n\n\nopenai_zeroshot\n0.016\n0.493\n0.254\n\n\n\nLe contexte (soit les entrées du dictionnaire) améliore marginalement les performances.\nNB: évaluation effectuée en novembre 2025"
+    "text": "Récapitulatif de l’évaluation\nModèles (via l’API de Together AI) :\n\nMeta-Llama-3-70B-Instruct-Turbo\nGemma-3n-E4B-it,\nGPT-oss-20B\n\n\nTableau de l’évaluation des modèles pour la traduction automatique\n\n\nmodel/strategy\nBLEU\nCosine\navg\n\n\n\n\nbaseline\n0.056\n0.515\n0.286\n\n\nllama_fewshot\n0.0222\n0.555\n0.289\n\n\ngemma_fewshot\n0.020\n0.491\n0.255\n\n\nopenai_fewshot\n0.0167\n0.498\n0.257\n\n\nllama_zeroshot\n0.0129\n0.514\n0.263\n\n\ngemma_zeroshot\n0.0160\n0.479\n0.248\n\n\nopenai_zeroshot\n0.016\n0.493\n0.254\n\n\n\nLe contexte (soit les entrées du dictionnaire) améliore marginalement les performances."
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#evaluation-qualitative-de-ieml-rs",
@@ -1544,14 +1544,14 @@
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#étude-utilisateur.ice",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Étude utilisateur.ice",
-    "text": "Étude utilisateur.ice\n\n\nFacilité d’utilisation :\n\nconfusion concernant l’intégration des concepts dans la requête\ntraduction automatique et validation : obstacle initial (base de données limitée) \n\nUtilité :\n\nrévèle de fortes disparités dans les pratiques de recherche des utilisateur.ices (recherche en réseau et contextuelle vs. recherche par mots-clés)\nforce : panneaux comparatifs\nune traduction de qualité mixte encourage l’autonomie de l’utilisateur et un travail dialogique et collaboratif avec les LLM (Schneider 2026)"
+    "text": "Étude utilisateur.ice\n\n\nFacilité d’utilisation :\n\nconfusion concernant l’intégration des concepts dans la requête,\ntraduction automatique et validation : obstacle initial (base de données limitée) \n\nUtilité :\n\nrévèle de fortes disparités dans les pratiques de recherche des utilisateur.ices (recherche en réseau et contextuelle vs. recherche par mots-clés)\nforce : panneaux comparatifs\nune traduction de qualité mixte encourage l’autonomie de l’utilisateur et un travail dialogique et collaboratif avec les LLM (Schneider 2026)"
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#conclusion-et-perspective",
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#conclusion-et-perspective",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Conclusion et perspective",
-    "text": "Conclusion et perspective\nExemple de conception d’environnement favorisant la sérendipité.\nDes outils réflechis en cours dans les HN :\n\nBarista du projet Impresso (assistant à la construction de requête et non assistant de recherche),\nles développement en cours à Isidore pour un RAG limité à des scénarii d’usage précis,\nle Evidence-RAG du JDH (pour assister à l’évaluation des commentaires évaluteur pendant le peer review process)."
+    "text": "Conclusion et perspective\nExemple de conception d’environnement favorisant la sérendipité.\nDes outils réflechis en cours dans les HN :\n\nBarista du projet Impresso : assistant à la construction de requête,\nles développement en cours à Isidore pour un RAG limité à des scénarii d’usage précis,\nle Evidence-RAG du JDH (pour assister à l’évaluation des commentaires évaluteur pendant le processus d’évaluation par les paires)."
   },
   {
     "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#remerciements",
@@ -1565,7 +1565,7 @@
     "href": "slides/26-05-22_Humanistica_IEML-RS.html#bibliographie",
     "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
     "section": "Bibliographie",
-    "text": "Bibliographie\n\n\nArchambault, Susan, and José Rincón. 2024. “An Evaluation of Cutting-Edge AI Research Tools Using the REACT Framework.” Computers in Libraries 44 (8).\n\n\nDrucker, Johanna. 2013. “Performative Materiality and Theoretical Approaches to Interface.” Digital Humanities Quarterly 007 (1).\n\n\nLévy, Pierre. 2023. “Semantic Computing with IEML.” Collective Intelligence 2 (4): 26339137231207634. https://doi.org/10.1177/26339137231207634.\n\n\nMartin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. “STAK – Serendipitous Tool for Augmenting Knowledge: A Conceptual Tool for Bridging Digital and Physical Resources.” Digital Studies / Le Champ Numérique 6 (1). https://doi.org/10.16995/dscn.265.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nNarechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. “VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 486–96. https://doi.org/10.1109/TVCG.2021.3114820.\n\n\nNielsen, Mathias Wullum, and Jens Peter Andersen. 2021. “Global Citation Inequality Is on the Rise.” Proceedings of the National Academy of Sciences 118 (7): e2012208118. https://doi.org/10.1073/pnas.2012208118.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nPatterson, Brandon, Carlos Flores, Nick Hauschild, and Jared Branch. 2025. “Which AI Tools Work Best for Research? Using Librarian and Student Perspectives to Inform a Rating Rubric.” Journal of Electronic Resources in Medical Libraries 22 (3): 133–38. https://doi.org/10.1080/15424065.2025.2546052.\n\n\nPortenoy, Jason, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, and Tom Hope. 2022. “Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery.” CHI Conference on Human Factors in Computing Systems, April, 1–13. https://doi.org/10.1145/3491102.3501905.\n\n\nSchneider, Alexia. 2026. “An Imperfect AI to Uphold Human Agency : Vindicating the ‘Yes but’ of This World.” Short {{Talk}}. Montréal.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64.\n\n\nVarga, Attila. 2022. “The Narrowing of Literature Use and the Restricted Mobility of Papers in the Sciences.” Proceedings of the National Academy of Sciences 119 (17): e2117488119. https://doi.org/10.1073/pnas.2117488119."
+    "text": "Bibliographie\n\n\nArchambault, Susan, and José Rincón. 2024. “An Evaluation of Cutting-Edge AI Research Tools Using the REACT Framework.” Computers in Libraries 44 (8).\n\n\nLévy, Pierre. 2023. “Semantic Computing with IEML.” Collective Intelligence 2 (4): 26339137231207634. https://doi.org/10.1177/26339137231207634.\n\n\nMartin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. “STAK – Serendipitous Tool for Augmenting Knowledge: A Conceptual Tool for Bridging Digital and Physical Resources.” Digital Studies / Le Champ Numérique 6 (1). https://doi.org/10.16995/dscn.265.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nNarechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. “VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 486–96. https://doi.org/10.1109/TVCG.2021.3114820.\n\n\nNielsen, Mathias Wullum, and Jens Peter Andersen. 2021. “Global Citation Inequality Is on the Rise.” Proceedings of the National Academy of Sciences 118 (7): e2012208118. https://doi.org/10.1073/pnas.2012208118.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nPatterson, Brandon, Carlos Flores, Nick Hauschild, and Jared Branch. 2025. “Which AI Tools Work Best for Research? Using Librarian and Student Perspectives to Inform a Rating Rubric.” Journal of Electronic Resources in Medical Libraries 22 (3): 133–38. https://doi.org/10.1080/15424065.2025.2546052.\n\n\nPortenoy, Jason, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, and Tom Hope. 2022. “Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery.” CHI Conference on Human Factors in Computing Systems, April, 1–13. https://doi.org/10.1145/3491102.3501905.\n\n\nSchneider, Alexia. 2026. “An Imperfect AI to Uphold Human Agency : Vindicating the ‘Yes but’ of This World.” Short {{Talk}}. Montréal.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64.\n\n\nVarga, Attila. 2022. “The Narrowing of Literature Use and the Restricted Mobility of Papers in the Sciences.” Proceedings of the National Academy of Sciences 119 (17): e2117488119. https://doi.org/10.1073/pnas.2117488119."
   },
   {
     "objectID": "slides/26-04-26_creativitesArtificielles_placeSerendipite.html#introduction",
@@ -1734,5 +1734,54 @@
     "title": "Créativités Artificielles - Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?",
     "section": "Bibliographie",
     "text": "Bibliographie\n\n\n\n\nAbbass, Hussein. 2021. “Editorial: What Is Artificial Intelligence?” IEEE Transactions on Artificial Intelligence 2 (2): 94–95. https://doi.org/10.1109/TAI.2021.3096243.\n\n\nAuray, N. 2011. “Les technologies de l’information et le régime exploratoire.”\n\n\nBates, Marcia J. 1989. “The Design of Browsing and Berrypicking Techniques for the Online Search Interface.” Online Review 13 (5): 407–24. https://doi.org/10.1108/eb024320.\n\n\nBjörneborn, Lennart. 2022. “Adjacent Possible.” In The Palgrave Encyclopedia of the Possible, edited by Vlad Petre Glăveanu, 16–28. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-90913-0_100.\n\n\nCai, Alice, Ian Arawjo, and Elena L. Glassman. 2024. “Antagonistic AI.” arXiv. https://doi.org/10.48550/arXiv.2402.07350.\n\n\nChevillon, Guillaume. 2026. Algorithmes queers: perturber les technologies, imaginer nos futurs. Culture 22. Montreuil: Éditions B42.\n\n\nChomsky, Noam. 1957. Syntactic Structures.\n\n\nDrucker, Johanna. 2013. “Performative Materiality and Theoretical Approaches to Interface.” Digital Humanities Quarterly 007 (1).\n\n\nDumas Primbault, Simon. 2023. “Naviguer dans les savoirs à l’ère numérique. Pour une ethnographie des pratiques informationnelles sur Gallica.” Études de communication. langages, information, médiations, no. 61 (December): 61–89. https://doi.org/10.4000/edc.16108.\n\n\n———. 2025. “La Découvrabilité Comme ”Prise” - Pratiques de Détournement Du Moteur de Recherche de Gallica.” In Découvrabilité Des Contenus Culturels Et Scientifitques, edited by Lise Verlaet and Chloé Delaporte. Montpellier, France.\n\n\nErdelez, Sanda. 2004. “Investigation of Information Encountering in the Controlled Research Environment.” Information Processing & Management 40 (6): 1013–25. https://doi.org/10.1016/j.ipm.2004.02.002.\n\n\nErdelez, Sandra. 1999. “Information Encountering: It’s More Than Just Bumping into Information.” Bulletin of the American Society for Information Science and Technology 25 (3): 26–29. https://doi.org/10.1002/bult.118.\n\n\nFirth, John Rupert. 1962. Studies in Linguistic Analysis. Repr. Special Volume of the Philological Society. Oxford: Blackwell.\n\n\nFoster, Allen, and Nigel Ford. 2003. “Serendipity and Information Seeking: An Empirical Study.” Journal of Documentation 59 (3): 321–40. https://doi.org/10.1108/00220410310472518.\n\n\nGoodfellow, Ian J., Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. “Generative Adversarial Networks.” arXiv. https://doi.org/10.48550/arXiv.1406.2661.\n\n\nHarris, Zellig S. 1981. “Distributional Structure.” In Papers on Syntax, edited by Zellig S. Harris and Henry Hiż, 3–22. Dordrecht: Springer Netherlands. https://doi.org/10.1007/978-94-009-8467-7_1.\n\n\nKauffman, Stuart A. 1996. “Investigations.” Working {{Papers}} 96-08-072. Santa Fe Institute. https://doi.org/None.\n\n\nKlee, Miles. 2025. “AI Is Inventing Academic Papers That Don’t Exist – And They’re Being Cited in Real Journals.” Rolling Stone.\n\n\nMakri, Stephann, and Ann Blandford. 2012. “Coming Across Information Serendipitously – Part 1: A Process Model.” Journal of Documentation 68 (5): 684–705. https://doi.org/10.1108/00220411211256030.\n\n\nMonechi, Bernardo, Ãlvaro Ruiz-Serrano, Francesca Tria, and Vittorio Loreto. 2017. “Waves of Novelties in the Expansion into the Adjacent Possible.” PLOS ONE 12 (6): e0179303. https://doi.org/10.1371/journal.pone.0179303.\n\n\nPerkins, David N. 1994. “Insight in Minds and Genes,” November. https://doi.org/10.7551/mitpress/4879.003.0022.\n\n\nPouyllau, Stéphane. 2023. “Utiliser isidore.science : un regard sur les usages d’un moteur de recherche académique.” {Keynote}.\n\n\n———. 2025. “&lt;&lt; Durabilité et refactorisation des instruments de la recherche en SHS : le cas d’isidore.science et le projet ISIDORE 2030 &gt;&gt;.” Montréal.\n\n\nRice, Ronald E., Maureen McCreadie, and Shan-Ju Chang. 2001. “Results: Motivating Themes and Patterns of Browsing.” In Accessing and Browsing Information and Communication. The MIT Press. https://doi.org/10.7551/mitpress/1066.001.0001.\n\n\nRodwell, Elizabeth, Kristina Neumann, and Peggy Lindner. 2025. “User Experience (UX) Heuristics for the Digital Humanities.” Digital Humanities Quarterly 019 (4).\n\n\nSchneider, Alexia. 2026. “An Imperfect AI to Uphold Human Agency : Vindicating the ‘Yes but’ of This World.” Short {{Talk}}. Montréal.\n\n\nSchneider, Alexia, Pierre Levy, and Marcello Vitali-Rosati. 2026. “Reclaiming Epistemic Agency in AI-Assisted Research: A Recom- Mender System That Reveals, Rather Than Hides, IR Logic.” Daejeon, South Corea.\n\n\nSuchet, Myriam. 2026. “En françaiS Au Pluriel.” En françaiS Au Pluriel. https://www.enfrancaisaupluriel.fr/pages/266.\n\n\nTay, Aaron. 2025. “What Do We Actually Mean by \"AI-Powered Search\"?” Substack Newsletter. Aaron Tay’s Musings about Librarianship.\n\n\n———. 2026. “The Blank Box Problem: Why It’s Harder Than Ever to Know What to Type Into an AI Search Bar.” Substack Newsletter. Aaron Tay’s Musings about Librarianship."
+  },
+  {
+    "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#prompt-de-traduction-en-ieml",
+    "href": "slides/26-05-22_Humanistica_IEML-RS.html#prompt-de-traduction-en-ieml",
+    "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
+    "section": "Prompt de “traduction” en IEML",
+    "text": "Prompt de “traduction” en IEML\nTu es un expert en sémantique. Tu dois décomposer sémantiquement le mot-clé \"${keyword}\" à partir des 9 valeurs suivantes :\n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\n## Exemples\n${examples}\n\n## Mots du dictionnaire \nTu dois utiliser les mots ci-dessous pour définir le mot-clé \"${keyword}\":\n${context}\n\nTa réponse prendra la forme d'un CSV à 9 colonnes, les entêtes de colonnes sont: \n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\nIl n'est pas nécessaire de remplir tous les champs. Un champs peut rester vide entre deux virgules, comme dans les exemples. \nRépond uniquement avec une ligne CSV finale, sans explication."
+  },
+  {
+    "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#prompt-de-la-query-augmentation",
+    "href": "slides/26-05-22_Humanistica_IEML-RS.html#prompt-de-la-query-augmentation",
+    "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
+    "section": "Prompt de la Query augmentation",
+    "text": "Prompt de la Query augmentation\nProduit 10 variants de la requête booléenne suivante \"${keywords}\". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  \"impact of climate change on biodiversity\". Réponse: \"\n(climate change biodiversity impact) OU (effects of climate change on ecosystems) OU (biodiversity loss due to climate change) OU (climate change species extinction) OU (impact of global warming on wildlife) OU (effects of climate change on ecosystems and species diversity) OU (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OU (relationship between climate change and loss of biodiversity) OU (climate change threats to flora and fauna diversity) OU (impact of climate change on biodiversity)\nC'est à ton tour avec \"${keywords}\". Répond uniquement avec la requête sans donner d'explication."
+  },
+  {
+    "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#évaluation-de-la-traduction-automatique-en-ieml",
+    "href": "slides/26-05-22_Humanistica_IEML-RS.html#évaluation-de-la-traduction-automatique-en-ieml",
+    "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
+    "section": "Évaluation de la traduction automatique en IEML",
+    "text": "Évaluation de la traduction automatique en IEML\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nword to translate\ntheme or root\nwho\nwhat\nto whom\nby what means\nwhen\nwhere\nwhy\nhow\n\n\n\n\nespace numérique\ntechnique numérique\n-\nespace\n-\n-\n-\n-\n-\n-\n\n\nchanteur\njouer ou chanter une mélodie\npersonne\n-\n-\n*par le moyen de voix\n-\n-\n-\n\n\n\n\n\nTraduction attendue"
+  },
+  {
+    "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#évaluation-qualitative-de-ieml-rs",
+    "href": "slides/26-05-22_Humanistica_IEML-RS.html#évaluation-qualitative-de-ieml-rs",
+    "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
+    "section": "Évaluation qualitative de IEML-RS",
+    "text": "Évaluation qualitative de IEML-RS\n6 utilisateur.ices (PhD en HN). Démonstration suivie d’une observation d’utilisation de 10 min puis entrevue de 15 min.\nCritères :\n\nuser-friendliness,\nutilité,\n\nFonctionalités:\n\nnavigation (mots-clés et concepts),\ntraduction vers IEML,\ncomparaison des panels de listes d’articles."
+  },
+  {
+    "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#question-de-recherche",
+    "href": "slides/26-05-22_Humanistica_IEML-RS.html#question-de-recherche",
+    "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
+    "section": "Question de recherche",
+    "text": "Question de recherche\nComment concevoir des systèmes explicables qui se trouvent au centre d’environnement qui favorisent l’exploration critique et permettent un engagement intellectuel avec l’algorithme ?"
+  },
+  {
+    "objectID": "slides/26-05-21_Humanistica_GTT.html#mise-en-place-concrète",
+    "href": "slides/26-05-21_Humanistica_GTT.html#mise-en-place-concrète",
+    "title": "Humanistica - Pourquoi le premier jeu de l’imitation n’a jamais été joué",
+    "section": "Mise en place concrète",
+    "text": "Mise en place concrète\nL’évaluateur échange pendant 3min avec un joueur puis 3min avec l’autre.\nParmi les deux joueur.ses il y a toujours une femme, et soit un homme soit un chatbot qui se fait passer pour une femme.\nAprès avoir parlé avec les deux, il choisit qui est selon lui la femme.\nCe scénario met en concurrence l’homme et la machine placés sur un pied d’égalité car devant se faire passer pour une femme."
+  },
+  {
+    "objectID": "slides/26-05-22_Humanistica_IEML-RS.html#merci-pour-votre-attention",
+    "href": "slides/26-05-22_Humanistica_IEML-RS.html#merci-pour-votre-attention",
+    "title": "Humanistica - recherche documentaire assistée par IA et systèmes de recommandation",
+    "section": "Merci pour votre attention !",
+    "text": "Merci pour votre attention !\nLien vers le téléchargement du plugin pour Firefox:"
   }
 ]
