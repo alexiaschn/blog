@@ -1,10 +1,10 @@
 ---
-title: "CSDH - AI-powered research assistant’ and the invisible transformations of research practices"
+title: "CSDH - 'AI-powered research assistant’ and the invisible transformations of research practices"
 author: 
     - name: Alexia Schneider 
       orcid: 0009-0000-0651-9792
       email: alexia.schneider@umontreal.ca
-date: 2026-06-05
+date: 2026-06-03
 bibliography: ../phd_udem.bib
 link-citations: true
 colorlinks: true
@@ -33,36 +33,64 @@ on the scientific ecosystem and emerging discrete research practices. I will als
 reflection, design suggestions, and architectural frameworks for recommendation and information
 retrieval systems tailored to address these major challenges -->
 
-**This presentation highlights the added value of serendipity as an epistemic alternative and proposes ways to enhance human agency in so-called AI tools and features within the context of documentary research.**
+**This presentation highlights the added value of creating environments that foster serendipity as opposed to strict findability in the context of documentary search driven by "AI-research-assistant".** 
 
-Contributions: 
+<!-- Contributions: 
 
 - Description of the possible influence of automation features for semantic tasks within the ecosystem of scholarly content production and dissemination. 
 - Theoretical contribution: serendipity as a support for human agency and an epistemological alternative to dominant Information Retrieval (IR) paradigms.
-- Concrete technical proposals for enhancing human agency. 
+- Seven design principles for enhancing human agency for documentary research tools. -->
 
 ## Outline 
 
-1. AI assistants and documentary research  
+1. Context: AI research assistants and documentary research  
 2. Serendipity as an epistemological alternative to the discoverability regime materialized by current AI tools.
 3. Proposals for developing tools that value human agency.
 
 
 # AI Assistants and Documentary Research  
 
-
-## "Artificial Intelligence" and Information Retrieval
+## Basic Definitions
 
 AI: "automation of cognition" @abbassEditorialWhatArtificial2021
 
-Information Retrieval: matching a query with one or more documents. 
+Documentary Research: human led process of research and selection of documents. 
 
-Context: the subject spans the entire research dissemination process at all stages: from writing/editing to dissemination, and finally to query construction. 
+Information Retrieval: technical matching between a query and one or more documents. 
+
+
+## From Traditional Search Engines
+
+![Google Scholar basics](img/googlescholar.png)
+
+## To "AI-research assistants"
+
+![Google Scholar Labs provides an explanation for the article's presence in the results list](img/googlescholarlabs.png)
 
 --- 
 
-![An ecosystem from article writing to the queries that allow it to be found: interactions between humans and digital tools](img/article_pipeline.png)
 
+![Deep research with Undermind.ai](img/undermindai.png)
+
+[source](https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1)
+
+
+
+## A Growing Demand?
+
+
+@silvestredesacyNoteLexperienceLIA2024 at Isidore :
+
+> We observe strong expectations from certain Social and Humanities Sciences (SHS) communities regarding artificial intelligence algorithms, particularly for **high-value tasks** such as fine annotation of textual corpora, knowledge engineering, image processing, text document correction, sequential data processing, and processing of 3D-restored environments, among others.
+
+> **The objective for SHS research actors is to view AI not merely as a technology, but primarily as a socio-technical system to be invested in, appropriated, and understood.** This could potentially be realized through a role for research infrastructures. The aim would be to contribute to investing in these socio-technical systems by establishing transparent and educational research services and infrastructures, **enabling researchers to choose specific AI algorithms based on their research questions with full awareness of the implications of such choices.**
+
+<!-- 
+>Nous constatons de fortes attentes de la part de certaines communautés SHS autour des algorithmes d’intelligence artificielle, notamment autour de tâches à forte valeur ajoutée (annotation fine de corpus textuels, ingénierie des connaissances, traitements d’images, correction de documents textuels, traitement des données sérielles, traitements d’environnements restitués en 3D, etc.). »
+
+> objectif pour les acteurs de recherche SHS de voir l’IA non pas comme une simple technologie, mais avant tout comme un dispositif socio-technique à investir, à s’approprier, et à comprendre. Tout ceci pouvant se concrétiser dans un éventuel rôle pour des infrastructures de recherche. Il s’agirait alors de contribuer à investir ces dispositifs socio-techniques à travers la mise en place de services et d’infrastructures de recherche transparents, pédagogiques, leur permettant d’adapter le choix de tel ou tel algorithme d’IA en fonction de leur problématique de recherche et en pleine connaissance des implications d’un tel choix. -->
+
+In order to understand the implications of the integration of "AI-based systems" within information retrieval infrastructure, let's look at the possible places of its intervention.
 
 ## Typology of possible AI interventions in documentary research
 
@@ -71,9 +99,13 @@ Context: the subject spans the entire research dissemination process at all stag
 3. Information retrieval method: lexical search (boolean, regex, TF-IDF, BM25) vs. so-called semantic search (vector comparison). 
 4. Ranking  
 5. Enrichment of the results list 
-6. Synthesis and analysis of sources: RAG, _deep search_
+6. Synthesis and analysis of sources: RAG, deep search
 
 Typology partially proposed by @tayWhatWeActually2025.
+
+Principles suggested later concern documentary search at large and not only deep search applications.
+
+
 
 <!-- ## Reranking
 
@@ -89,15 +121,12 @@ Ranking of presented articles according to a relevance criterion relative to the
 
 [^primo]: Source: https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/015_Getting_Started_with_Prim_Research_Assistant
  -->
-
+<!-- 
 ---
 
-![Asta presents the justification for the relevance category](img/asta.png)
+![Asta presents the justification for the relevance category](img/asta.png) -->
 <!-- 
 ## Enrichment of the results list -->
---- 
-
-![Google Scholar Labs provides an explanation for the article's presence in the results list](img/googlescholarlabs.png)
 
 <!-- ## Article synthesis or literature review assistant
 
@@ -107,25 +136,52 @@ Synthesis of extracted articles to answer a natural language question => RAG.
 
 2. _Deep research_: Agentic AI, specialization of multiple agents, returns a complete report in a few minutes. Specialized features Example: Consensus "Study Snapshot" feature.   -->
 
---- 
 
-![Deep research with Undermind.ai](img/undermindai.png)
+## Main risks provoked by these interventions
 
-[source](https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1)
+- Confusion between search and analysis within research practices [@finnShapingHistoryResponsibly2026]
+- Increased opacity : 
+  - Which databases?
+  - Based on metadata or full text ?
+- Increased persuasiveness : 
+  - Design favoring an authoritative output
+  - "blank box"[@tayBlankBoxProblem2026]
 
-## Limitations of synthesis tools
+## Recent proposals
 
-- Which databases?
-- Based only on metadata (abstracts)?
-- Can invent sources to answer a question (-> _citogenesis_ phenomenon that predates LLMs and _lit review assistants_.)
+Evaluation of RAG, AI Research Tools [@archambaultEvaluationCuttingEdgeAI2024; @pattersonWhichAITools2025] as well as recommander systems [razaComprehensiveReviewRecommender2025] take into account the specifics of LLM-based applications for research purposes through qualitative analysis of their outputs.
 
-> The AI-generated things get propagated into other real things, so students see them cited in real things and assume they’re real, and get confused as to why they lose points for using fake sources when other real sources use them [@kleeAIInventingAcademic2025]
+Broad design principles :  @purenAlignerMethodeHistorique2026; @purenArticulerMethodeHistorique2026 :
 
-## The Oracle 
+  - traçabilité/traceability
+  - contextualisation
+  - auditability : transformations should be notified and evaluation can be made from a grid of clear criteria.
 
-- Black box effect
-- "blank box"[@tayBlankBoxProblem2026]
-- The "sparkle" magic thinking and utilitarian discourse.
+Concrete proposals for Archival AI assistants : @finnShapingHistoryResponsibly2026 : 7 design principles : 
+
+  - narrow over general purposes
+  - search over analysis
+  - tailor to collection first, user second
+  - elucidate complexity
+  - rigorous and open evaluation
+  - transparency in design and communication
+  - enable informed usage 
+
+For Research Assistants :
+
+- @tayBlankBoxProblem2026 focussing on reducing the "blank-box" effect of deep search applications : 
+  - suggesting guiding sample prompts
+  - creating hybrid UI with explicit filters (ex: for period ranges, doc types)
+  - autocomplete guiding the prompts based on actual constraints
+  - user validation of the LLM parsing of the initial prompt
+  - explicit limitations of the systems
+  - templates for common tasks
+
+How can we think beyond the box of natural language interactions (i.e. chatbots)?  
+
+ <!-- put focus on serendipitous findings and discovery with AI research assistants while remaining true to these guiding principles ?  -->
+
+
 
 # Serendipity as an Epistemological Alternative
 <!-- 
@@ -151,25 +207,33 @@ The way one queries a search engine will determine the information to which we h
 
 ## Discoverability 
 
-Innovation and research depend heavily on our ability to make new semantic links.
+Innovation and research depend heavily on our ability to make new semantic connections.
 
 Two faces: 
 
-- Findability: accessing the information one is looking for (document indexing side)
-- Serendipity: accidentally accessing what one did not know one did not know (user side)
+- **Findability**: accessing the information one is looking for (document indexing side)
+- **Serendipity**: accidentally accessing what one did not know one did not know (user side)
 
-Much studied in the context of e-commerce and dissemination of cultural content, otherwise by information and documentation sciences for discoverability in science.  
+<!-- Much studied in the context of e-commerce and dissemination of cultural content, otherwise by information and documentation sciences for discoverability in science.   -->
+
+Thesis: 
+
+Current AI research assistants focus mainly on findability to meet basic search engine standards; however, because they inherently incorporate interpretative steps, making serendipity a core design goal could be a valuable direction to pursue.
+
+
+Why serendipity? Serendipity is a process of filtering and connecting with new information : as a design goal, it means putting at the center human judgment. 
+
 
 ## Serendipity 
 
-'Browsing' is a 4-dimensional process [@riceResultsMotivatingThemes2001]: 
+<!-- 'Browsing' is a 4-dimensional process [@riceResultsMotivatingThemes2001]: 
 
 1. the act of scanning;
 2. the presence or absence of purpose;
 3. the specificity of search outcomes or goals; 
-4. and knowledge about the resource and object sought.
+4. and knowledge about the resource and object sought. -->
 
-Serendipity is the process and result of this '_chance encounter_' -> creativity of the connection. 
+Serendipity is both the process and the result of a '_chance encounter_'. 
 
 ![Modeling of serendipity [@makriComingInformationSerendipitously2012]](img/modelSerendipityMakri.png)
 
@@ -197,7 +261,7 @@ Exploratory and serendipitous approaches in documentary research:
 <!-- Dumas Primbault: importance of pivot disciplines -->
 
 
-## Serendipity and Digital Technology
+<!-- ## Serendipity and Digital Technology
 
 Exploration at the heart of the connected digital experience: 
 
@@ -207,27 +271,21 @@ Exploration at the heart of the connected digital experience:
 vs. the emergence of limiting algorithmic logics: 
 
 > While it was felt that some element of control could be exercised to attract “chance encounters”, there was a perception that such encounters may really be manifestations of the hidden, but logical, influences of information gatekeepers – inherent in, for example, library classification schemes 
-> --- [@fosterSerendipityInformationSeeking2003]
+> --- [@fosterSerendipityInformationSeeking2003] -->
 
 
+## Challenges for the Design of Environment Favoring Serendipity
 
-## Challenges of Serendipity
+Reproducibility and memory: how can we keep track of an exploratory path? how can we help a person recall the many steps leading to a resolution [@erdelezInvestigationInformationEncountering2004]?
 
-Reproducibility: how to keep track of an exploratory path? We retain in memory a limited number of steps leading to a resolution [@erdelezInvestigationInformationEncountering2004]. 
+Evaluation: how can we evaluate the impact of a finding? or the interest of a new search feature [@pouyllauUtiliserIsidorescienceRegard2023; @pouyllauDurabiliteRefactorisationInstruments2025]? how can we cater to all in a highly subjective process without falling into personalization bias (e.g. filter bubbles [@pariserFilterBubble2012])?
 
-Evaluation: how to evaluate the impact of a finding? And the interest of a new search feature [@pouyllauUtiliserIsidorescienceRegard2023; @pouyllauDurabiliteRefactorisationInstruments2025] ?
 
-Design: in what way can we create points of affordance that allow users to _find meaning_ ?
+## Questions 
 
-## Research Questions 
+How can we design explainable systems that are at the center of environments that favor serendipity and critical exploration? And allow for reflexive interactions with the algorithm?
 
-How to design explainable systems that:
-
-- Are at the center of environments that favor serendipity and critical exploration?
-
-- Allow for reflective interaction with the algorithm?
-
-# Proposals 
+# Proposals : 7 principles for the design of LLM-based applications focussing on serendipity in documentary research 
 
 
 ## Make Room for Uncertainty
@@ -247,7 +305,7 @@ Example: the _Provotype_ [@boerProvotypesParticipatoryInnovation2012] -->
 
 => Make uncertainties and tool limitations appear. 
 
-## Disorder  
+## Exploration Through Disorderliness
 
 Example: [françaiS au pluriel](https://www.enfrancaisaupluriel.fr/library?mode=tree) [@suchetFrancaiSAuPluriel2026]
 
@@ -265,7 +323,7 @@ Example: [françaiS au pluriel](https://www.enfrancaisaupluriel.fr/library?mode=
 ![françaiS au pluriel: history](img/francaisPluriel_historique.png)
 
 
-## Explore Other Facets
+## Value in Underexplored Facets
 
 Highlight underexplored semantic facets to offer other paths. 
 
@@ -281,56 +339,60 @@ Example: typology of citation type -> citation network beyond quantification
 
 
 
-## Restitution as Support for Expertise 
+## Report as Support for Expertise 
 
 - Complete reports tracing the algorithmic mediation of the user's request to the response or list of articles returned (reranking criteria, query reformulation prompt, etc.). 
 
-- Expose the tool's limitations and capabilities Example: Barista, the query builder assistant on Impresso  
+- Expose the tool's limitations and capabilities Example: Barista, the query builder assistant on Impresso  [@finnShapingHistoryResponsibly2026]
 
 ---
 
-![Side-by-side visualization of search panels in IEML-RS
-](img/etape6_affichageArticles.png)
+
+![@finnShapingHistoryResponsibly2026](img/barista-facct.png)
+
+<!-- ![Side-by-side visualization of search panels in IEML-RS](img/etape6_affichageArticles.png) -->
 
 
 ## Specialization of Classification and Quantification 
+<!-- 
+Similar to the "narrow over generalisation".  -->
 
-Specialized classification assists human judgment:
+Specialized classification assists human judgment.
 
-Example: Evidence-RAG from the _Journal of Digital History_: assists the editor in presenting the evaluation of an article: situates the relevance of a comment relative to the evaluated article.
-
-
-Example: Citation disagreement in a citation network 
-
+Example: Evidence-RAG from the _Journal of Digital History_: assists the editor in presenting the evaluation of an article: situates the relevance of a comment relative to the evaluated article [guerardInteractiveEvidenceRAGPeer2026]. 
 
 
 ## Exaptation and Imperfection
 
+
 (evolution theory): "opportunistic selective adaptation, favoring characteristics that are useful for a new function, for which they were not initially selected."
 
+In other words : allowing the tool to become the result of a misuse in the process of appropriation [@tchounikineAppropriatingTechnologyHow2025]. 
 
-Example: "Misappropriation" of the search of search engines reputedly flawed by Gallica [@dumasprimbaultDecouvrabiliteCommePrise2025]
+Example: "Misappropriation" of the search function of Gallica's famously flawed search engine [@dumasprimbaultDecouvrabiliteCommePrise2025]
 
 
 ## Friction 
 
 Generative adversarial networks (GANs) [@goodfellowGenerativeAdversarialNetworks2014] and antagonistic AI [@caiAntagonisticAI2024]. 
 
-Spirit of contradiction: allowing correction and evaluation by the user. [@schneiderImperfectAIUphold2026] to come at INKE
+Spirit of contradiction: allowing correction and evaluation by the user. @schneiderImperfectAIUphold2026 tomorrow at INKE !
 
-Example: IEML-RS [@schneiderReclaimingEpistemicAgency2026]
+Example: IEML-RS, a recommander system, [@schneiderReclaimingEpistemicAgency2026] allows for a basic semantic decomposition of a concept in 9 fixed facets (i.e. IEML), however the "translations" done by a LLM (prompted along with a few example), are mediocre encouraging the user to correct . 
 
----
+<!-- ---
 
 ![IEML-RS, keyword extraction from the _seed_ article](img/etape1_extractionKeywords.png)
 
 ---
 
-![IEML-RS, selection of a keyword translated into IEML](img/etape2_selectionConcept.png)
+![IEML-RS, selection of a keyword translated into IEML](img/etape2_selectionConcept.png) -->
 
 ---
 
-![IEML-RS, selection of a keyword **not translated** into IEML - automatic translation with `gemini`](img/etape3_propositionTraduction.png)
+![IEML-RS, selection of a keyword **not translated** into IEML - automatic translation with `gemini`](img/etape3_propositionTraduction2.png)
+
+
 <!-- 
 (Pierre Lévy's idea: allow correction of the automatic translation in IEML generated by Gemini). -->
 
@@ -345,18 +407,25 @@ Example: IEML-RS [@schneiderReclaimingEpistemicAgency2026]
 - Friction
 
 # Conclusion
+<!-- 
+Serendipity as a process of reflective selection in the face of a mass of documents can be a proven vector of creativity to materialize human agency.  -->
 
-Serendipity as a process of reflective selection in the face of a mass of documents can be a proven vector of creativity to materialize human agency. 
+Frictionless interfaces tend to blur the lines between research and analysis whereas environments fostering a reflective process of selection help put value into the findings themselves. 
 
-Developing tools that make choices explicit, and leave room for many diverging realities rather than leaving a frictionless interface can highlight human agency. 
+<!-- 
+Developing tools that make choices explicit, and leave room for many diverging realities can highlight human agency.  -->
 
 ## Acknowledgements 
 
-This work benefited from a grant thanks to funding from the Consulat General de France au Quebec and the Fonds de recherche du Québec, which enabled a research stay at the Huma-Num Lab via the Sophie Germain mobility grant. 
+This work benefited from a grant thanks to funding from the Consulat General de France au Quebec and the Fonds de recherche du Québec, which enabled a research stay at the Huma-Num Lab via the Sophie Germain mobility grant. [https://doi.org/10.69777/381645](https://doi.org/10.69777/381645)
 
-  <!-- (« #DOSSIER » or https://doi.org/10. 10.#####/#####) when I have the DOI -->
 
 Research funded by the CRSH through the Revue3.0 partnership project as well as a grant from the Circé Network for mutualization and research for scientific journals. 
+
+
+## Ecosystem of production and dissemination of scientific papers
+
+![An ecosystem from article writing to the queries that allow it to be found: interactions between humans and digital tools](img/article_pipeline.png) -->
 
 
 ## Bibliography
