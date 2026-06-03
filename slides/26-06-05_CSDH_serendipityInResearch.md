@@ -67,15 +67,9 @@ Information Retrieval: technical matching between a query and one or more docume
 
 ![Google Scholar Labs provides an explanation for the article's presence in the results list](img/googlescholarlabs.png)
 
---- 
 
 
-![Deep research with Undermind.ai](img/undermindai.png)
-
-[source](https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1)
-
-
-
+<!-- 
 ## A Growing Demand?
 
 
@@ -83,7 +77,7 @@ Information Retrieval: technical matching between a query and one or more docume
 
 > We observe strong expectations from certain Social and Humanities Sciences (SHS) communities regarding artificial intelligence algorithms, particularly for **high-value tasks** such as fine annotation of textual corpora, knowledge engineering, image processing, text document correction, sequential data processing, and processing of 3D-restored environments, among others.
 
-> **The objective for SHS research actors is to view AI not merely as a technology, but primarily as a socio-technical system to be invested in, appropriated, and understood.** This could potentially be realized through a role for research infrastructures. The aim would be to contribute to investing in these socio-technical systems by establishing transparent and educational research services and infrastructures, **enabling researchers to choose specific AI algorithms based on their research questions with full awareness of the implications of such choices.**
+> **The objective for SHS research actors is to view AI not merely as a technology, but primarily as a socio-technical system to be invested in, appropriated, and understood.** This could potentially be realized through a role for research infrastructures. The aim would be to contribute to investing in these socio-technical systems by establishing transparent and educational research services and infrastructures, **enabling researchers to choose specific AI algorithms based on their research questions with full awareness of the implications of such choices.** -->
 
 <!-- 
 >Nous constatons de fortes attentes de la part de certaines communautés SHS autour des algorithmes d’intelligence artificielle, notamment autour de tâches à forte valeur ajoutée (annotation fine de corpus textuels, ingénierie des connaissances, traitements d’images, correction de documents textuels, traitement des données sérielles, traitements d’environnements restitués en 3D, etc.). »
@@ -92,19 +86,26 @@ Information Retrieval: technical matching between a query and one or more docume
 
 In order to understand the implications of the integration of "AI-based systems" within information retrieval infrastructure, let's look at the possible places of its intervention.
 
-## Typology of possible AI interventions in documentary research
+## Typology of possible AI interventions in scientific production ecosystem
 
-1. Metadata creation: disambiguation, keyword creation, subject classification, abstract generation. Example: [Isidore](https://isidore.science) -> _machine learning_ for attributing related subjects. 
-2. Query expansion: thesaurus, ontology vs. _query expansion_
-3. Information retrieval method: lexical search (boolean, regex, TF-IDF, BM25) vs. so-called semantic search (vector comparison). 
-4. Ranking  
-5. Enrichment of the results list 
-6. Synthesis and analysis of sources: RAG, deep search
+1. Writing/rephrasing
+2. Metadata creation: disambiguation, keyword creation, subject classification, abstract generation. 
+3. Query expansion: thesaurus, ontology vs. _query expansion_
+4. Information retrieval method: lexical search (boolean, regex, TF-IDF, BM25) vs. so-called semantic search (vector comparison). 
+5. Ranking of result list 
+6. Enrichment of the results list 
+7. **Synthesis and analysis of sources: RAG, deep search**
 
-Typology partially proposed by @tayWhatWeActually2025.
+Typology based on @tayWhatWeActually2025.
+<!-- 
+Principles suggested later concern documentary search at large and not only deep search applications. -->
 
-Principles suggested later concern documentary search at large and not only deep search applications.
+--- 
 
+
+![Deep research with Undermind.ai](img/undermindai.png)
+
+[source](https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1)
 
 
 <!-- ## Reranking
@@ -137,7 +138,7 @@ Synthesis of extracted articles to answer a natural language question => RAG.
 2. _Deep research_: Agentic AI, specialization of multiple agents, returns a complete report in a few minutes. Specialized features Example: Consensus "Study Snapshot" feature.   -->
 
 
-## Main risks provoked by these interventions
+## Main risks with current shift toward deep search
 
 - Confusion between search and analysis within research practices [@finnShapingHistoryResponsibly2026]
 - Increased opacity : 
@@ -147,15 +148,21 @@ Synthesis of extracted articles to answer a natural language question => RAG.
   - Design favoring an authoritative output
   - "blank box"[@tayBlankBoxProblem2026]
 
-## Recent proposals
+## Evaluation of LLM-based applications from the user point of view
 
-Evaluation of RAG, AI Research Tools [@archambaultEvaluationCuttingEdgeAI2024; @pattersonWhichAITools2025] as well as recommander systems [razaComprehensiveReviewRecommender2025] take into account the specifics of LLM-based applications for research purposes through qualitative analysis of their outputs.
+Evaluation of RAG and AI Research Tools : @archambaultEvaluationCuttingEdgeAI2024; @pattersonWhichAITools2025
 
-Broad design principles :  @purenAlignerMethodeHistorique2026; @purenArticulerMethodeHistorique2026 :
+Evaluation of recommander systems : @razaComprehensiveReviewRecommender2025. 
 
-  - traçabilité/traceability
+
+Broad design principles for RAG for historical corpus [@purenAlignerMethodeHistorique2026] :
+
+  - traceability
   - contextualisation
   - auditability : transformations should be notified and evaluation can be made from a grid of clear criteria.
+
+
+## Design principles 
 
 Concrete proposals for Archival AI assistants : @finnShapingHistoryResponsibly2026 : 7 design principles : 
 
@@ -177,32 +184,12 @@ For Research Assistants :
   - explicit limitations of the systems
   - templates for common tasks
 
-How can we think beyond the box of natural language interactions (i.e. chatbots)?  
 
  <!-- put focus on serendipitous findings and discovery with AI research assistants while remaining true to these guiding principles ?  -->
 
 
 
 # Serendipity as an Epistemological Alternative
-<!-- 
-## Distributional Hypothesis-Based Semantic Modeling
-
-Distributional hypothesis by @harrisDistributionalStructure1981. 
-
-> You shall know a word by the company it keeps. 
-> --- @firthStudiesLinguisticAnalysis1962
-
-
-vs. 
-
-> Colorless green ideas sleep furiously
-> --- @chomskySyntacticStructures1957
-
-In the context of information retrieval: **should we only search for what is most probable?**
-
-**Consequence: crystallization of a semantic model induced from a probability based on occurrence frequency as soon as the query is made**, and not just for finding relevant articles. 
-
-The way one queries a search engine will determine the information to which we have access and on which we base our research.    -->
 
 
 ## Discoverability 
@@ -220,8 +207,7 @@ Thesis:
 
 Current AI research assistants focus mainly on findability to meet basic search engine standards; however, because they inherently incorporate interpretative steps, making serendipity a core design goal could be a valuable direction to pursue.
 
-
-Why serendipity? Serendipity is a process of filtering and connecting with new information : as a design goal, it means putting at the center human judgment. 
+Serendipity is a process of filtering and connecting with new information : as a design goal, it means putting at the center human judgment. 
 
 
 ## Serendipity 
@@ -247,7 +233,7 @@ Importance of the **reflexive dimension** to distinguish serendipity from chance
 Latent space: the space of possibilities according to constraints defined by the algorithm developer, containing everything an algorithm is capable of predicting.  -->
 
 
-## Place of Serendipity in Science
+## Serendipity in Science
 
 Exploratory and serendipitous approaches in documentary research:
 
@@ -278,7 +264,7 @@ vs. the emergence of limiting algorithmic logics:
 
 Reproducibility and memory: how can we keep track of an exploratory path? how can we help a person recall the many steps leading to a resolution [@erdelezInvestigationInformationEncountering2004]?
 
-Evaluation: how can we evaluate the impact of a finding? or the interest of a new search feature [@pouyllauUtiliserIsidorescienceRegard2023; @pouyllauDurabiliteRefactorisationInstruments2025]? how can we cater to all in a highly subjective process without falling into personalization bias (e.g. filter bubbles [@pariserFilterBubble2012])?
+Evaluation: how can we evaluate the impact of a finding? or the interest of a new search feature [@pouyllauUtiliserIsidorescienceRegard2023; @pouyllauDurabiliteRefactorisationInstruments2025]? how can we cater to all in a highly subjective process without falling into personalization bias (e.g. filter bubbles [@pariserFilterBubbleWhat2012])?
 
 
 ## Questions 
@@ -286,58 +272,6 @@ Evaluation: how can we evaluate the impact of a finding? or the interest of a ne
 How can we design explainable systems that are at the center of environments that favor serendipity and critical exploration? And allow for reflexive interactions with the algorithm?
 
 # Proposals : 7 principles for the design of LLM-based applications focussing on serendipity in documentary research 
-
-
-## Make Room for Uncertainty
-
-A paradigm shift. 
-
-The Digital Humanities paradigm: 
-
-> « Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » 
-> --- [@druckerPerformativeMaterialityTheoretical2013]
-
-Counterfactualization: [@chevillonAlgorithmesQueersPerturber2026] identify which explanatory variable to change in the algo to obtain a different result: make alternative possibilities explicit. 
-
-And _delight_ in the user experience. [@rodwellUserExperienceUX2025] 
-<!-- 
-Example: the _Provotype_ [@boerProvotypesParticipatoryInnovation2012] -->
-
-=> Make uncertainties and tool limitations appear. 
-
-## Exploration Through Disorderliness
-
-Example: [françaiS au pluriel](https://www.enfrancaisaupluriel.fr/library?mode=tree) [@suchetFrancaiSAuPluriel2026]
-
----
-
-![françaiS au pluriel: tree structure](img/francaisPluriel_arborescence.png)
-
-
---- 
-
-![françaiS au pluriel: superposition](img/francaisPluriel_superposition.png)
-
----
-
-![françaiS au pluriel: history](img/francaisPluriel_historique.png)
-
-
-## Value in Underexplored Facets
-
-Highlight underexplored semantic facets to offer other paths. 
-
-Example: typology of citation type -> citation network beyond quantification
-
----
-
-![Visualization of citation disagreement on a corpus of articles from the journal _Itinéraires_ (in development: classifications are randomized)](img/desaccordCitation_itinerairesOverview.png)
-
----
-
-![Visualization by citation type for an article (in development: classifications and scores randomized)](img/desaccordCitation_articleView.png)
-
-
 
 ## Report as Support for Expertise 
 
@@ -354,13 +288,26 @@ Example: typology of citation type -> citation network beyond quantification
 
 
 ## Specialization of Classification and Quantification 
-<!-- 
-Similar to the "narrow over generalisation".  -->
+
+Similar to the "narrow over generalisation". 
 
 Specialized classification assists human judgment.
 
-Example: Evidence-RAG from the _Journal of Digital History_: assists the editor in presenting the evaluation of an article: situates the relevance of a comment relative to the evaluated article [guerardInteractiveEvidenceRAGPeer2026]. 
+Example: Evidence-RAG from the _Journal of Digital History_: assists the editor in presenting the evaluation of an article: situates the relevance of a comment relative to the evaluated article [@guerardInteractiveEvidenceRAGPeer2026]. 
 
+
+## Make Room for Uncertainty
+
+**Expliciting uncertainties and tool limitations.** 
+
+A paradigm shift that Digital Humanities approach can embrace:
+
+> « Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » 
+> --- [@druckerPerformativeMaterialityTheoretical2013]
+
+Counterfactualization: identifying which explanatory variable should change in the algorithm to obtain a different result: make alternative possibilities explicit. [@chevillonAlgorithmesQueersPerturber2026]
+
+Example: the _Provotype_ [@boerProvotypesParticipatoryInnovation2012] 
 
 ## Exaptation and Imperfection
 
@@ -396,6 +343,41 @@ Example: IEML-RS, a recommander system, [@schneiderReclaimingEpistemicAgency2026
 <!-- 
 (Pierre Lévy's idea: allow correction of the automatic translation in IEML generated by Gemini). -->
 
+
+## Exploration Through Disorderliness
+
+Example: [françaiS au pluriel](https://www.enfrancaisaupluriel.fr/library?mode=tree) [@suchetFrancaiSAuPluriel2026]
+
+---
+
+![françaiS au pluriel: tree structure](img/francaisPluriel_arborescence.png)
+
+
+--- 
+
+![françaiS au pluriel: superposition](img/francaisPluriel_superposition.png)
+
+---
+
+![françaiS au pluriel: history](img/francaisPluriel_historique.png)
+
+
+## Value in Underexplored Facets
+
+Highlight underexplored semantic facets to offer other paths. 
+
+Example: typology of citation type -> citation network beyond quantification
+
+---
+
+![Visualization of citation disagreement on a corpus of articles from the journal _Itinéraires_ (in development: classifications are randomized)](img/desaccordCitation_itinerairesOverview.png)
+
+---
+
+![Visualization by citation type for an article (in development: classifications and scores randomized)](img/desaccordCitation_articleView.png)
+
+
+<!-- 
 ## Summary of Proposals
 
 - Make room for uncertainty
@@ -404,7 +386,7 @@ Example: IEML-RS, a recommander system, [@schneiderReclaimingEpistemicAgency2026
 - Restitution as support for expertise
 - Specialization of classification and quantification
 - Exaptation 
-- Friction
+- Friction -->
 
 # Conclusion
 <!-- 
@@ -423,9 +405,13 @@ This work benefited from a grant thanks to funding from the Consulat General de 
 Research funded by the CRSH through the Revue3.0 partnership project as well as a grant from the Circé Network for mutualization and research for scientific journals. 
 
 
-## Ecosystem of production and dissemination of scientific papers
-
-![An ecosystem from article writing to the queries that allow it to be found: interactions between humans and digital tools](img/article_pipeline.png) -->
-
 
 ## Bibliography
+
+::: {#refs}
+
+:::
+
+## Ecosystem of production and dissemination of scientific papers
+
+![An ecosystem from article writing to the queries that allow it to be found: interactions between humans and digital tools](img/article_pipeline.png) 

@@ -210,40 +210,39 @@ retrieval systems tailored to address these major challenges -->
 <section id="to-ai-research-assistants" class="slide level2">
 <h2>To “AI-research assistants”</h2>
 
-<img data-src="img/googlescholarlabs.png" class="r-stretch quarto-figure-center"><p class="caption">Google Scholar Labs provides an explanation for the article’s presence in the results list</p></section>
-<section class="slide level2">
+<!-- 
+## A Growing Demand?
 
 
-<img data-src="img/undermindai.png" class="r-stretch quarto-figure-center"><p class="caption">Deep research with Undermind.ai</p><p><a href="https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1">source</a></p>
-</section>
-<section id="a-growing-demand" class="slide level2">
-<h2>A Growing Demand?</h2>
-<p><span class="citation" data-cites="silvestredesacyNoteLexperienceLIA2024">Silvestre de Sacy et al. (<a href="#/bibliography" role="doc-biblioref" onclick="">2024</a>)</span> at Isidore :</p>
-<blockquote>
-<p>We observe strong expectations from certain Social and Humanities Sciences (SHS) communities regarding artificial intelligence algorithms, particularly for <strong>high-value tasks</strong> such as fine annotation of textual corpora, knowledge engineering, image processing, text document correction, sequential data processing, and processing of 3D-restored environments, among others.</p>
-</blockquote>
-<blockquote>
-<p><strong>The objective for SHS research actors is to view AI not merely as a technology, but primarily as a socio-technical system to be invested in, appropriated, and understood.</strong> This could potentially be realized through a role for research infrastructures. The aim would be to contribute to investing in these socio-technical systems by establishing transparent and educational research services and infrastructures, <strong>enabling researchers to choose specific AI algorithms based on their research questions with full awareness of the implications of such choices.</strong></p>
-</blockquote>
+@silvestredesacyNoteLexperienceLIA2024 at Isidore :
+
+> We observe strong expectations from certain Social and Humanities Sciences (SHS) communities regarding artificial intelligence algorithms, particularly for **high-value tasks** such as fine annotation of textual corpora, knowledge engineering, image processing, text document correction, sequential data processing, and processing of 3D-restored environments, among others.
+
+> **The objective for SHS research actors is to view AI not merely as a technology, but primarily as a socio-technical system to be invested in, appropriated, and understood.** This could potentially be realized through a role for research infrastructures. The aim would be to contribute to investing in these socio-technical systems by establishing transparent and educational research services and infrastructures, **enabling researchers to choose specific AI algorithms based on their research questions with full awareness of the implications of such choices.** -->
 <!-- 
 >Nous constatons de fortes attentes de la part de certaines communautés SHS autour des algorithmes d’intelligence artificielle, notamment autour de tâches à forte valeur ajoutée (annotation fine de corpus textuels, ingénierie des connaissances, traitements d’images, correction de documents textuels, traitement des données sérielles, traitements d’environnements restitués en 3D, etc.). »
 
 > objectif pour les acteurs de recherche SHS de voir l’IA non pas comme une simple technologie, mais avant tout comme un dispositif socio-technique à investir, à s’approprier, et à comprendre. Tout ceci pouvant se concrétiser dans un éventuel rôle pour des infrastructures de recherche. Il s’agirait alors de contribuer à investir ces dispositifs socio-techniques à travers la mise en place de services et d’infrastructures de recherche transparents, pédagogiques, leur permettant d’adapter le choix de tel ou tel algorithme d’IA en fonction de leur problématique de recherche et en pleine connaissance des implications d’un tel choix. -->
-<p>In order to understand the implications of the integration of “AI-based systems” within information retrieval infrastructure, let’s look at the possible places of its intervention.</p>
+<img data-src="img/googlescholarlabs.png" class="r-stretch quarto-figure-center"><p class="caption">Google Scholar Labs provides an explanation for the article’s presence in the results list</p><p>In order to understand the implications of the integration of “AI-based systems” within information retrieval infrastructure, let’s look at the possible places of its intervention.</p>
 </section>
-<section id="typology-of-possible-ai-interventions-in-documentary-research" class="slide level2 scrollable">
-<h2>Typology of possible AI interventions in documentary research</h2>
+<section id="typology-of-possible-ai-interventions-in-scientific-production-ecosystem" class="slide level2 scrollable">
+<h2>Typology of possible AI interventions in scientific production ecosystem</h2>
 <ol type="1">
-<li>Metadata creation: disambiguation, keyword creation, subject classification, abstract generation. Example: <a href="https://isidore.science">Isidore</a> -&gt; <em>machine learning</em> for attributing related subjects.</li>
+<li>Writing/rephrasing</li>
+<li>Metadata creation: disambiguation, keyword creation, subject classification, abstract generation.</li>
 <li>Query expansion: thesaurus, ontology vs.&nbsp;<em>query expansion</em></li>
 <li>Information retrieval method: lexical search (boolean, regex, TF-IDF, BM25) vs.&nbsp;so-called semantic search (vector comparison).</li>
-<li>Ranking<br>
-</li>
+<li>Ranking of result list</li>
 <li>Enrichment of the results list</li>
-<li>Synthesis and analysis of sources: RAG, deep search</li>
+<li><strong>Synthesis and analysis of sources: RAG, deep search</strong></li>
 </ol>
-<p>Typology partially proposed by <span class="citation" data-cites="tayWhatWeActually2025">Tay (<a href="#/bibliography" role="doc-biblioref" onclick="">2025</a>)</span>.</p>
-<p>Principles suggested later concern documentary search at large and not only deep search applications.</p>
+<p>Typology based on <span class="citation" data-cites="tayWhatWeActually2025">Tay (<a href="#/bibliography" role="doc-biblioref" onclick="">2025</a>)</span>. <!-- 
+Principles suggested later concern documentary search at large and not only deep search applications. --></p>
+</section>
+<section class="slide level2">
+
+
+<img data-src="img/undermindai.png" class="r-stretch quarto-figure-center"><p class="caption">Deep research with Undermind.ai</p><p><a href="https://app.undermind.ai/report/96d1ce264f5b976eac434514d16e2529a99968d6928b225d57859617b14beca1">source</a></p>
 <!-- ## Reranking
 
 Ranking of presented articles according to a relevance criterion relative to the query. 
@@ -273,8 +272,8 @@ Synthesis of extracted articles to answer a natural language question => RAG.
 
 2. _Deep research_: Agentic AI, specialization of multiple agents, returns a complete report in a few minutes. Specialized features Example: Consensus "Study Snapshot" feature.   -->
 </section>
-<section id="main-risks-provoked-by-these-interventions" class="slide level2">
-<h2>Main risks provoked by these interventions</h2>
+<section id="main-risks-with-current-shift-toward-deep-search" class="slide level2">
+<h2>Main risks with current shift toward deep search</h2>
 <ul>
 <li>Confusion between search and analysis within research practices <span class="citation" data-cites="finnShapingHistoryResponsibly2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Finn et al. 2026</a>)</span></li>
 <li>Increased opacity :
@@ -289,15 +288,19 @@ Synthesis of extracted articles to answer a natural language question => RAG.
 </ul></li>
 </ul>
 </section>
-<section id="recent-proposals" class="slide level2">
-<h2>Recent proposals</h2>
-<p>Evaluation of RAG, AI Research Tools <span class="citation" data-cites="archambaultEvaluationCuttingEdgeAI2024 pattersonWhichAITools2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Archambault and Rincón 2024</a>; <a href="#/bibliography" role="doc-biblioref" onclick="">Patterson et al. 2025</a>)</span> as well as recommander systems [razaComprehensiveReviewRecommender2025] take into account the specifics of LLM-based applications for research purposes through qualitative analysis of their outputs.</p>
-<p>Broad design principles : <span class="citation" data-cites="purenAlignerMethodeHistorique2026">Puren et al. (<a href="#/bibliography" role="doc-biblioref" onclick="">2026</a>)</span>; <span class="citation" data-cites="purenArticulerMethodeHistorique2026">Puren (<a href="#/bibliography" role="doc-biblioref" onclick="">2026</a>)</span> :</p>
+<section id="evaluation-of-llm-based-applications-from-the-user-point-of-view" class="slide level2">
+<h2>Evaluation of LLM-based applications from the user point of view</h2>
+<p>Evaluation of RAG and AI Research Tools : <span class="citation" data-cites="archambaultEvaluationCuttingEdgeAI2024">Archambault and Rincón (<a href="#/bibliography" role="doc-biblioref" onclick="">2024</a>)</span>; <span class="citation" data-cites="pattersonWhichAITools2025">Patterson et al. (<a href="#/bibliography" role="doc-biblioref" onclick="">2025</a>)</span></p>
+<p>Evaluation of recommander systems : <span class="citation" data-cites="razaComprehensiveReviewRecommender2025">Raza et al. (<a href="#/bibliography" role="doc-biblioref" onclick="">2025</a>)</span>.</p>
+<p>Broad design principles for RAG for historical corpus <span class="citation" data-cites="purenAlignerMethodeHistorique2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Puren et al. 2026</a>)</span> :</p>
 <ul>
-<li>traçabilité/traceability</li>
+<li>traceability</li>
 <li>contextualisation</li>
 <li>auditability : transformations should be notified and evaluation can be made from a grid of clear criteria.</li>
 </ul>
+</section>
+<section id="design-principles" class="slide level2">
+<h2>Design principles</h2>
 <p>Concrete proposals for Archival AI assistants : <span class="citation" data-cites="finnShapingHistoryResponsibly2026">Finn et al. (<a href="#/bibliography" role="doc-biblioref" onclick="">2026</a>)</span> : 7 design principles :</p>
 <ul>
 <li>narrow over general purposes</li>
@@ -320,31 +323,12 @@ Synthesis of extracted articles to answer a natural language question => RAG.
 <li>templates for common tasks</li>
 </ul></li>
 </ul>
-<p>How can we think beyond the box of natural language interactions (i.e.&nbsp;chatbots)?</p>
 <p><!-- put focus on serendipitous findings and discovery with AI research assistants while remaining true to these guiding principles ?  --></p>
 </section></section>
 <section>
 <section id="serendipity-as-an-epistemological-alternative" class="title-slide slide level1 center">
 <h1>Serendipity as an Epistemological Alternative</h1>
-<!-- 
-## Distributional Hypothesis-Based Semantic Modeling
 
-Distributional hypothesis by @harrisDistributionalStructure1981. 
-
-> You shall know a word by the company it keeps. 
-> --- @firthStudiesLinguisticAnalysis1962
-
-
-vs. 
-
-> Colorless green ideas sleep furiously
-> --- @chomskySyntacticStructures1957
-
-In the context of information retrieval: **should we only search for what is most probable?**
-
-**Consequence: crystallization of a semantic model induced from a probability based on occurrence frequency as soon as the query is made**, and not just for finding relevant articles. 
-
-The way one queries a search engine will determine the information to which we have access and on which we base our research.    -->
 </section>
 <section id="discoverability" class="slide level2">
 <h2>Discoverability</h2>
@@ -357,7 +341,7 @@ The way one queries a search engine will determine the information to which we h
 <!-- Much studied in the context of e-commerce and dissemination of cultural content, otherwise by information and documentation sciences for discoverability in science.   -->
 <p>Thesis:</p>
 <p>Current AI research assistants focus mainly on findability to meet basic search engine standards; however, because they inherently incorporate interpretative steps, making serendipity a core design goal could be a valuable direction to pursue.</p>
-<p>Why serendipity? Serendipity is a process of filtering and connecting with new information : as a design goal, it means putting at the center human judgment.</p>
+<p>Serendipity is a process of filtering and connecting with new information : as a design goal, it means putting at the center human judgment.</p>
 </section>
 <section id="serendipity" class="slide level2">
 <h2>Serendipity</h2>
@@ -377,8 +361,8 @@ The way one queries a search engine will determine the information to which we h
 
 Latent space: the space of possibilities according to constraints defined by the algorithm developer, containing everything an algorithm is capable of predicting.  --></p>
 </section>
-<section id="place-of-serendipity-in-science" class="slide level2">
-<h2>Place of Serendipity in Science</h2>
+<section id="serendipity-in-science" class="slide level2">
+<h2>Serendipity in Science</h2>
 <p>Exploratory and serendipitous approaches in documentary research:</p>
 <ul>
 <li><p>“adjacent possible” <span class="citation" data-cites="kauffmanInvestigations1996 bjornebornAdjacentPossible2022">(<a href="#/bibliography" role="doc-biblioref" onclick="">Kauffman 1996</a>; <a href="#/bibliography" role="doc-biblioref" onclick="">Björneborn 2022</a>)</span>: environmental constraints give rise to a negotiation between exploitation and exploration <span class="citation" data-cites="monechiWavesNoveltiesExpansion2017">(<a href="#/bibliography" role="doc-biblioref" onclick="">Monechi et al. 2017</a>)</span></p></li>
@@ -401,7 +385,7 @@ vs. the emergence of limiting algorithmic logics:
 <section id="challenges-for-the-design-of-environment-favoring-serendipity" class="slide level2">
 <h2>Challenges for the Design of Environment Favoring Serendipity</h2>
 <p>Reproducibility and memory: how can we keep track of an exploratory path? how can we help a person recall the many steps leading to a resolution <span class="citation" data-cites="erdelezInvestigationInformationEncountering2004">(<a href="#/bibliography" role="doc-biblioref" onclick="">Sanda Erdelez 2004</a>)</span>?</p>
-<p>Evaluation: how can we evaluate the impact of a finding? or the interest of a new search feature <span class="citation" data-cites="pouyllauUtiliserIsidorescienceRegard2023 pouyllauDurabiliteRefactorisationInstruments2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Pouyllau 2023</a>, <a href="#/bibliography" role="doc-biblioref" onclick="">2025</a>)</span>? how can we cater to all in a highly subjective process without falling into personalization bias (e.g.&nbsp;filter bubbles <span class="citation" data-cites="pariserFilterBubble2012">(<a href="#/bibliography" role="doc-biblioref" onclick=""><strong>pariserFilterBubble2012?</strong></a>)</span>)?</p>
+<p>Evaluation: how can we evaluate the impact of a finding? or the interest of a new search feature <span class="citation" data-cites="pouyllauUtiliserIsidorescienceRegard2023 pouyllauDurabiliteRefactorisationInstruments2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Pouyllau 2023</a>, <a href="#/bibliography" role="doc-biblioref" onclick="">2025</a>)</span>? how can we cater to all in a highly subjective process without falling into personalization bias (e.g.&nbsp;filter bubbles <span class="citation" data-cites="pariserFilterBubbleWhat2012">(<a href="#/bibliography" role="doc-biblioref" onclick="">Pariser 2012</a>)</span>)?</p>
 </section>
 <section id="questions" class="slide level2">
 <h2>Questions</h2>
@@ -412,18 +396,59 @@ vs. the emergence of limiting algorithmic logics:
 <h1>Proposals : 7 principles for the design of LLM-based applications focussing on serendipity in documentary research</h1>
 
 </section>
+<section id="report-as-support-for-expertise" class="slide level2">
+<h2>Report as Support for Expertise</h2>
+<ul>
+<li><p>Complete reports tracing the algorithmic mediation of the user’s request to the response or list of articles returned (reranking criteria, query reformulation prompt, etc.).</p></li>
+<li><p>Expose the tool’s limitations and capabilities Example: Barista, the query builder assistant on Impresso <span class="citation" data-cites="finnShapingHistoryResponsibly2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Finn et al. 2026</a>)</span></p></li>
+</ul>
+</section>
+<section class="slide level2">
+
+
+<!-- ![Side-by-side visualization of search panels in IEML-RS](img/etape6_affichageArticles.png) -->
+<img data-src="img/barista-facct.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="finnShapingHistoryResponsibly2026">Finn et al. (<a href="#/bibliography" role="doc-biblioref" onclick="">2026</a>)</span></p></section>
+<section id="specialization-of-classification-and-quantification" class="slide level2">
+<h2>Specialization of Classification and Quantification</h2>
+<p>Similar to the “narrow over generalisation”.</p>
+<p>Specialized classification assists human judgment.</p>
+<p>Example: Evidence-RAG from the <em>Journal of Digital History</em>: assists the editor in presenting the evaluation of an article: situates the relevance of a comment relative to the evaluated article <span class="citation" data-cites="guerardInteractiveEvidenceRAGPeer2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Guérard et al. 2026</a>)</span>.</p>
+</section>
 <section id="make-room-for-uncertainty" class="slide level2">
 <h2>Make Room for Uncertainty</h2>
-<p>A paradigm shift.</p>
-<p>The Digital Humanities paradigm:</p>
+<p><strong>Expliciting uncertainties and tool limitations.</strong></p>
+<p>A paradigm shift that Digital Humanities approach can embrace:</p>
 <blockquote>
 <p>« Can we conceive of models of interface that are genuine instruments for research? That are not merely queries within pre-set data that search and sort according to an immutable agenda? How can we imagine an interface that allows content modeling, intellectual argument, rhetorical engagement? » — <span class="citation" data-cites="druckerPerformativeMaterialityTheoretical2013">(<a href="#/bibliography" role="doc-biblioref" onclick="">Drucker 2013</a>)</span></p>
 </blockquote>
-<p>Counterfactualization: <span class="citation" data-cites="chevillonAlgorithmesQueersPerturber2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Chevillon 2026</a>)</span> identify which explanatory variable to change in the algo to obtain a different result: make alternative possibilities explicit.</p>
-<p>And <em>delight</em> in the user experience. <span class="citation" data-cites="rodwellUserExperienceUX2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Rodwell, Neumann, and Lindner 2025</a>)</span> <!-- 
-Example: the _Provotype_ [@boerProvotypesParticipatoryInnovation2012] --></p>
-<p>=&gt; Make uncertainties and tool limitations appear.</p>
+<p>Counterfactualization: identifying which explanatory variable should change in the algorithm to obtain a different result: make alternative possibilities explicit. <span class="citation" data-cites="chevillonAlgorithmesQueersPerturber2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Chevillon 2026</a>)</span></p>
+<p>Example: the <em>Provotype</em> <span class="citation" data-cites="boerProvotypesParticipatoryInnovation2012">(<a href="#/bibliography" role="doc-biblioref" onclick="">Boer and Donovan 2012</a>)</span></p>
 </section>
+<section id="exaptation-and-imperfection" class="slide level2">
+<h2>Exaptation and Imperfection</h2>
+<p>(evolution theory): “opportunistic selective adaptation, favoring characteristics that are useful for a new function, for which they were not initially selected.”</p>
+<p>In other words : allowing the tool to become the result of a misuse in the process of appropriation <span class="citation" data-cites="tchounikineAppropriatingTechnologyHow2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Tchounikine 2025</a>)</span>.</p>
+<p>Example: “Misappropriation” of the search function of Gallica’s famously flawed search engine <span class="citation" data-cites="dumasprimbaultDecouvrabiliteCommePrise2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Dumas Primbault 2025</a>)</span></p>
+</section>
+<section id="friction" class="slide level2">
+<h2>Friction</h2>
+<p>Generative adversarial networks (GANs) <span class="citation" data-cites="goodfellowGenerativeAdversarialNetworks2014">(<a href="#/bibliography" role="doc-biblioref" onclick="">Goodfellow et al. 2014</a>)</span> and antagonistic AI <span class="citation" data-cites="caiAntagonisticAI2024">(<a href="#/bibliography" role="doc-biblioref" onclick="">Cai, Arawjo, and Glassman 2024</a>)</span>.</p>
+<p>Spirit of contradiction: allowing correction and evaluation by the user. <span class="citation" data-cites="schneiderImperfectAIUphold2026">Schneider (<a href="#/bibliography" role="doc-biblioref" onclick="">2026</a>)</span> tomorrow at INKE !</p>
+<p>Example: IEML-RS, a recommander system, <span class="citation" data-cites="schneiderReclaimingEpistemicAgency2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Schneider, Levy, and Vitali-Rosati 2026</a>)</span> allows for a basic semantic decomposition of a concept in 9 fixed facets (i.e.&nbsp;IEML), however the “translations” done by a LLM (prompted along with a few example), are mediocre encouraging the user to correct .</p>
+<!-- ---
+
+![IEML-RS, keyword extraction from the _seed_ article](img/etape1_extractionKeywords.png)
+
+---
+
+![IEML-RS, selection of a keyword translated into IEML](img/etape2_selectionConcept.png) -->
+</section>
+<section class="slide level2">
+
+
+<!-- 
+(Pierre Lévy's idea: allow correction of the automatic translation in IEML generated by Gemini). -->
+<img data-src="img/etape3_propositionTraduction2.png" class="r-stretch quarto-figure-center"><p class="caption">IEML-RS, selection of a keyword <strong>not translated</strong> into IEML - automatic translation with <code>gemini</code></p></section>
 <section id="exploration-through-disorderliness" class="slide level2">
 <h2>Exploration Through Disorderliness</h2>
 <p>Example: <a href="https://www.enfrancaisaupluriel.fr/library?mode=tree">françaiS au pluriel</a> <span class="citation" data-cites="suchetFrancaiSAuPluriel2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Suchet 2026</a>)</span></p>
@@ -452,64 +477,17 @@ Example: the _Provotype_ [@boerProvotypesParticipatoryInnovation2012] --></p>
 <section class="slide level2">
 
 
-<img data-src="img/desaccordCitation_articleView.png" class="r-stretch quarto-figure-center"><p class="caption">Visualization by citation type for an article (in development: classifications and scores randomized)</p></section>
-<section id="report-as-support-for-expertise" class="slide level2">
-<h2>Report as Support for Expertise</h2>
-<ul>
-<li><p>Complete reports tracing the algorithmic mediation of the user’s request to the response or list of articles returned (reranking criteria, query reformulation prompt, etc.).</p></li>
-<li><p>Expose the tool’s limitations and capabilities Example: Barista, the query builder assistant on Impresso <span class="citation" data-cites="finnShapingHistoryResponsibly2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Finn et al. 2026</a>)</span></p></li>
-</ul>
-</section>
-<section class="slide level2">
-
-
-<!-- ![Side-by-side visualization of search panels in IEML-RS](img/etape6_affichageArticles.png) -->
-<img data-src="img/barista-facct.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="finnShapingHistoryResponsibly2026">Finn et al. (<a href="#/bibliography" role="doc-biblioref" onclick="">2026</a>)</span></p></section>
-<section id="specialization-of-classification-and-quantification" class="slide level2">
-<h2>Specialization of Classification and Quantification</h2>
 <!-- 
-Similar to the "narrow over generalisation".  -->
-<p>Specialized classification assists human judgment.</p>
-<p>Example: Evidence-RAG from the <em>Journal of Digital History</em>: assists the editor in presenting the evaluation of an article: situates the relevance of a comment relative to the evaluated article [guerardInteractiveEvidenceRAGPeer2026].</p>
-</section>
-<section id="exaptation-and-imperfection" class="slide level2">
-<h2>Exaptation and Imperfection</h2>
-<p>(evolution theory): “opportunistic selective adaptation, favoring characteristics that are useful for a new function, for which they were not initially selected.”</p>
-<p>In other words : allowing the tool to become the result of a misuse in the process of appropriation <span class="citation" data-cites="tchounikineAppropriatingTechnologyHow2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Tchounikine 2025</a>)</span>.</p>
-<p>Example: “Misappropriation” of the search function of Gallica’s famously flawed search engine <span class="citation" data-cites="dumasprimbaultDecouvrabiliteCommePrise2025">(<a href="#/bibliography" role="doc-biblioref" onclick="">Dumas Primbault 2025</a>)</span></p>
-</section>
-<section id="friction" class="slide level2">
-<h2>Friction</h2>
-<p>Generative adversarial networks (GANs) <span class="citation" data-cites="goodfellowGenerativeAdversarialNetworks2014">(<a href="#/bibliography" role="doc-biblioref" onclick="">Goodfellow et al. 2014</a>)</span> and antagonistic AI <span class="citation" data-cites="caiAntagonisticAI2024">(<a href="#/bibliography" role="doc-biblioref" onclick="">Cai, Arawjo, and Glassman 2024</a>)</span>.</p>
-<p>Spirit of contradiction: allowing correction and evaluation by the user. <span class="citation" data-cites="schneiderImperfectAIUphold2026">Schneider (<a href="#/bibliography" role="doc-biblioref" onclick="">2026</a>)</span> tomorrow at INKE !</p>
-<p>Example: IEML-RS, a recommander system, <span class="citation" data-cites="schneiderReclaimingEpistemicAgency2026">(<a href="#/bibliography" role="doc-biblioref" onclick="">Schneider, Levy, and Vitali-Rosati 2026</a>)</span> allows for a basic semantic decomposition of a concept in 9 fixed facets (i.e.&nbsp;IEML), however the “translations” done by a LLM (prompted along with a few example), are mediocre encouraging the user to correct .</p>
-<!-- ---
+## Summary of Proposals
 
-![IEML-RS, keyword extraction from the _seed_ article](img/etape1_extractionKeywords.png)
-
----
-
-![IEML-RS, selection of a keyword translated into IEML](img/etape2_selectionConcept.png) -->
-</section>
-<section class="slide level2">
-
-
-<!-- 
-(Pierre Lévy's idea: allow correction of the automatic translation in IEML generated by Gemini). -->
-<img data-src="img/etape3_propositionTraduction2.png" class="r-stretch quarto-figure-center"><p class="caption">IEML-RS, selection of a keyword <strong>not translated</strong> into IEML - automatic translation with <code>gemini</code></p></section>
-<section id="summary-of-proposals" class="slide level2">
-<h2>Summary of Proposals</h2>
-<ul>
-<li>Make room for uncertainty</li>
-<li>Disorder<br>
-</li>
-<li>Explore other facets</li>
-<li>Restitution as support for expertise</li>
-<li>Specialization of classification and quantification</li>
-<li>Exaptation</li>
-<li>Friction</li>
-</ul>
-</section></section>
+- Make room for uncertainty
+- Disorder  
+- Explore other facets 
+- Restitution as support for expertise
+- Specialization of classification and quantification
+- Exaptation 
+- Friction -->
+<img data-src="img/desaccordCitation_articleView.png" class="r-stretch quarto-figure-center"><p class="caption">Visualization by citation type for an article (in development: classifications and scores randomized)</p></section></section>
 <section>
 <section id="conclusion" class="title-slide slide level1 center">
 <h1>Conclusion</h1>
@@ -524,14 +502,8 @@ Developing tools that make choices explicit, and leave room for many diverging r
 <p>This work benefited from a grant thanks to funding from the Consulat General de France au Quebec and the Fonds de recherche du Québec, which enabled a research stay at the Huma-Num Lab via the Sophie Germain mobility grant. <a href="https://doi.org/10.69777/381645">https://doi.org/10.69777/381645</a></p>
 <p>Research funded by the CRSH through the Revue3.0 partnership project as well as a grant from the Circé Network for mutualization and research for scientific journals.</p>
 </section>
-<section id="ecosystem-of-production-and-dissemination-of-scientific-papers" class="slide level2">
-<h2>Ecosystem of production and dissemination of scientific papers</h2>
-<p><img data-src="img/article_pipeline.png" alt="An ecosystem from article writing to the queries that allow it to be found: interactions between humans and digital tools"> –&gt;</p>
-</section>
 <section id="bibliography" class="slide level2 smaller scrollable">
 <h2>Bibliography</h2>
-
-
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-abbassEditorialWhatArtificial2021" class="csl-entry" role="listitem">
 Abbass, Hussein. 2021. <span>“Editorial: <span>What</span> Is <span>Artificial Intelligence</span>?”</span> <em>IEEE Transactions on Artificial Intelligence</em> 2 (2): 94–95. <a href="https://doi.org/10.1109/TAI.2021.3096243">https://doi.org/10.1109/TAI.2021.3096243</a>.
@@ -544,6 +516,9 @@ Bates, Marcia J. 1989. <span>“The Design of Browsing and Berrypicking Techniqu
 </div>
 <div id="ref-bjornebornAdjacentPossible2022" class="csl-entry" role="listitem">
 Björneborn, Lennart. 2022. <span>“Adjacent <span>Possible</span>.”</span> In <em>The <span>Palgrave Encyclopedia</span> of the <span>Possible</span></em>, edited by Vlad Petre Glăveanu, 16–28. Cham: Springer International Publishing. <a href="https://doi.org/10.1007/978-3-030-90913-0_100">https://doi.org/10.1007/978-3-030-90913-0_100</a>.
+</div>
+<div id="ref-boerProvotypesParticipatoryInnovation2012" class="csl-entry" role="listitem">
+Boer, Laurens, and Jared Donovan. 2012. <span>“Provotypes for Participatory Innovation.”</span> In <em>Proceedings of the <span>Designing Interactive Systems Conference</span></em>, 388–97. Newcastle Upon Tyne United Kingdom: ACM. <a href="https://doi.org/10.1145/2317956.2318014">https://doi.org/10.1145/2317956.2318014</a>.
 </div>
 <div id="ref-caiAntagonisticAI2024" class="csl-entry" role="listitem">
 Cai, Alice, Ian Arawjo, and Elena L. Glassman. 2024. <span>“Antagonistic <span>AI</span>.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2402.07350">https://doi.org/10.48550/arXiv.2402.07350</a>.
@@ -572,6 +547,9 @@ Finn, Finola, Donal Khosrowi, Caio Mello, Marten Düring, and Danielle Guido. 20
 <div id="ref-goodfellowGenerativeAdversarialNetworks2014" class="csl-entry" role="listitem">
 Goodfellow, Ian J., Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. <span>“Generative <span>Adversarial Networks</span>.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.1406.2661">https://doi.org/10.48550/arXiv.1406.2661</a>.
 </div>
+<div id="ref-guerardInteractiveEvidenceRAGPeer2026" class="csl-entry" role="listitem">
+Guérard, Élisabeth, Mehrdad Almasi, Marion Salaün, and Frédéric Clavert. 2026. <span>“Towards an Interactive <span>‘<span>Evidence-RAG</span>’</span> Peer- Review Workspace for the <span>Journal</span> of <span>Digital History</span>.”</span> Long {{Talk}}. Esch-sur-Alzette.
+</div>
 <div id="ref-kauffmanInvestigations1996" class="csl-entry" role="listitem">
 Kauffman, Stuart A. 1996. <span>“Investigations.”</span> Working {{Papers}} 96-08-072. Santa Fe Institute. <a href="https://doi.org/None">https://doi.org/None</a>.
 </div>
@@ -580,6 +558,9 @@ Makri, Stephann, and Ann Blandford. 2012. <span>“Coming Across Information Ser
 </div>
 <div id="ref-monechiWavesNoveltiesExpansion2017" class="csl-entry" role="listitem">
 Monechi, Bernardo, Ãlvaro Ruiz-Serrano, Francesca Tria, and Vittorio Loreto. 2017. <span>“Waves of Novelties in the Expansion into the Adjacent Possible.”</span> <em>PLOS ONE</em> 12 (6): e0179303. <a href="https://doi.org/10.1371/journal.pone.0179303">https://doi.org/10.1371/journal.pone.0179303</a>.
+</div>
+<div id="ref-pariserFilterBubbleWhat2012" class="csl-entry" role="listitem">
+Pariser, Eli. 2012. <em><span>The Filter Bubble: What The Internet Is Hiding From You</span></em>. London: Penguin.
 </div>
 <div id="ref-pattersonWhichAITools2025" class="csl-entry" role="listitem">
 Patterson, Brandon, Carlos Flores, Nick Hauschild, and Jared Branch. 2025. <span>“Which <span>AI Tools Work Best</span> for <span>Research</span>? <span>Using Librarian</span> and <span>Student Perspectives</span> to <span>Inform</span> a <span>Rating Rubric</span>.”</span> <em>Journal of Electronic Resources in Medical Libraries</em> 22 (3): 133–38. <a href="https://doi.org/10.1080/15424065.2025.2546052">https://doi.org/10.1080/15424065.2025.2546052</a>.
@@ -590,23 +571,17 @@ Pouyllau, Stéphane. 2023. <span>“<span>Utiliser isidore.science : un regard s
 <div id="ref-pouyllauDurabiliteRefactorisationInstruments2025" class="csl-entry" role="listitem">
 ———. 2025. <span>“<span>&lt;&lt; Durabilité et refactorisation des instruments de la recherche en SHS : le cas d’isidore.science et le projet ISIDORE 2030 &gt;&gt;</span>.”</span> Montréal.
 </div>
-<div id="ref-purenArticulerMethodeHistorique2026" class="csl-entry" role="listitem">
-Puren, Marie. 2026. <span>“Articuler Méthode Historique Et <span>RAG</span> : Concevoir Des Assistants Conversationnels Auditables.”</span> [{{Long Talk}}]. Montréal.
-</div>
 <div id="ref-purenAlignerMethodeHistorique2026" class="csl-entry" role="listitem">
 Puren, Marie, Donghan Bian, Aurélien Pellet, Julien Perez, and Florian Cafiero. 2026. <span>“<span>Aligner méthode historique et RAG: transformer un assistant conversationnel en chaîne de preuve auditable et discutable</span>.”</span>
 </div>
-<div id="ref-rodwellUserExperienceUX2025" class="csl-entry" role="listitem">
-Rodwell, Elizabeth, Kristina Neumann, and Peggy Lindner. 2025. <span>“User <span>Experience</span> (<span>UX</span>) <span>Heuristics</span> for the <span>Digital Humanities</span>.”</span> <em>Digital Humanities Quarterly</em> 019 (4).
+<div id="ref-razaComprehensiveReviewRecommender2025" class="csl-entry" role="listitem">
+Raza, Shaina, Mizanur Rahman, Safiullah Kamawal, Armin Toroghi, Ananya Raval, Farshad Navah, and Amirmohammad Kazemeini. 2025. <span>“A <span>Comprehensive Review</span> of <span>Recommender Systems</span>: <span>Transitioning</span> from <span>Theory</span> to <span>Practice</span>.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2407.13699">https://doi.org/10.48550/arXiv.2407.13699</a>.
 </div>
 <div id="ref-schneiderImperfectAIUphold2026" class="csl-entry" role="listitem">
 Schneider, Alexia. 2026. <span>“An Imperfect <span>AI</span> to Uphold Human Agency : Vindicating the <span>‘Yes but’</span> of This World.”</span> Short {{Talk}}. Montréal.
 </div>
 <div id="ref-schneiderReclaimingEpistemicAgency2026" class="csl-entry" role="listitem">
 Schneider, Alexia, Pierre Levy, and Marcello Vitali-Rosati. 2026. <span>“Reclaiming <span>Epistemic Agency</span> in <span>AI-Assisted Research</span>: <span>A Recommender System That Reveals</span>, <span>Rather Than Hides</span>, <span>IR Logic</span>.”</span> Daejeon, South Corea.
-</div>
-<div id="ref-silvestredesacyNoteLexperienceLIA2024" class="csl-entry" role="listitem">
-Silvestre de Sacy, Antoine, Adam Faci, Léa Maronet, and Stéphane Pouyllau. 2024. <span>“<span>Note sur l’expérience de l’IA au sein de l’Huma-Num Lab (huma-num version)</span>.”</span> HN Lab. <a href="https://doi.org/10.5281/ZENODO.10846773">https://doi.org/10.5281/ZENODO.10846773</a>.
 </div>
 <div id="ref-suchetFrancaiSAuPluriel2026" class="csl-entry" role="listitem">
 Suchet, Myriam. 2026. <span>“En <span class="nocase">françaiS</span> Au Pluriel.”</span> <em>En françaiS Au Pluriel</em>. https://www.enfrancaisaupluriel.fr/pages/266.
@@ -621,7 +596,13 @@ Tay, Aaron. 2025. <span>“What <span>Do We Actually Mean</span> by "<span>AI-Po
 Tchounikine, Pierre. 2025. <em>Appropriating <span>Technology</span>: <span>How We Make Digital Tools Our Own</span></em>. Edited by Victor Kaptelinin, Kirsten A. Foot, and Bonnie A. Nardi. Acting with <span>Technology</span>. Cambridge, MA, USA: MIT Press.
 </div>
 </div>
-</section></section>
+</section>
+<section id="ecosystem-of-production-and-dissemination-of-scientific-papers" class="slide level2">
+<h2>Ecosystem of production and dissemination of scientific papers</h2>
+
+
+
+<img data-src="img/article_pipeline.png" class="r-stretch quarto-figure-center"><p class="caption">An ecosystem from article writing to the queries that allow it to be found: interactions between humans and digital tools</p></section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="img/stickerAvecTexte.png" class="slide-logo"></p>
