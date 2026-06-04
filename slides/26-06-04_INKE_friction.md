@@ -26,16 +26,24 @@ footer: "Alexia Schneider - 2026"
 
 Persuasiveness of Computer Systems is not new : 
 
-Perceived objectivity [@dijkstraPersuasivenessExpertSystems1998] is not mitigated despite blindness to an algorithm's process[@loggAlgorithmAppreciationPeople2019] and an algorithm's outputs can influence someone even after the system is removed [@vicenteHumansInheritArtificial2023].
+Perceived objectivity [@dijkstraPersuasivenessExpertSystems1998] is not mitigated despite blindness to an algorithm's process[@loggAlgorithmAppreciationPeople2019]. 
+
+Current literature tells us that an  algorithm's outputs can influence someone even after the system is removed [@vicenteHumansInheritArtificial2023].
 
 
 ## Consequence
 
 Exacerbation of old problems :
 
-Shadow AI 
-Cognitive offloading [@kosmynaYourBrainChatGPT2025] 
+- Shadow AI 
+- Cognitive offloading [@kosmynaYourBrainChatGPT2025] 
 
+## Consequence
+
+Exacerbation of old problems :
+
+- Shadow AI 
+- Cognitive offloading [@kosmynaYourBrainChatGPT2025] 
 
 If we do not question the authority of the machine, are we becoming the assistant's assistants? 
 
@@ -57,25 +65,29 @@ Critical AI literacy [@goodladEditorsIntroductionHumanities2023] -->
 
 
 
-## Can an Eror Become a Solucion?
+## Can a Eror Become a Solucion?
 
 
 What if the system's potential for errors was exposed rather than concealed? 
 
 ---
 
-<!-- did you catch that?
-Did you feel the urge to correct that slide? -->
+---
+
+Did you catch the errors in the previous slide ?
+if so, did you feel the urge to correct them? 
+
+## Can a[n]{style="color:green;"} Er[r]{style="color:green;"}or Become a Solu[t]{style="color:green;"}ion?
+
+
+What if the system's potential for errors was exposed rather than concealed? 
+
+
 
 ## Corrective Feedback: a Dialog in Practice
 
 
-Tension between : 
-
-- letting the machine shape our ideas 
-- the desire to correct and begin a dialog
-
-= the opportunity to shape new practices in research and pedagogy.  
+From the tension between letting the machine shape our ideas and the **desire to correct and begin a dialog** rises an **opportunity to shape new practices in research and design tools fostering digital and AI literacy**.  
 
 ## Example : IEML-RS
 
@@ -110,6 +122,8 @@ due 1st of Feb. Date 4-5 June 2026 @Udem
 
 How can open social scholarship, with its focus on community, openness, and engagement, provide more generous frameworks for understanding and shaping the shifts brought about by an increasingly algorithmic culture(s)?
 What opportunities and challenges do AI-driven systems present for the knowledge commons, public platforms, and scholarly engagement? -->
+
+# Thank you
 
 ## Bibliography
 

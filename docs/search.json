@@ -1278,14 +1278,14 @@
     "href": "slides/26-06-04_INKE_friction.html#the-problem-with-convincing-algorithms",
     "title": "INKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world",
     "section": "The Problem with Convincing Algorithms",
-    "text": "The Problem with Convincing Algorithms\n\nPersuasiveness of Computer Systems is not new :\nPerceived objectivity (Dijkstra, Liebrand, and Timminga 1998) is not mitigated despite blindness to an algorithm’s process(Logg, Minson, and Moore 2019) and an algorithm’s outputs can influence someone even after the system is removed (Vicente and Matute 2023)."
+    "text": "The Problem with Convincing Algorithms\n\nPersuasiveness of Computer Systems is not new :\nPerceived objectivity (Dijkstra, Liebrand, and Timminga 1998) is not mitigated despite blindness to an algorithm’s process(Logg, Minson, and Moore 2019).\nCurrent literature tells us that an algorithm’s outputs can influence someone even after the system is removed (Vicente and Matute 2023)."
   },
   {
     "objectID": "slides/26-06-04_INKE_friction.html#consequence",
     "href": "slides/26-06-04_INKE_friction.html#consequence",
     "title": "INKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world",
     "section": "Consequence",
-    "text": "Consequence\nExacerbation of old problems :\nShadow AI Cognitive offloading (Kosmyna et al. 2025)\nIf we do not question the authority of the machine, are we becoming the assistant’s assistants?"
+    "text": "Consequence\nExacerbation of old problems :\n\nShadow AI\nCognitive offloading (Kosmyna et al. 2025)"
   },
   {
     "objectID": "slides/26-06-04_INKE_friction.html#questions",
@@ -1313,7 +1313,7 @@
     "href": "slides/26-06-04_INKE_friction.html#corrective-feedback-a-dialog-in-practice",
     "title": "INKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world",
     "section": "Corrective Feedback: a Dialog in Practice",
-    "text": "Corrective Feedback: a Dialog in Practice\nTension between :\n\nletting the machine shape our ideas\nthe desire to correct and begin a dialog\n\n= the opportunity to shape new practices in research and pedagogy."
+    "text": "Corrective Feedback: a Dialog in Practice\nFrom the tension between letting the machine shape our ideas and the desire to correct and begin a dialog rises an opportunity to shape new practices in research and design tools fostering digital and AI literacy."
   },
   {
     "objectID": "slides/26-06-04_INKE_friction.html#example-ieml-rs",
@@ -1923,5 +1923,33 @@
     "title": "CSDH - ‘AI-powered research assistant’ and the invisible transformations of research practices",
     "section": "Serendipity in Science",
     "text": "Serendipity in Science\nExploratory and serendipitous approaches in documentary research:\n\n“adjacent possible” (Kauffman 1996; Björneborn 2022): environmental constraints give rise to a negotiation between exploitation and exploration (Monechi et al. 2017)\nexploit the profusion to generate unexpected connections (Bates 1989; Sandra Erdelez 1999)\nfavor disciplinary bridging (Dumas Primbault 2023)"
+  },
+  {
+    "objectID": "slides/26-06-04_INKE_friction.html#can-an-eror-become-a-solution",
+    "href": "slides/26-06-04_INKE_friction.html#can-an-eror-become-a-solution",
+    "title": "INKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world",
+    "section": "Can an Eror Become a Solution?",
+    "text": "Can an Eror Become a Solution?\nWhat if the system’s potential for errors was exposed rather than concealed?"
+  },
+  {
+    "objectID": "slides/26-06-04_INKE_friction.html#can-a-eror-become-a-solucion",
+    "href": "slides/26-06-04_INKE_friction.html#can-a-eror-become-a-solucion",
+    "title": "INKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world",
+    "section": "Can a Eror Become a Solucion?",
+    "text": "Can a Eror Become a Solucion?\nWhat if the system’s potential for errors was exposed rather than concealed?"
+  },
+  {
+    "objectID": "slides/26-06-04_INKE_friction.html#can-an-error-become-a-solution",
+    "href": "slides/26-06-04_INKE_friction.html#can-an-error-become-a-solution",
+    "title": "INKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world",
+    "section": "Can an Error Become a Solution?",
+    "text": "Can an Error Become a Solution?\nWhat if the system’s potential for errors was exposed rather than concealed?"
+  },
+  {
+    "objectID": "slides/26-06-04_INKE_friction.html#consequence-1",
+    "href": "slides/26-06-04_INKE_friction.html#consequence-1",
+    "title": "INKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world",
+    "section": "Consequence",
+    "text": "Consequence\nExacerbation of old problems :\n\nShadow AI\nCognitive offloading (Kosmyna et al. 2025)\n\nIf we do not question the authority of the machine, are we becoming the assistant’s assistants?"
   }
 ]
