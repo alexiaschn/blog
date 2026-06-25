@@ -2,6 +2,8 @@ project:
   type: website
   output-dir: docs
 
+resources:
+  - projects/*.html
 # toc: true
 bibliography: phd_udem.bib
 

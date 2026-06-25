@@ -163,52 +163,6 @@ Alexia Schneider
 </div>
 
   <p class="date">2025-11-03</p>
-</section><section id="TOC">
-<nav role="doc-toc"> 
-<h2 id="toc-title">Table of contents</h2>
-<ul>
-<li><a href="#/some-limitations-of-llms" id="/toc-some-limitations-of-llms">Some limitations of LLMs</a></li>
-<li><a href="#/rag" id="/toc-rag">RAG</a></li>
-<li><a href="#/the-original-rag-paper" id="/toc-the-original-rag-paper">The original RAG paper</a></li>
-<li><a href="#/what-limitations-of-foundational-llms-can-rag-solve" id="/toc-what-limitations-of-foundational-llms-can-rag-solve">What limitations of foundational LLMs can RAG solve ?</a>
-<ul>
-<li><a href="#/what-limitations-of-foundational-llms-can-rag-solve-1" id="/toc-what-limitations-of-foundational-llms-can-rag-solve-1">What limitations of foundational LLMs can RAG solve ?</a></li>
-</ul></li>
-<li><a href="#/what-can-be-some-limits-of-rag" id="/toc-what-can-be-some-limits-of-rag">What can be some limits of RAG ?</a>
-<ul>
-<li><a href="#/what-can-be-some-limits-of-rag-1" id="/toc-what-can-be-some-limits-of-rag-1">What can be some limits of RAG ?</a></li>
-<li><a href="#/evaluating-rag-when-and-where" id="/toc-evaluating-rag-when-and-where">Evaluating RAG: when and where</a></li>
-<li><a href="#/shankarapplicationcentricaievals2025-recommendations-for-rag-evaluation" id="/toc-shankarapplicationcentricaievals2025-recommendations-for-rag-evaluation"><span class="citation" data-cites="shankarApplicationCentricAIEvals2025">Shankar and Husain (2025)</span> recommendations for RAG Evaluation</a></li>
-<li><a href="#/reference-based-evaluation-pros-and-cons" id="/toc-reference-based-evaluation-pros-and-cons">Reference-based evaluation pros and cons</a></li>
-</ul></li>
-<li><a href="#/what-are-some-tasks-where-a-reference-answer-or-gold-standard-answer-might-not-be-available" id="/toc-what-are-some-tasks-where-a-reference-answer-or-gold-standard-answer-might-not-be-available">What are some tasks where a reference answer or ‘gold-standard answer’ might not be available ?</a>
-<ul>
-<li><a href="#/what-are-some-tasks-where-a-reference-answer-might-not-be-available" id="/toc-what-are-some-tasks-where-a-reference-answer-might-not-be-available">What are some tasks where a reference answer might not be available ?</a></li>
-</ul></li>
-<li><a href="#/proposed-solution-ragas" id="/toc-proposed-solution-ragas">Proposed solution: RAGAS</a>
-<ul>
-<li><a href="#/article" id="/toc-article">Article</a></li>
-<li><a href="#/authors" id="/toc-authors">Authors</a></li>
-<li><a href="#/ragas-in-a-nutshell" id="/toc-ragas-in-a-nutshell">RAGAS in a nutshell</a></li>
-<li><a href="#/ragas-in-a-nutshell-1" id="/toc-ragas-in-a-nutshell-1">RAGAS in a nutshell</a></li>
-<li><a href="#/evaluation-of-the-final-output" id="/toc-evaluation-of-the-final-output">Evaluation of the final output</a></li>
-<li><a href="#/faithfulness-eval-with-ragas" id="/toc-faithfulness-eval-with-ragas">Faithfulness eval with RAGAS</a></li>
-<li><a href="#/answer-relevance" id="/toc-answer-relevance">Answer Relevance</a></li>
-<li><a href="#/context-relevance" id="/toc-context-relevance">Context Relevance</a></li>
-</ul></li>
-<li><a href="#/evaluation-of-the-evaluation-method" id="/toc-evaluation-of-the-evaluation-method">Evaluation of the evaluation method</a>
-<ul>
-<li><a href="#/evaluation-dataset" id="/toc-evaluation-dataset">Evaluation Dataset</a></li>
-<li><a href="#/evaluation-of-the-evaluation-method-1" id="/toc-evaluation-of-the-evaluation-method-1">Evaluation of the evaluation method</a></li>
-<li><a href="#/evaluation-results" id="/toc-evaluation-results">Evaluation results</a></li>
-<li><a href="#/other-methods-of-rag-evaluation" id="/toc-other-methods-of-rag-evaluation">Other methods of RAG evaluation</a></li>
-<li><a href="#/difference-between-automated-rag-evaluation-system-ares-framework-and-ragas" id="/toc-difference-between-automated-rag-evaluation-system-ares-framework-and-ragas">Difference between <em>Automated RAG Evaluation System</em> ARES framework and RAGAS</a></li>
-<li><a href="#/would-you-use-ragas-to-evaluate-your-rag" id="/toc-would-you-use-ragas-to-evaluate-your-rag">Would you use RAGAS to evaluate your RAG?</a></li>
-<li><a href="#/personal-comments-on-ragas" id="/toc-personal-comments-on-ragas">Personal comments on RAGAS</a></li>
-<li><a href="#/references" id="/toc-references">References</a></li>
-</ul></li>
-</ul>
-</nav>
 </section>
 <section id="some-limitations-of-llms" class="slide level2 hidden">
 <h2>Some limitations of LLMs</h2>
@@ -623,7 +577,7 @@ Replaces the ranking analysis suggested by Shankar.   --></p>
 </section>
 <section id="difference-between-automated-rag-evaluation-system-ares-framework-and-ragas" class="slide level2">
 <h2>Difference between <em>Automated RAG Evaluation System</em> ARES framework and RAGAS</h2>
-<p><span class="citation" data-cites="saad-falcon-etal-2024-ares">Saad-Falcon et al. (<a href="#/references" role="doc-biblioref" onclick="">2024</a>)</span> (a year after RAGAS).</p>
+<p><span class="citation" data-cites="saad-falcon-etal-2024-ares">(<a href="#/references" role="doc-biblioref" onclick=""><strong>saad-falcon-etal-2024-ares?</strong></a>)</span> (a year after RAGAS).</p>
 <p>Synthetic data generation (generating query‑passage‑answer triples) + fine‑tuned “judge” models + a small human annotated set + Prediction‑Powered Inference (PPI) to give confidence intervals, better ranking of RAG systems.</p>
 <p>Comment: much more complex to set-up, but better for robust eval (confidence intervals)</p>
 </section>
@@ -657,9 +611,6 @@ Es, Shahul, Jithin James, Luis Espinosa-Anke, and Steven Schockaert. 2025. <span
 </div>
 <div id="ref-lewisRetrievalAugmentedGenerationKnowledgeIntensive2021" class="csl-entry" role="listitem">
 Lewis, Patrick, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, et al. 2021. <span>“Retrieval-<span>Augmented Generation</span> for <span>Knowledge-Intensive NLP Tasks</span>.”</span> arXiv. <a href="https://doi.org/10.48550/arXiv.2005.11401">https://doi.org/10.48550/arXiv.2005.11401</a>.
-</div>
-<div id="ref-saad-falcon-etal-2024-ares" class="csl-entry" role="listitem">
-Saad-Falcon, Jon, Omar Khattab, Christopher Potts, and Matei Zaharia. 2024. <span>“<span>ARES</span>: <span>An</span> Automated Evaluation Framework for Retrieval-Augmented Generation Systems.”</span> In <em>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: <span>Human</span> Language Technologies (Volume 1: <span>Long</span> Papers)</em>, edited by Kevin Duh, Helena Gomez, and Steven Bethard, 338–54. Mexico City, Mexico: Association for Computational Linguistics. <a href="https://doi.org/10.18653/v1/2024.naacl-long.20">https://doi.org/10.18653/v1/2024.naacl-long.20</a>.
 </div>
 <div id="ref-shankarApplicationCentricAIEvals2025" class="csl-entry" role="listitem">
 Shankar, Shreya, and Hamel Husain. 2025. <em>Application-<span>Centric AI Evals</span> for <span>Engineers</span> and <span>Technical Product Managers</span></em>.
