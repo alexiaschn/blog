@@ -202,8 +202,8 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 </section>
 <section id="introduction" class="slide level2">
 <h2>Introduction</h2>
-<p><strong>Context:</strong> Scientific documentary research.</p>
-<p>Recommendation systems have transformed: from algorithms that extracted “you might also like” suggestions alongside search engine results to tools that support natural language queries.</p>
+<p><strong>Larger context of the research:</strong> Scientific documentary research (esp.&nbsp;for SSH researchers)</p>
+<p>Recommendation systems have changed: from algorithms that extracted “you might also like” suggestions alongside search engine results to tools that support natural language queries and provide full reports.</p>
 </section>
 <section class="slide level2">
 
@@ -212,13 +212,18 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 <section class="slide level2">
 
 
-<img data-src="img/undermindai.png" class="r-stretch quarto-figure-center"><p class="caption">Screenshot of Undermind.ai. Support for natural language queries, combining all research steps (retrieval, ranking, synthesis)</p></section>
+<img data-src="img/consensusai.png" class="r-stretch quarto-figure-center"><p class="caption">Screenshot of Consensus.app. Support for natural language queries, combining all research steps (retrieval, ranking, synthesis)</p></section>
 <section id="problem-statement" class="slide level2">
 <h2>Problem Statement</h2>
+<p>With the current adoption of these “AI research assistants” we are seeing a change in research practices. With it comes certain aspects that we have still to grapple with:</p>
 <ul>
-<li>Citation concentration (Matthew effect <span class="citation" data-cites="mertonMatthewEffectScience1968">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Merton 1968</a>)</span>), filter bubbles <span class="citation" data-cites="pariserFilterBubbleWhat2011">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Pariser 2011</a>)</span>, and confirmation bias <span class="citation" data-cites="underwoodTheorizingResearchPractices2014">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Underwood 2014</a>)</span>: reduction of the epistemic space for discovery <span class="citation" data-cites="nielsenGlobalCitationInequality2021 vargaNarrowingLiteratureUse2022">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Nielsen and Andersen 2021</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Varga 2022</a>)</span>.</li>
-<li>Opacity of ranking, filtering, and synthesis (when applicable) <span class="citation" data-cites="archambaultEvaluationCuttingEdgeAI2024 pattersonWhichAITools2025 tayReproducibilityInterpretabilityAcademic2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Archambault and Rincón 2024</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Patterson et al. 2025</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Tay 2025</a>)</span>.</li>
+<li>A focus on ‘findability’ i.e.&nbsp;finding what we already know we know as opposed to ‘serendipity’: finding what we didn’t know with accompanying risk of increasing confirmation bias <span class="citation" data-cites="underwoodTheorizingResearchPractices2014">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Underwood 2014</a>)</span> with natural language querying.</li>
+<li>Blurring of different cognitive tasks: search and analysis <span class="citation" data-cites="finnShapingHistoryResponsibly2026 derewalEvaluatingLLMResearch2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Finn et al. 2026</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">DeRewal 2025</a>)</span>.</li>
+<li>Still complex evaluation of an opaque and quickly-changing tools: opacity of ranking, filtering, and synthesis (when applicable) <span class="citation" data-cites="archambaultEvaluationCuttingEdgeAI2024 pattersonWhichAITools2025 tayReproducibilityInterpretabilityAcademic2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Archambault and Rincón 2024</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Patterson et al. 2025</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Tay 2025</a>)</span>.</li>
+<li>Opacity of the systems themselves: citation concentration (Matthew effect <span class="citation" data-cites="mertonMatthewEffectScience1968">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Merton 1968</a>)</span>) with potential reduction of the epistemic space for discovery <span class="citation" data-cites="nielsenGlobalCitationInequality2021 vargaNarrowingLiteratureUse2022">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Nielsen and Andersen 2021</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Varga 2022</a>)</span>.</li>
+<li>Incentives to maintain authoritative tools and rely on long documented persuasiveness of algorithms and computer outputs <span class="citation" data-cites="dijkstraPersuasivenessExpertSystems1998 loggAlgorithmAppreciationPeople2019 vicenteHumansInheritArtificial2023">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Dijkstra, Liebrand, and Timminga 1998</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Logg, Minson, and Moore 2019</a>; <a href="#/bibliographie" role="doc-biblioref" onclick="">Vicente and Matute 2023</a>)</span>.</li>
 </ul>
+<!-- filter bubbles [@pariserFilterBubbleWhat2011], -->
 </section>
 <section id="research-question" class="slide level2">
 <h2>Research Question</h2>
@@ -228,7 +233,7 @@ Pierre Levy <a href="https://orcid.org/https://orcid.org/0000-0003-1599-221X" cl
 <h2>Examples of Alternative Recommendation Systems</h2>
 <ul>
 <li><code>Bridger</code> by <span class="citation" data-cites="portenoyBurstingScientificFilter2022">Portenoy et al. (<a href="#/bibliographie" role="doc-biblioref" onclick="">2022</a>)</span> exposes researchers to authors outside their usual intellectual networks to promote disciplinary cross-pollination.</li>
-<li><code>VITALITY</code> by <span class="citation" data-cites="narechaniaVITALITYPromotingSerendipitous2022">Narechania et al. (<a href="#/bibliographie" role="doc-biblioref" onclick="">2022</a>)</span> proposes a literature review approach based on visualization.</li>
+<li><code>VITALITY</code> by <span class="citation" data-cites="narechaniaVITALITYPromotingSerendipitous2022">Narechania et al. (<a href="#/bibliographie" role="doc-biblioref" onclick="">2022</a>)</span> proposes a literature review approach based on visualization of word embedding space from a seed article.</li>
 <li><code>STAK</code> by <span class="citation" data-cites="martinSTAKSerendipitousTool2017">Martin, Greenspan, and Quan-Haase (<a href="#/bibliographie" role="doc-biblioref" onclick="">2017</a>)</span> was inspired by the material affordances of physical libraries, attempting to recreate spatialized navigation environments.</li>
 </ul>
 <!-- 
@@ -246,33 +251,85 @@ Initial question of the IEML work: What does a direct comparison between a symbo
 <section id="ieml" class="slide level2">
 <h2>IEML</h2>
 <p>Information Economy MetaLanguage (IEML) <span class="citation" data-cites="levySemanticComputingIEML2023">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Lévy 2023</a>)</span> != YAML</p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="img/ieml_decomposition_table.png"></p>
-<figcaption>IEML decomposition matrix based on 9 semantic facets</figcaption>
-</figure>
-</div>
+<h3 id="sentence-or-higher-level-of-conceptualisation">Sentence or higher level of conceptualisation</h3>
+<table class="caption-top">
+<caption>IEML decomposition matrix based on 9 semantic facets for the keyword <strong>editorialisation</strong></caption>
+<thead>
+<tr class="header">
+<th>Semantic Facet</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Theme/root</td>
+<td>theory</td>
+</tr>
+<tr class="even">
+<td>What</td>
+<td>edition or publishing</td>
+</tr>
+<tr class="odd">
+<td>Who</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>To whom</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>By which means</td>
+<td>*has property ~multiple process</td>
+</tr>
+<tr class="even">
+<td>When</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>Where</td>
+<td>-</td>
+</tr>
+<tr class="even">
+<td>Why</td>
+<td>-</td>
+</tr>
+<tr class="odd">
+<td>How</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><img data-src="img/iemlgrid.png"></p>
 <figcaption>Visualization of the grid in the IEML-RS plugin</figcaption>
 </figure>
 </div>
-<p>Dictionary of terms translated into IEML <a href="https://ieml.intlekt.io/">https://ieml.intlekt.io/</a></p>
-<p>E (emptiness), U (virtual), A (actual), S (sign), B (being), and T (thing).</p>
-<p>Lowercase letters: combinations of two primitives: 26 symbols.</p>
-<p>Punctuation: represents one of the six layers of the concept.</p>
-<p>Each layer is represented by a triad following the syntax: substance (role 1), attribute (role 2), and mode (role 3).</p>
+<p>Rules :</p>
+<ul>
+<li>the grid doesn’t have to be filled</li>
+<li>flexions are represented with *, ~</li>
+<li>le concepts have to be in the IEML dictionnary: <a href="https://ieml.intlekt.io/">https://ieml.intlekt.io/</a></li>
+</ul>
+<h3 id="lexical-level-of-deeper-level-of-conceptualisation">Lexical level of deeper level of conceptualisation</h3>
+<p><strong>publishing</strong>: t.a.-b.a.-p.-’</p>
+<p>Rules:</p>
+<ul>
+<li>Any concept can be described from the combination of 6 ‘primitives’: E (emptiness), U (virtual), A (actual), S (sign), B (being), and T (thing).</li>
+<li>A combination between two ‘primitives’ is a lowercase letter: there are 26 symbols.</li>
+<li>There are up to 6 layers of semantic desambiguisation represented with punctuation (ex: the dot is the first layer).</li>
+<li>Each layer is represented by a triad following the syntax: substance (role 1), attribute (role 2), and mode (role 3). An empty space in a layer is simply not represented.</li>
+</ul>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/ieml-declinaison-lettre-M.png"></p>
-<figcaption>Modulation of the primitive M</figcaption>
+<p><img data-src="img/ieml-declinaison-lettre-M2.png"></p>
+<figcaption>Modulation of the primitive <strong>M</strong></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="img/ieml_melodie_paradigme.png"></p>
-<figcaption>Table of the semiotic functions paradigm (selection around the concept of “melody”)</figcaption>
+<p><img data-src="img/ieml_dict_grid_publishing.png"></p>
+<figcaption>Modulation of the primitive M on the first segment shifts meaning from <strong>b</strong> associated with ‘language’ in <strong>literature</strong> to a <strong>t</strong> meaming ‘memory’ and creating <strong>publishing</strong></figcaption>
 </figure>
 </div>
 </section>
@@ -280,7 +337,7 @@ Initial question of the IEML work: What does a direct comparison between a symbo
 
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><video data-src="img/demo_ieml-rs.mp4" controls=""><a href="img/demo_ieml-rs.mp4">Video</a></video></p>
+<p><video data-src="img/demo-ieml-rs2.mp4" controls=""><a href="img/demo-ieml-rs2.mp4">Video</a></video></p>
 <figcaption>Demonstration</figcaption>
 </figure>
 </div>
@@ -288,10 +345,10 @@ Initial question of the IEML work: What does a direct comparison between a symbo
 <section id="summary-of-main-features" class="slide level2">
 <h2>Summary of Main Features</h2>
 <ul>
-<li>Exploration of an expanded semantic field thanks to IEML starting from a keyword.</li>
-<li>Automatic generation and correction (<em>human-in-the-loop</em>) of missing translations.</li>
-<li>Construction of a query sent to Isidore.</li>
-<li>Comparison of article lists sent based on a simple query and an LLM-augmented query.</li>
+<li>Exploration and extansion of a semantic field thanks to IEML starting from a keyword describing the seed article.</li>
+<li>Automatic generation and correction (human-in-the-loop) of missing ‘translations’.</li>
+<li>Construction of a query sent to the search engine Isidore.</li>
+<li>Side by side comparison of article lists retrieved from the user-selected keywords <strong>and</strong> an LLM-augmented query from those same keywords.</li>
 </ul>
 </section>
 <section>
@@ -301,25 +358,36 @@ Initial question of the IEML work: What does a direct comparison between a symbo
 </section>
 <section id="translation-prompt-into-ieml" class="slide level2">
 <h2>“Translation” Prompt into IEML</h2>
-<pre><code>You are a semantics expert. You must semantically decompose the keyword "${keyword}" based on the following 9 values:
-'theme, who, what, to whom, by what means, when, where, why, how'
-## Examples
+<p><strong>English version</strong>:</p>
+<p>You are a semantics expert. You must semantically decompose the keyword “${keyword}” based on the following 9 values: ‘theme, who, what, to whom, by what means, when, where, why, how’ ## Examples ${examples}</p>
+<p>## Dictionary Words You must use the words below to define the keyword “${keyword}”: ${context}</p>
+<p>Your response must take the form of a CSV with 9 columns; the column headers are: ‘theme, who, what, to whom, by what means, when, where, why, how’ It is not necessary to fill all fields. A field can remain empty between two commas, as in the examples. Respond only with a final CSV line, without explanation.</p>
+<p><strong>Original in French:</strong></p>
+<pre><code>Tu es un expert en sémantique. Tu dois décomposer sémantiquement le mot-clé "${keyword}" à partir des 9 valeurs suivantes :
+'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'
+## Exemples
 ${examples}
 
-## Dictionary Words
-You must use the words below to define the keyword "${keyword}":
+## Mots du dictionnaire 
+Tu dois utiliser les mots ci-dessous pour définir le mot-clé "${keyword}":
 ${context}
 
-Your response must take the form of a CSV with 9 columns; the column headers are:
-'theme, who, what, to whom, by what means, when, where, why, how'
-It is not necessary to fill all fields. A field can remain empty between two commas, as in the examples.
-Respond only with a final CSV line, without explanation.</code></pre>
+Ta réponse prendra la forme d'un CSV à 9 colonnes, les entêtes de colonnes sont: 
+'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'
+Il n'est pas nécessaire de remplir tous les champs. Un champs peut rester vide entre deux virgules, comme dans les exemples. 
+Répond uniquement avec une ligne CSV finale, sans explication.</code></pre>
 </section>
 <section id="query-augmentation-prompt" class="slide level2">
 <h2>Query Augmentation Prompt</h2>
-<pre><code>Produce 10 variants of the following Boolean query "${keywords}". Combine the proposed queries using the OR operator as in the example: Keywords: "impact of climate change on biodiversity". Response: "
-(climate change biodiversity impact) OR (effects of climate change on ecosystems) OR (biodiversity loss due to climate change) OR (climate change species extinction) OR (impact of global warming on wildlife) OR (effects of climate change on ecosystems and species diversity) OR (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OR (relationship between climate change and loss of biodiversity) OR (climate change threats to flora and fauna diversity) OR (impact of climate change on biodiversity)
-Now it is your turn with "${keywords}". Respond only with the query without giving any explanation.</code></pre>
+<p><strong>English version:</strong></p>
+<p>Generate 10 variants of the following Boolean query “${keywords}”. Combine the proposed queries using the OR operator as in the example:</p>
+<p>Keywords: “impact of climate change on biodiversity”.</p>
+<p>Response: “(climate change biodiversity impact) OR (effects of climate change on ecosystems) OR (biodiversity loss due to climate change) OR (climate change species extinction) OR (impact of global warming on wildlife) OR (effects of climate change on ecosystems and species diversity) OR (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OR (relationship between climate change and loss of biodiversity) OR (climate change threats to flora and fauna diversity) OR (impact of climate change on biodiversity) Now it is your turn with”${keywords}“.</p>
+<p>Respond only with the query without giving any explanation.</p>
+<p><strong>Original in French:</strong>:</p>
+<pre><code>Produit 10 variants de la requête booléenne suivante "${keywords}". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  "impact of climate change on biodiversity". Réponse: "
+(climate change biodiversity impact) OU (effects of climate change on ecosystems) OU (biodiversity loss due to climate change) OU (climate change species extinction) OU (impact of global warming on wildlife) OU (effects of climate change on ecosystems and species diversity) OU (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OU (relationship between climate change and loss of biodiversity) OU (climate change threats to flora and fauna diversity) OU (impact of climate change on biodiversity)
+C'est à ton tour avec "${keywords}". Répond uniquement avec la requête sans donner d'explication.</code></pre>
 </section>
 <section id="evaluations" class="slide level2">
 <h2>Evaluations</h2>
@@ -446,7 +514,8 @@ Now it is your turn with "${keywords}". Respond only with the query without givi
 </tbody>
 </table>
 </div>
-<p>Examples of translations produced by rag-llama-fewshot</p>
+<p>Examples of translations produced by rag-llama-fewshot.</p>
+<p>LLMs still do not perform well for structured meaning representation e.g.&nbsp;with Abstract Meaning Representation (AMR) <span class="citation" data-cites="ettingerYouAreExpert2023">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Ettinger et al. 2023</a>)</span>.</p>
 </section>
 <section id="evaluation-summary" class="slide level2">
 <h2>Evaluation Summary</h2>
@@ -512,6 +581,11 @@ Now it is your turn with "${keywords}". Respond only with the query without givi
 </tbody>
 </table>
 <p>The context (i.e., dictionary entries) marginally improves performance.</p>
+<p>Limits:</p>
+<ul>
+<li>BLEU and cosine are meant for the evaluation of natural language translation therefore are ill-suited for structured semantic language parsing.</li>
+<li>the retrieval part of the RAG makes choices that can potentially go against the principles of IEML representation. For instance the IR for ‘editorialisation’ will very likely retrieve from the IEML dictionnary ‘publishing’ with a vector-base search or ‘edition’ with BM25 but probably not ‘theory’ as these are farther apart. But the main advantage of IEML lies in its ability to bridge faraway concepts from common denominators.</li>
+</ul>
 </section>
 <section id="qualitative-evaluation-of-ieml-rs" class="slide level2">
 <h2>Qualitative Evaluation of IEML-RS</h2>
@@ -549,9 +623,8 @@ Now it is your turn with "${keywords}". Respond only with the query without givi
 <p>Example of an environment design fostering serendipity.</p>
 <p>Tools being developed in Digital Humanities:</p>
 <ul>
-<li>Barista from the Impresso project: query building assistant <span class="citation" data-cites="finnShapingHistoryResponsibly2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Finn et al. 2026</a>)</span>,</li>
-<li>Ongoing developments at Isidore for RAG limited to specific use cases <span class="citation" data-cites="sacyLireDifferentesEchelles2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Sacy et al. 2025</a>)</span>,</li>
-<li>Evidence-RAG from the JDH (to assist in the evaluation of reviewer comments during the peer review process) <span class="citation" data-cites="guerardInteractiveEvidenceRAGPeer2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Guérard et al. 2026</a>)</span>.</li>
+<li>Barista from the Impresso project: query building assistant <span class="citation" data-cites="finnShapingHistoryResponsibly2026">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Finn et al. 2026</a>)</span></li>
+<li>Ongoing developments at Isidore for RAG limited to specific use cases <span class="citation" data-cites="sacyLireDifferentesEchelles2025">(<a href="#/bibliographie" role="doc-biblioref" onclick="">Sacy et al. 2025</a>)</span> <!-- - Evidence-RAG from the JDH (to assist in the evaluation of reviewer comments during the peer review process) [@guerardInteractiveEvidenceRAGPeer2026]. --></li>
 </ul>
 </section>
 <section id="acknowledgements" class="slide level2">
@@ -562,7 +635,7 @@ Now it is your turn with "${keywords}". Respond only with the query without givi
 <h2>Thank you for your attention!</h2>
 <p>Link to download the Firefox plugin:</p>
 <div class="align-center">
-<p><img data-src="img/qrcode-plugin.jpeg"></p>
+<p><img data-src="img/qrcode-plugin.jpeg" style="width:50.0%"></p>
 </div>
 </section>
 <section id="bibliographie" class="slide level2 smaller scrollable">
@@ -571,14 +644,23 @@ Now it is your turn with "${keywords}". Respond only with the query without givi
 <div id="ref-archambaultEvaluationCuttingEdgeAI2024" class="csl-entry" role="listitem">
 Archambault, Susan, and José Rincón. 2024. <span>“An <span>Evaluation</span> of <span>Cutting-Edge AI Research Tools Using</span> the <span>REACT Framework</span>.”</span> <em>Computers in Libraries</em> 44 (8).
 </div>
+<div id="ref-derewalEvaluatingLLMResearch2025" class="csl-entry" role="listitem">
+DeRewal, Tiffany. 2025. <span>“Evaluating <span>LLM</span> <span>‘<span>Research Assistants</span>’</span> and <span>Their Risks</span> for <span>Novice Researchers</span>.”</span> <em>Critical AI</em> 3 (2). <a href="https://doi.org/10.1215/2834703X-12095982">https://doi.org/10.1215/2834703X-12095982</a>.
+</div>
+<div id="ref-dijkstraPersuasivenessExpertSystems1998" class="csl-entry" role="listitem">
+Dijkstra, Jaap J., Wim B. G. Liebrand, and Ellen Timminga. 1998. <span>“Persuasiveness of Expert Systems.”</span> <em>Behaviour &amp; Information Technology</em> 17 (3): 155–63. <a href="https://doi.org/10.1080/014492998119526">https://doi.org/10.1080/014492998119526</a>.
+</div>
+<div id="ref-ettingerYouAreExpert2023" class="csl-entry" role="listitem">
+Ettinger, Allyson, Jena D. Hwang, Valentina Pyatkin, Chandra Bhagavatula, and Yejin Choi. 2023. <span>“"<span>You Are An Expert Linguistic Annotator</span>": <span>Limits</span> of <span>LLMs</span> as <span>Analyzers</span> of <span>Abstract Meaning Representation</span>.”</span> In <em><span>EMNLP</span> 2023 <span>Findings</span></em>. arXiv. <a href="https://doi.org/10.48550/ARXIV.2310.17793">https://doi.org/10.48550/ARXIV.2310.17793</a>.
+</div>
 <div id="ref-finnShapingHistoryResponsibly2026" class="csl-entry" role="listitem">
 Finn, Finola, Donal Khosrowi, Caio Mello, Marten Düring, and Danielle Guido. 2026. <span>“Shaping <span>History</span>, <span>Responsibly</span>: <span>Seven Principles</span> to <span>Guide</span> the <span>Design</span> of <span>Archival AI Assistants</span> for <span>Cultural Heritage Collections</span>.”</span> In <em><span>ACM FAccT</span></em>. Montréal.
 </div>
-<div id="ref-guerardInteractiveEvidenceRAGPeer2026" class="csl-entry" role="listitem">
-Guérard, Élisabeth, Mehrdad Almasi, Marion Salaün, and Frédéric Clavert. 2026. <span>“Towards an Interactive <span>‘<span>Evidence-RAG</span>’</span> Peer- Review Workspace for the <span>Journal</span> of <span>Digital History</span>.”</span> Long {{Talk}}. Esch-sur-Alzette.
-</div>
 <div id="ref-levySemanticComputingIEML2023" class="csl-entry" role="listitem">
 Lévy, Pierre. 2023. <span>“Semantic Computing with <span>IEML</span>.”</span> <em>Collective Intelligence</em> 2 (4): 26339137231207634. <a href="https://doi.org/10.1177/26339137231207634">https://doi.org/10.1177/26339137231207634</a>.
+</div>
+<div id="ref-loggAlgorithmAppreciationPeople2019" class="csl-entry" role="listitem">
+Logg, Jennifer M., Julia A. Minson, and Don A. Moore. 2019. <span>“Algorithm Appreciation: <span>People</span> Prefer Algorithmic to Human Judgment.”</span> <em>Organizational Behavior and Human Decision Processes</em> 151 (March): 90–103. <a href="https://doi.org/10.1016/j.obhdp.2018.12.005">https://doi.org/10.1016/j.obhdp.2018.12.005</a>.
 </div>
 <div id="ref-martinSTAKSerendipitousTool2017" class="csl-entry" role="listitem">
 Martin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. <span>“<span>STAK</span> – <span>Serendipitous</span> Tool for Augmenting Knowledge: <span>A</span> Conceptual Tool for Bridging Digital and Physical Resources.”</span> <em>Digital Studies / Le Champ Numérique</em> 6 (1). <a href="https://doi.org/10.16995/dscn.265">https://doi.org/10.16995/dscn.265</a>.
@@ -591,9 +673,6 @@ Narechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. <span>�
 </div>
 <div id="ref-nielsenGlobalCitationInequality2021" class="csl-entry" role="listitem">
 Nielsen, Mathias Wullum, and Jens Peter Andersen. 2021. <span>“Global Citation Inequality Is on the Rise.”</span> <em>Proceedings of the National Academy of Sciences</em> 118 (7): e2012208118. <a href="https://doi.org/10.1073/pnas.2012208118">https://doi.org/10.1073/pnas.2012208118</a>.
-</div>
-<div id="ref-pariserFilterBubbleWhat2011" class="csl-entry" role="listitem">
-Pariser, Eli. 2011. <span>“The <span>Filter Bubble</span>: <span>What</span> the <span>Internet Is Hiding</span> from <span>You</span>.”</span> In.
 </div>
 <div id="ref-pattersonWhichAITools2025" class="csl-entry" role="listitem">
 Patterson, Brandon, Carlos Flores, Nick Hauschild, and Jared Branch. 2025. <span>“Which <span>AI Tools Work Best</span> for <span>Research</span>? <span>Using Librarian</span> and <span>Student Perspectives</span> to <span>Inform</span> a <span>Rating Rubric</span>.”</span> <em>Journal of Electronic Resources in Medical Libraries</em> 22 (3): 133–38. <a href="https://doi.org/10.1080/15424065.2025.2546052">https://doi.org/10.1080/15424065.2025.2546052</a>.
@@ -615,6 +694,9 @@ Underwood, Ted. 2014. <span>“Theorizing <span>Research Practices We Forgot</sp
 </div>
 <div id="ref-vargaNarrowingLiteratureUse2022" class="csl-entry" role="listitem">
 Varga, Attila. 2022. <span>“The Narrowing of Literature Use and the Restricted Mobility of Papers in the Sciences.”</span> <em>Proceedings of the National Academy of Sciences</em> 119 (17): e2117488119. <a href="https://doi.org/10.1073/pnas.2117488119">https://doi.org/10.1073/pnas.2117488119</a>.
+</div>
+<div id="ref-vicenteHumansInheritArtificial2023" class="csl-entry" role="listitem">
+Vicente, Lucía, and Helena Matute. 2023. <span>“Humans Inherit Artificial Intelligence Biases.”</span> <em>Scientific Reports</em> 13 (1): 15737. <a href="https://doi.org/10.1038/s41598-023-42384-8">https://doi.org/10.1038/s41598-023-42384-8</a>.
 </div>
 </div>
 </section></section>
