@@ -1411,7 +1411,7 @@
     "href": "slides/26-07-30_DH26_IEML-RS.html#presentation-outline",
     "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
     "section": "Presentation outline",
-    "text": "Presentation outline\n\nIntroduction\n\nbrief SOTA\nDemonstration\nEvaluation\n\nConclusion"
+    "text": "Presentation outline\n\nIntroduction\n\nBrief SOTA\nDemonstration\nEvaluation\n\nConclusion"
   },
   {
     "objectID": "slides/26-07-30_DH26_IEML-RS.html#introduction",
@@ -1425,7 +1425,7 @@
     "href": "slides/26-07-30_DH26_IEML-RS.html#problem-statement",
     "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
     "section": "Problem Statement",
-    "text": "Problem Statement\nWith the current adoption of these “AI research assistants” we are seeing a change in research practices. With it comes certain aspects that we have still to grapple with:\n\nA focus on ‘findability’ i.e. finding what we already know we know as opposed to ‘serendipity’: finding what we didn’t know with accompanying risk of increasing confirmation bias (Underwood 2014) with natural language querying.\nBlurring of different cognitive tasks: search and analysis (Finn et al. 2026; DeRewal 2025).\nStill complex evaluation of an opaque and quickly-changing tools: opacity of ranking, filtering, and synthesis (when applicable) (Archambault and Rincón 2024; Patterson et al. 2025; Tay 2025).\nOpacity of the systems themselves: citation concentration (Matthew effect (Merton 1968)) with potential reduction of the epistemic space for discovery (Nielsen and Andersen 2021; Varga 2022).\nIncentives to maintain authoritative tools and rely on long documented persuasiveness of algorithms and computer outputs (Dijkstra, Liebrand, and Timminga 1998; Logg, Minson, and Moore 2019; Vicente and Matute 2023)."
+    "text": "Problem Statement\nWith the current adoption of these “AI research assistants” we are seeing a change in research practices. With it comes certain aspects that we have still to grapple with:\n\nA focus on ‘findability’ i.e. finding what we already know we know as opposed to ‘serendipity’: finding what we didn’t know -&gt; risk of increasing confirmation bias (Underwood 2014) with natural language querying.\nBlurring of different cognitive tasks: search and analysis (Finn et al. 2026; DeRewal 2025).\nStill complex evaluation of an opaque and quickly-changing tools: opacity of ranking, filtering, and synthesis (when applicable) (Archambault and Rincón 2024; Patterson et al. 2025; Tay 2025).\nOpacity of the systems themselves: citation concentration (Matthew effect (Merton 1968)) with potential reduction of the epistemic space for discovery (Nielsen and Andersen 2021; Varga 2022).\nIncentives to maintain authoritative tools and rely on long documented persuasiveness of algorithms and computer outputs (Dijkstra, Liebrand, and Timminga 1998; Logg, Minson, and Moore 2019; Vicente and Matute 2023)."
   },
   {
     "objectID": "slides/26-07-30_DH26_IEML-RS.html#research-question",
