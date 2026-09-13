@@ -103,7 +103,7 @@ _Grammar Error Correction_: tâche de Traitement Automatique de la Langue Nature
 ##  Un idéal de clarté qui finit par s’auto-parodier (le fameux *style chatgpt*) 
 
 > We show that while the core content of texts is retained when LLMs polish and rewrite texts, **not only do they homogenize writing styles, but they also alter stylistic elements in a way that selectively amplifies certain dominant characteristics or biases while suppressing others - emphasizing conformity over individuality**. By varying LLMs, prompts, classifiers, and contexts, we show that these trends are robust and consistent. 
-[@sourati2025shrinkinglandscapelinguisticdiversity]
+[@souratiShrinkingLandscapeLinguistic2025]
 
 *Si une formulation est fortement présente dans le corpus d'entraînement est-ce que c'est nécessairement la meilleure ? L'approche par défaut vaut-elle pour tous les contextes ?*
 
@@ -127,7 +127,7 @@ Les promesses de gain de temps et de productivité cachent des enjeux économiqu
 
 ## Pour en savoir plus 
 
-Voir l'atelier IA sur la correction animé par [@gromettoDebogueTesHumanites2025]
+Voir l'atelier IA sur la correction animé par [@schneiderDebogueTesHumanites2025a]. 
 
 ## Questions  
 

@@ -1,5 +1,5 @@
 ---
-title: Index des diapositives 
+title: Index des billets de blog
 listing: 
     contents: carnet
     type: table

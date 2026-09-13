@@ -23,4 +23,5 @@ website:
           text: "Slides"
         - href: index_projects.md
           text: "Projects"
-        
+        - href: index_carnet.md
+          text: "Carnet"

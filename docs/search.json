@@ -4,7 +4,7 @@
     "href": "index_slides.html",
     "title": "Index des diapositives",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nOct 15, 2025\n\n\nIA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire\n\n\nAlexia Schneider\n\n\n\n\nNov 3, 2025\n\n\nEvaluating RAG with RAGAS\n\n\nAlexia Schneider\n\n\n\n\nNov 6, 2025\n\n\nRecommender System for Isidore based on IEML\n\n\nAlexia Schneider\n\n\n\n\nNov 19, 2025\n\n\nExpérimentation du langage artificiel IEML pour la recherche d’articles scientifiques\n\n\nAlexia Schneider\n\n\n\n\nNov 20, 2025\n\n\nAutomatiser la révision textuelle ?\n\n\nAlexia Schneider, Clara Grometto\n\n\n\n\nDec 4, 2025\n\n\nIFT6076 - evaluation IEML-RS\n\n\nAlexia Schneider\n\n\n\n\nJan 20, 2026\n\n\nÉthique et IA générative\n\n\nAlexia Schneider, Marcello Vitali-Rosati\n\n\n\n\nFeb 12, 2026\n\n\nAtelier 1 : Connaître et évaluer les systèmes d’automatisation complexes pour les revues\n\n\nAlexia Schneider\n\n\n\n\nFeb 24, 2026\n\n\nTypst\n\n\nAlexia Schneider\n\n\n\n\nApr 14, 2026\n\n\nC2DH - Understanding current AI tools’ impact on research and developping alternative AI tools\n\n\nAlexia Schneider\n\n\n\n\nApr 26, 2026\n\n\nCréativités Artificielles - Quelle place pour la sérendipité dans les nouvelles pratiques de recherche documentaire assistées par IA ?\n\n\nAlexia Schneider\n\n\n\n\nMay 21, 2026\n\n\nHumanistica - Pourquoi le premier jeu de l’imitation n’a jamais été joué\n\n\n \n\n\n\n\nMay 22, 2026\n\n\nHumanistica - recherche documentaire assistée par IA et systèmes de recommandation\n\n\nAlexia Schneider, Marcello Vitali-Rosati, Pierre Levy\n\n\n\n\nJun 3, 2026\n\n\nCSDH - ‘AI-powered research assistant’ and the invisible transformations of research practices\n\n\nAlexia Schneider\n\n\n\n\nJun 4, 2026\n\n\nINKE - An imperfect AI to uphold human agency : vindicating the ‘yes but’ of this world\n\n\nAlexia Schneider\n\n\n\n\nJul 30, 2026\n\n\nDH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic\n\n\nAlexia Schneider, Marcello Vitali-Rosati, Pierre Levy\n\n\n\n\nSep 24, 2026\n\n\nPortes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne\n\n\nAlexia Schneider\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 13, 2026\n\n\nDu bon usage de l’IA\n\n\n \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/feux_pales.html",
@@ -53,7 +53,7 @@
     "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#un-idéal-de-clarté-qui-finit-par-sauto-parodier-le-fameux-style-chatgpt",
     "title": "Automatiser la révision textuelle ?",
     "section": "Un idéal de clarté qui finit par s’auto-parodier (le fameux style chatgpt)",
-    "text": "Un idéal de clarté qui finit par s’auto-parodier (le fameux style chatgpt)\n\nWe show that while the core content of texts is retained when LLMs polish and rewrite texts, not only do they homogenize writing styles, but they also alter stylistic elements in a way that selectively amplifies certain dominant characteristics or biases while suppressing others - emphasizing conformity over individuality. By varying LLMs, prompts, classifiers, and contexts, we show that these trends are robust and consistent. (sourati2025shrinkinglandscapelinguisticdiversity?)\n\nSi une formulation est fortement présente dans le corpus d’entraînement est-ce que c’est nécessairement la meilleure ? L’approche par défaut vaut-elle pour tous les contextes ?\nIl y a des contextes dans lesquels la langue se doit d’être normée : contexte académique."
+    "text": "Un idéal de clarté qui finit par s’auto-parodier (le fameux style chatgpt)\n\nWe show that while the core content of texts is retained when LLMs polish and rewrite texts, not only do they homogenize writing styles, but they also alter stylistic elements in a way that selectively amplifies certain dominant characteristics or biases while suppressing others - emphasizing conformity over individuality. By varying LLMs, prompts, classifiers, and contexts, we show that these trends are robust and consistent. (Sourati et al. 2025)\n\nSi une formulation est fortement présente dans le corpus d’entraînement est-ce que c’est nécessairement la meilleure ? L’approche par défaut vaut-elle pour tous les contextes ?\nIl y a des contextes dans lesquels la langue se doit d’être normée : contexte académique."
   },
   {
     "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#effet-nivelant-et-autorité-de-la-machine",
@@ -74,7 +74,7 @@
     "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#pour-en-savoir-plus",
     "title": "Automatiser la révision textuelle ?",
     "section": "Pour en savoir plus",
-    "text": "Pour en savoir plus\nVoir l’atelier IA sur la correction animé par (gromettoDebogueTesHumanites2025?)"
+    "text": "Pour en savoir plus\nVoir l’atelier IA sur la correction animé par (Schneider and Grometto 2025)."
   },
   {
     "objectID": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#questions",
@@ -88,7 +88,7 @@
     "href": "slides/pres_atelier_AutomatisationCorr_PleniereRevue30.html#bibliographie",
     "title": "Automatiser la révision textuelle ?",
     "section": "Bibliographie",
-    "text": "Bibliographie\n\n\n\n\nLodge, R. Anthony. 1993. French, from Dialect to Standard. London ; New York : Routledge.\n\n\nPaschalidis, Aristotelis Ioannis. 2025. “Vers un langage sans relief ? L’impact de l’IA sur nos mots.” {UNESCO}.\n\n\nSchumacher, Perrine. 2023. “La post-édition de traduction automatique en contexte d’apprentissage.” PhD thesis, Liège: Universite de Liege.\n\n\nVicente, Lucía, and Helena Matute. 2023. “Humans Inherit Artificial Intelligence Biases.” Scientific Reports 13 (1): 15737. https://doi.org/10.1038/s41598-023-42384-8."
+    "text": "Bibliographie\n\n\n\n\nLodge, R. Anthony. 1993. French, from Dialect to Standard. London ; New York : Routledge.\n\n\nPaschalidis, Aristotelis Ioannis. 2025. “Vers un langage sans relief ? L’impact de l’IA sur nos mots.” {UNESCO}.\n\n\nSchneider, Alexia, and Clara Grometto. 2025. “[Debogue tes humanités] IA et la correction textuelle automatique : quels outils et quelles limites ?” NAKALA - https://nakala.fr (Huma-Num - CNRS).\n\n\nSchumacher, Perrine. 2023. “La post-édition de traduction automatique en contexte d’apprentissage.” PhD thesis, Liège: Universite de Liege.\n\n\nSourati, Zhivar, Farzan Karimi-Malekabadi, Meltem Ozcan, Colin McDaniel, Alireza Ziabari, Jackson Trager, Ala Tak, Meng Chen, Fred Morstatter, and Morteza Dehghani. 2025. “The Shrinking Landscape of Linguistic Diversity in the Age of Large Language Models.” https://arxiv.org/abs/2502.11266.\n\n\nVicente, Lucía, and Helena Matute. 2023. “Humans Inherit Artificial Intelligence Biases.” Scientific Reports 13 (1): 15737. https://doi.org/10.1038/s41598-023-42384-8."
   },
   {
     "objectID": "slides/26-02-12_revue30_atelierAutomatisationSeance01.html#présentation",
@@ -354,7 +354,7 @@
     "href": "slides/25-11-06_pres_midtermFinalProj.html#references",
     "title": "Recommender System for Isidore based on IEML",
     "section": "References",
-    "text": "References\n\n\n\n\nCardon, Dominique. 2013. “Dans l’esprit Du PageRank: Une Enquête Sur l’algorithme de Google.” Réseaux n\\(^\\circ\\) 177 (1): 63–95. https://doi.org/10.3917/res.177.0063.\n\n\nNielsen, Mathias Wullum, and Jens Peter Andersen. 2021. “Global Citation Inequality Is on the Rise.” Proceedings of the National Academy of Sciences 118 (7): e2012208118. https://doi.org/10.1073/pnas.2012208118.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64."
+    "text": "References\n\n\n\n\nCardon, Dominique. 2013. “Dans l’esprit Du PageRank: Une Enquête Sur l’algorithme de Google.” Réseaux n. 177 (1): 63–95. https://doi.org/10.3917/res.177.0063.\n\n\nNielsen, Mathias Wullum, and Jens Peter Andersen. 2021. “Global Citation Inequality Is on the Rise.” Proceedings of the National Academy of Sciences 118 (7): e2012208118. https://doi.org/10.1073/pnas.2012208118.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64."
   },
   {
     "objectID": "slides/26-04-14_pres_C2DH.html#context",
@@ -539,6 +539,34 @@
     "text": "Bibliography\n\n\n\n\n\n\nDijkstra, Jaap J., Wim B. G. Liebrand, and Ellen Timminga. 1998. “Persuasiveness of Expert Systems.” Behaviour & Information Technology 17 (3): 155–63. https://doi.org/10.1080/014492998119526.\n\n\nKosmyna, Nataliya, Eugene Hauptmann, Ye Tong Yuan, Jessica Situ, Xian-Hao Liao, Ashly Vivian Beresnitzky, Iris Braunstein, and Pattie Maes. 2025. “Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task.” arXiv. https://doi.org/10.48550/arXiv.2506.08872.\n\n\nLogg, Jennifer M., Julia A. Minson, and Don A. Moore. 2019. “Algorithm Appreciation: People Prefer Algorithmic to Human Judgment.” Organizational Behavior and Human Decision Processes 151 (March): 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005.\n\n\nVicente, Lucía, and Helena Matute. 2023. “Humans Inherit Artificial Intelligence Biases.” Scientific Reports 13 (1): 15737. https://doi.org/10.1038/s41598-023-42384-8.\n\n\nVitali-Rosati, Marcello. 2024. Eloge du bug: être libre à l’époque du numérique. Paris: Zones."
   },
   {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
+    "title": "Éthique et IA générative",
+    "section": "Uniformisation",
+    "text": "Uniformisation\n\nDes approches\nDes pratiques\nDu discours (création et contrôle des besoins)\n\nRépondre par:\n\nValoriser l’agentivité des étudiant.e.s et des enseignant.e.s,\nIdentifier ses besoins et attentes pour choisir son outil,\nFavoriser une pluralité d’approches.\n\nExemples:\n\ncorrection ortho-typographique : le dictionnaire ?\nlittératie numérique"
+  },
+  {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
+    "title": "Éthique et IA générative",
+    "section": "Concentration économique et politique",
+    "text": "Concentration économique et politique\n\nDestruction de la planète,\nSouveraineté digitale : Concentration dans les clouds(Rikap 2021)"
+  },
+  {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais-algorithmiques",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais-algorithmiques",
+    "title": "Éthique et IA générative",
+    "section": "Biais algorithmiques",
+    "text": "Biais algorithmiques\n\nTous les algo ont des biais : ex : https://laurenleek.substack.com/p/how-google-maps-quietly-allocates?r=2mgxo2&utm_campaign=post&utm_medium=web&triedRedirect=true\nInvisibilisation des biais par un effet d’objectivité et d’autorité de la machine\n\nRépondre par:\n\nEnseignement de l’étude critique et de l’analyse critique\nAccepter de changer nos critères d’évaluation.\n\nExemples :\n\nSimplifier la lettre de recommendation, les mails etc.\nValoriser l’erreur et le dysfonctionnel (Vitali-Rosati 2024)"
+  },
+  {
+    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#bibliographie",
+    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#bibliographie",
+    "title": "Éthique et IA générative",
+    "section": "Bibliographie",
+    "text": "Bibliographie\n\n\n\n\nRikap, Cecilia. 2021. Capitalism, Power and Innovation: Intellectual Monopoly Capitalism Uncovered. London: Routledge. https://doi.org/10.4324/9780429341489.\n\n\nSrnicek, Nick. 2026. Silicon Empires: The Fight for the Future of AI. Cambridge: Polity Press.\n\n\nVitali-Rosati, Marcello. 2024. Éloge Du Bug. Éditions La Découverte."
+  },
+  {
     "objectID": "slides/26-02-24_typstEcrinum.html#latex-cest-bien",
     "href": "slides/26-02-24_typstEcrinum.html#latex-cest-bien",
     "title": "Typst",
@@ -588,6 +616,13 @@
     "text": "WHAT IS TYPST\nRust.\nSyntaxe = Markdown pour la structure + du code précédé par #."
   },
   {
+    "objectID": "index_carnet.html",
+    "href": "index_carnet.html",
+    "title": "Index des billets de blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nSep 13, 2026\n\n\nDu bon usage de l’IA\n\n\n \n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index_projects.html",
     "href": "index_projects.html",
     "title": "Projects",
@@ -595,39 +630,207 @@
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 1, 2025\n\n\nIEML-RS\n\n\n \n\n\n\n\nJun 1, 2026\n\n\nFeux Pâles\n\n\n \n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "carnet/bon_usage_IA.html",
+    "href": "carnet/bon_usage_IA.html",
+    "title": "Du bon usage de l’IA",
+    "section": "",
+    "text": "Tout le monde utilise l’IA de la meilleure des façons.\nUntel s’en sert pour traduire, untel pour rédiger un plan de cours, pour faire les diapos de son cours, la version rédigée de sa communication, pour écrire une lettre de recommandation, une demande de subvention, un passage difficile de sa thèse, pour coder, pour réparer son ordinateur, pour trouver une recette qui utilise les ingrédients de son frigo, pour avoir un avis différent, pour trouver des choses à faire dans une ville qu’on ne connait pas, pour ajouter des illustrations sympa dans ses diapos, etc.\nLes uns demandent toujours des sources, les autres une explication. Certains ne s’en servent qu’au début de leur réflexion, pour défricher les idées, d’autres à la fin de leur travail pour peaufiner le résultat.\nBref, chacun a une utilisation réflechie et raisonnée de l’IA.\nPourtant, tout les autres s’en servent n’importe comment.\nUntel s’en sert pour traduire, untel pour rédiger un plan de cours, pour faire les diapos de son cours, la version rédigée de sa communication, pour écrire une lettre de recommandation, une demande de subvention, un passage difficile de sa thèse, pour coder, pour réparer son ordinateur, pour trouver une recette qui utilise les ingrédients de son frigo, pour avoir un avis différent, pour trouver des choses à faire dans une ville qu’on ne connait pas, pour ajouter des illustrations sympa dans ses diapos, etc.\nBref, tout le monde a une utilisation irréflechie de l’IA, sauf moi.\nQuand j’interroge ChatGPT, Claude, Euria, Le Chat de Mistral1, je demande toujours une explication au code qu’ils me fournissent. Sauf quand je veux vraiment juste me débogguer (coder c’est pas que se débogguer, non?). Pour ce qui est de l’écriture, je leur demande toujours des suggestions de reformulation, et non simplement une réécriture. Pour trouver des sources qui confirment une idée que je n’ai pas le courage de chercher en profondeur, j’utilise Consensus, Undermind, des outils spécialisés pour lesquels je dispose d’abonnement premium par le biais de mon université. Je commence toujours par chercher sur DuckDuckGo, qui me laisse encore opt out des ‘aperçus générés par IA’ donc je sais encore faire la différence entre rechercher une information et obtenir une synthèse de sources. Je connais l’histoire de l’IA, je sais affiner un grand modèle de langue, monter un RAG, je sais ce qui se trouve derrière un système agentique, je sais les enjeux d’une application de type chatbot et la multiplicité des usages possibles d’un LLM.\nEn somme, je suis la seule à me servir correctement de l’IA. Les autres sont influençables ou manquent de culture numérique, et je soupçonne que certains d’entre vous soient un peu fénéants.\n\n\n\nSi vous m’attribuez un peu d’hypocrisie et d’élitisme intellectuel, rassurez-vous, j’en suis là aussi dans mes réflexions. Et quand j’en parle autour de moi, il semble que nos pratiques réelles, qu’on nous incite à dévoiler par des formulaires (par exemple Inc (2023), Suchikova et al. (2026)) sont souvent cachées moins par crainte d’un impact sur sa crédibilité Shen et al. (2025) que par sentiment de honte vis à vis de son propre travail et de cette utilisation.\nAu fond je crois que tout le monde fait la même chose avec l’IA, et je ne parle pas de traduire, coder, corriger, écrire etc. Ce que nous faisons c’est négocier avec notre conscience.\nDepuis plus d’un an déjà Clara Grometto, une collègue du laboratoire de recherche sur les Écritures Numériques de l’Udem nous le dit: utiliser ces outils-là revient à conforter son sentiment d’incapacité. On leur délègue trop souvent des tâches qu’on ne se sent déjà plus capable de faire parce qu’on se compare à un résultat qu’on s’imagine meilleur que ce qu’on produira par nos propres moyens. Résultat? Ce débat intérieur, entre sentiment de culpabilité et impression de voir nos capacités individuelles augmenter par ces usages, est le seul geste qui nous appartient vraiment, et c’est peut-être le seul débat qui importe encore.\nPris entre le marteau (je ne m’en sers pas donc je suis meilleur que les autres) et l’enclume (tout le monde s’en sert donc je n’ai pas le choix de m’en servir aussi), il faut trouver une façon de se réconcilier avec ses pratiques.\n\n\n\nDans un atelier à la BLSH sur la correction automatique à l’ère de l’“IA générative” Clara Grometto nous rappelle que l’écriture et par extension la révision s’incarnent dans les outils que nous utilisons . Elle met en garde de la “déprise du texte” qui a lieu quand nous délégons à une machine des tâches d’édition, car le travail éditorial est finalement ce qui distingue un texte d’un autre, ce qui permet sa construction Schneider and Grometto (2025).\nIl ne s’agit pas seulement d’une déprise du texte au sens de la “mort de l’auteur” qui a évacué en 1967 l’intention auctoriale et permis le recentrement sur la réception du texte. Il ne s’agit pas non plus, selon moi, de la mort de la lecture annonçant le début d’une ère de post-litteracy telle qu’annoncée par McLuhan Horowitch (2026) .\nCar ce qui est en jeu ne concerne pas que le texte et ses activités associées de lecture et d’écriture, mais toute l’activité humaine. Comme souvent évoqué par Marcello Vitali-Rosati, il s’agit davantage d’une déprise du sens. En plaçant toutes les tâches au même niveau et en les médiant par le même outil nous risquons de leur donner la même valeur et cette valeur sera définie par les personnes qui designent ces applications. Pour apprendre à négocier mieux avec sa conscience, il faut commencer par prendre conscience de la façon dont ces personnes définissent le monde.\nLes applications reposant sur des grands modèles de langue sont conçus pour résoudre des problèmes par des ingénieurs. Et du point de vue d’un ingénieur, lire un roman ou écrire un roman, c’est un problème qui peut se résoudre de la même façon que de débogguer son programme informatique. Certes, on peut écrire un programme de différentes façons, mais ce qui compte, c’est le résultat. Si on comprend bien qu’apprendre une langue n’a plus aucun sens dans ce paradigme, il faut aussi comprendre que cette logique implacable signifie qu’écrire un roman ne sert plus à rien, le lire encore moins car un roman est une somme de personnages et de péripéties que l’on peut, généralement, aisément décrire en quelques phrases. Ce formalisme a ses forces. En Humanités Numériques, il est fréquent qu’une modélisation formelle et fonctionnelle de textes littéraires offre de nouvelles réponses à des questions anciennes (d’autorialité notamment) ou qu’elle ouvre à la voie à de nouvelles questions et interprétations. Cependant, les HN s’engagent à porter une réflexion sur les modèles, loin du point de vue solutionniste matérialisé par les chatbots.\nRésister à ce point de vue consiste à accepter sa propre médiocrité, accepter d’écrire moins, de lire moins, d’avoir un style redondant, d’apprendre péniblement. Accepter d’être à rebours d’une logique productiviste et solutionniste que personne ne nous impose vraiment et qu’on accepte un peu trop facilement.\n\n\n\nLa seule alternative est-elle la reconsidération personnelle voire intime de nos besoins réels par rapport à ces outils? Cette solution de repli fait reposer sur l’individu le poids d’un choix qui va à l’encontre de certains principe implicites de nos systèmes (on pense au fameux publish or perish du milieu académique, au système d’évaluation scolaire actuel), et ne fait certainement qu’augmenter le sentiment de culpabilité pour celles et ceux qui “succombent”. Autrement dit, la vraie solution se situe certainement à une autre échelle, dans une prise de conscience collective matérialisée dans des politiques publiques. Cependant, ne nous déprennons pas trop vite de notre propre capacité d’action individuelle car il y a aussi un véritable enjeu économique et politique de la part des entreprises qui vendent ces chatbots à nous faire croire qu’ils sont inévitables et que nous sommes impuissants face au nouvel ordre qu’ils nous proposent."
+  },
+  {
+    "objectID": "carnet/bon_usage_IA.html#le-seul-bon-usage",
+    "href": "carnet/bon_usage_IA.html#le-seul-bon-usage",
+    "title": "Du bon usage de l’IA",
+    "section": "",
+    "text": "Tout le monde utilise l’IA de la meilleure des façons.\nUntel s’en sert pour traduire, untel pour rédiger un plan de cours, pour faire les diapos de son cours, la version rédigée de sa communication, pour écrire une lettre de recommandation, une demande de subvention, un passage difficile de sa thèse, pour coder, pour réparer son ordinateur, pour trouver une recette qui utilise les ingrédients de son frigo, pour avoir un avis différent, pour trouver des choses à faire dans une ville qu’on ne connait pas, pour ajouter des illustrations sympa dans ses diapos, etc.\nLes uns demandent toujours des sources, les autres une explication. Certains ne s’en servent qu’au début de leur réflexion, pour défricher les idées, d’autres à la fin de leur travail pour peaufiner le résultat.\nBref, chacun a une utilisation réflechie et raisonnée de l’IA.\nPourtant, tout les autres s’en servent n’importe comment.\nUntel s’en sert pour traduire, untel pour rédiger un plan de cours, pour faire les diapos de son cours, la version rédigée de sa communication, pour écrire une lettre de recommandation, une demande de subvention, un passage difficile de sa thèse, pour coder, pour réparer son ordinateur, pour trouver une recette qui utilise les ingrédients de son frigo, pour avoir un avis différent, pour trouver des choses à faire dans une ville qu’on ne connait pas, pour ajouter des illustrations sympa dans ses diapos, etc.\nBref, tout le monde a une utilisation irréflechie de l’IA, sauf moi.\nQuand j’interroge ChatGPT, Claude, Euria, Le Chat de Mistral1, je demande toujours une explication au code qu’ils me fournissent. Sauf quand je veux vraiment juste me débogguer (coder c’est pas que se débogguer, non?). Pour ce qui est de l’écriture, je leur demande toujours des suggestions de reformulation, et non simplement une réécriture. Pour trouver des sources qui confirment une idée que je n’ai pas le courage de chercher en profondeur, j’utilise Consensus, Undermind, des outils spécialisés pour lesquels je dispose d’abonnement premium par le biais de mon université. Je commence toujours par chercher sur DuckDuckGo, qui me laisse encore opt out des ‘aperçus générés par IA’ donc je sais encore faire la différence entre rechercher une information et obtenir une synthèse de sources. Je connais l’histoire de l’IA, je sais affiner un grand modèle de langue, monter un RAG, je sais ce qui se trouve derrière un système agentique, je sais les enjeux d’une application de type chatbot et la multiplicité des usages possibles d’un LLM.\nEn somme, je suis la seule à me servir correctement de l’IA. Les autres sont influençables ou manquent de culture numérique, et je soupçonne que certains d’entre vous soient un peu fénéants."
+  },
+  {
+    "objectID": "carnet/bon_usage_IA.html#la-pratique-commune-de-la-négociation",
+    "href": "carnet/bon_usage_IA.html#la-pratique-commune-de-la-négociation",
+    "title": "Du bon usage de l’IA",
+    "section": "",
+    "text": "Si vous m’attribuez un peu d’hypocrisie et d’élitisme intellectuel, rassurez-vous, j’en suis là aussi dans mes réflexions. Et quand j’en parle autour de moi, il semble que nos pratiques réelles, qu’on nous incite à dévoiler par des formulaires (par exemple Inc (2023), Suchikova et al. (2026)) sont souvent cachées moins par crainte d’un impact sur sa crédibilité Shen et al. (2025) que par sentiment de honte vis à vis de son propre travail et de cette utilisation.\nAu fond je crois que tout le monde fait la même chose avec l’IA, et je ne parle pas de traduire, coder, corriger, écrire etc. Ce que nous faisons c’est négocier avec notre conscience.\nDepuis plus d’un an déjà Clara Grometto, une collègue du laboratoire de recherche sur les Écritures Numériques de l’Udem nous le dit: utiliser ces outils-là revient à conforter son sentiment d’incapacité. On leur délègue trop souvent des tâches qu’on ne se sent déjà plus capable de faire parce qu’on se compare à un résultat qu’on s’imagine meilleur que ce qu’on produira par nos propres moyens. Résultat? Ce débat intérieur, entre sentiment de culpabilité et impression de voir nos capacités individuelles augmenter par ces usages, est le seul geste qui nous appartient vraiment, et c’est peut-être le seul débat qui importe encore.\nPris entre le marteau (je ne m’en sers pas donc je suis meilleur que les autres) et l’enclume (tout le monde s’en sert donc je n’ai pas le choix de m’en servir aussi), il faut trouver une façon de se réconcilier avec ses pratiques."
+  },
+  {
+    "objectID": "carnet/bon_usage_IA.html#la-question-du-sens",
+    "href": "carnet/bon_usage_IA.html#la-question-du-sens",
+    "title": "Du bon usage de l’IA",
+    "section": "",
+    "text": "Dans un atelier à la BLSH sur la correction automatique à l’ère de l’“IA générative” Clara Grometto nous rappelle que l’écriture et par extension la révision s’incarnent dans les outils que nous utilisons . Elle met en garde de la “déprise du texte” qui a lieu quand nous délégons à une machine des tâches d’édition, car le travail éditorial est finalement ce qui distingue un texte d’un autre, ce qui permet sa construction Schneider and Grometto (2025).\nIl ne s’agit pas seulement d’une déprise du texte au sens de la “mort de l’auteur” qui a évacué en 1967 l’intention auctoriale et permis le recentrement sur la réception du texte. Il ne s’agit pas non plus, selon moi, de la mort de la lecture annonçant le début d’une ère de post-litteracy telle qu’annoncée par McLuhan Horowitch (2026) .\nCar ce qui est en jeu ne concerne pas que le texte et ses activités associées de lecture et d’écriture, mais toute l’activité humaine. Comme souvent évoqué par Marcello Vitali-Rosati, il s’agit davantage d’une déprise du sens. En plaçant toutes les tâches au même niveau et en les médiant par le même outil nous risquons de leur donner la même valeur et cette valeur sera définie par les personnes qui designent ces applications. Pour apprendre à négocier mieux avec sa conscience, il faut commencer par prendre conscience de la façon dont ces personnes définissent le monde.\nLes applications reposant sur des grands modèles de langue sont conçus pour résoudre des problèmes par des ingénieurs. Et du point de vue d’un ingénieur, lire un roman ou écrire un roman, c’est un problème qui peut se résoudre de la même façon que de débogguer son programme informatique. Certes, on peut écrire un programme de différentes façons, mais ce qui compte, c’est le résultat. Si on comprend bien qu’apprendre une langue n’a plus aucun sens dans ce paradigme, il faut aussi comprendre que cette logique implacable signifie qu’écrire un roman ne sert plus à rien, le lire encore moins car un roman est une somme de personnages et de péripéties que l’on peut, généralement, aisément décrire en quelques phrases. Ce formalisme a ses forces. En Humanités Numériques, il est fréquent qu’une modélisation formelle et fonctionnelle de textes littéraires offre de nouvelles réponses à des questions anciennes (d’autorialité notamment) ou qu’elle ouvre à la voie à de nouvelles questions et interprétations. Cependant, les HN s’engagent à porter une réflexion sur les modèles, loin du point de vue solutionniste matérialisé par les chatbots.\nRésister à ce point de vue consiste à accepter sa propre médiocrité, accepter d’écrire moins, de lire moins, d’avoir un style redondant, d’apprendre péniblement. Accepter d’être à rebours d’une logique productiviste et solutionniste que personne ne nous impose vraiment et qu’on accepte un peu trop facilement."
+  },
+  {
+    "objectID": "carnet/bon_usage_IA.html#en-guise-de-conclusion",
+    "href": "carnet/bon_usage_IA.html#en-guise-de-conclusion",
+    "title": "Du bon usage de l’IA",
+    "section": "",
+    "text": "La seule alternative est-elle la reconsidération personnelle voire intime de nos besoins réels par rapport à ces outils? Cette solution de repli fait reposer sur l’individu le poids d’un choix qui va à l’encontre de certains principe implicites de nos systèmes (on pense au fameux publish or perish du milieu académique, au système d’évaluation scolaire actuel), et ne fait certainement qu’augmenter le sentiment de culpabilité pour celles et ceux qui “succombent”. Autrement dit, la vraie solution se situe certainement à une autre échelle, dans une prise de conscience collective matérialisée dans des politiques publiques. Cependant, ne nous déprennons pas trop vite de notre propre capacité d’action individuelle car il y a aussi un véritable enjeu économique et politique de la part des entreprises qui vendent ces chatbots à nous faire croire qu’ils sont inévitables et que nous sommes impuissants face au nouvel ordre qu’ils nous proposent."
+  },
+  {
+    "objectID": "carnet/bon_usage_IA.html#footnotes",
+    "href": "carnet/bon_usage_IA.html#footnotes",
+    "title": "Du bon usage de l’IA",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nje suis panthéiste↩︎"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Site d’Alexia Schneider",
     "section": "",
-    "text": "Alexia Schneider est doctorante en littérature option humanité numérique à l’Université de Montréal. Elle est membre étudiante du Centre de recherche interuniversitaire sur les humanités numériques (CRIHN) et responsable de projets intégrés au projet Revue3.0 pour la Chaire de recherche du Canada et les écritures numériques. Après des études initiales en littérature française (Université Paris-Sorbonne), elle s’est spécialisée dans le Traitement Automatique des Langues (Université de Strasbourg). Dans le cadre de son doctorat, elle s’intéresse à la recherche d’information en contexte documentaire et en particulier aux pratiques de recherche d’information des chercheureuses ainsi qu’à l’impact des différents modèles d’intelligence artificielle sur la découvrabilité des contenus scientifiques. Elle est récipiendaire d’une bourse doctorale du réseau québécois de recherche Circé.\n\nContact\nalexia.schneider[at]umontreal.ca"
+    "text": "Alexia Schneider est doctorante en littérature option Humanités Numériques à l’Université de Montréal. Elle est membre étudiante du Centre de recherche interuniversitaire sur les humanités numériques (CRIHN) et responsable de projets intégrés au projet Revue3.0 pour le laboratoire de recherche du Canada et les écritures numériques. Après des études initiales en littérature française (Université Paris-Sorbonne), elle s’est spécialisée dans le Traitement Automatique des Langues (Université de Strasbourg). Dans le cadre de son doctorat, elle s’intéresse à la recherche documentaire et à l’impact des différents modèles d’intelligence artificielle sur la découvrabilité des contenus scientifiques. Elle est récipiendaire d’une bourse doctorale du réseau québécois de recherche Circé et de la coalition Publi.ca.\n\nContact\nalexia.schneider[at]umontreal.ca"
   },
   {
-    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
-    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#uniformisation",
-    "title": "Éthique et IA générative",
-    "section": "Uniformisation",
-    "text": "Uniformisation\n\nDes approches\nDes pratiques\nDu discours (création et contrôle des besoins)\n\nRépondre par:\n\nValoriser l’agentivité des étudiant.e.s et des enseignant.e.s,\nIdentifier ses besoins et attentes pour choisir son outil,\nFavoriser une pluralité d’approches.\n\nExemples:\n\ncorrection ortho-typographique : le dictionnaire ?\nlittératie numérique"
+    "objectID": "slides/26-09-24_portesOuvertesDH.html#questions-de-recherche",
+    "href": "slides/26-09-24_portesOuvertesDH.html#questions-de-recherche",
+    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
+    "section": "Questions de recherche",
+    "text": "Questions de recherche\n\nComment est-ce que le guide TV d’Autostraddle évolue avec les environnements de diffusion cinématographique et télévisuel états-unien ?\nQuels sont les termes employés pour que la communauté réunie par Autostraddle s’identifie elle-même et identifie des films ou séries qui lui sont pertinents ?"
   },
   {
-    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
-    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#concentration-économique-et-politique",
-    "title": "Éthique et IA générative",
-    "section": "Concentration économique et politique",
-    "text": "Concentration économique et politique\n\nDestruction de la planète,\nSouveraineté digitale : Concentration dans les clouds(Rikap 2021)"
+    "objectID": "slides/26-09-24_portesOuvertesDH.html#méthodologie",
+    "href": "slides/26-09-24_portesOuvertesDH.html#méthodologie",
+    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
+    "section": "Méthodologie",
+    "text": "Méthodologie\nWeb Scrapping puis extraction manuelle des 1977 films et séries recommandés accompagnés du commentaire/revue.\nExtraction des termes relatifs à la diversité de genres et de sexualité avec des expressions régulières (regex)."
   },
   {
-    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais-algorithmiques",
-    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#biais-algorithmiques",
-    "title": "Éthique et IA générative",
-    "section": "Biais algorithmiques",
-    "text": "Biais algorithmiques\n\nTous les algo ont des biais : ex : https://laurenleek.substack.com/p/how-google-maps-quietly-allocates?r=2mgxo2&utm_campaign=post&utm_medium=web&triedRedirect=true\nInvisibilisation des biais par un effet d’objectivité et d’autorité de la machine\n\nRépondre par:\n\nEnseignement de l’étude critique et de l’analyse critique\nAccepter de changer nos critères d’évaluation.\n\nExemples :\n\nSimplifier la lettre de recommendation, les mails etc.\nValoriser l’erreur et le dysfonctionnel (Vitali-Rosati 2024)"
+    "objectID": "slides/26-09-24_portesOuvertesDH.html#résultats",
+    "href": "slides/26-09-24_portesOuvertesDH.html#résultats",
+    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
+    "section": "Résultats",
+    "text": "Résultats\n\n3 périodes se dégagent2009 - 2015 communauté restreinte à l’écran et en ligne\n2017-2020 : multiplication des représentations et stratégie d’optimisation\n2021-actuel : diversification thématique, déclin quantitatif et confirmation du role médiatique du site"
   },
   {
-    "objectID": "slides/26-01-20_COPCESAR_ethiqueIA.html#bibliographie",
-    "href": "slides/26-01-20_COPCESAR_ethiqueIA.html#bibliographie",
-    "title": "Éthique et IA générative",
+    "objectID": "slides/26-09-24_portesOuvertesDH.html#références",
+    "href": "slides/26-09-24_portesOuvertesDH.html#références",
+    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
+    "section": "Références",
+    "text": "Références\nCameron, K. (2017). Constructing queer female cyberspace : The L Word fandom and Autostraddle.com. Transformative Works and Cultures, (24). https://doi.org/10.3983/twc.2017.846\nNg, E. (2013). A “Post-Gay” Era? Media Gaystreaming, Homonormativity, and the Politics of LGBT Integration. Communication, Culture & Critique, 6(2), 258‑283. https://doi.org/10.1111/cccr.12013\nObbard, K., & McLean, L. (2024). Queering the System from within : Autostraddle as a Method for Future Digital Worlds. Australian Feminist Studies, 39(121), 371‑391. https://doi.org/10.1080/08164649.2024.2306608\nRapports GLAAD “Where we are on TV”: https://glaad.org/research/page/1"
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#presentation-outline",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#presentation-outline",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Presentation outline",
+    "text": "Presentation outline\n\nIntroduction\n\nBrief SOTA\nDemonstration\nEvaluation\n\nConclusion"
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#introduction",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#introduction",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Introduction",
+    "text": "Introduction\nLarger context of the research: Scientific documentary research (esp. for SSH researchers)\nRecommendation systems have changed: from algorithms that extracted “you might also like” suggestions alongside search engine results to tools that support natural language queries and provide full reports."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#problem-statement",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#problem-statement",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Problem Statement",
+    "text": "Problem Statement\nWith the current adoption of these “AI research assistants” we are seeing a change in research practices. With it comes certain aspects that we have still to grapple with:\n\nA focus on ‘findability’ i.e. finding what we already know we know as opposed to ‘serendipity’: finding what we didn’t know -&gt; risk of increasing confirmation bias (Underwood 2014) with natural language querying.\nBlurring of different cognitive tasks: search and analysis (Finn et al. 2026; DeRewal 2025).\nStill complex evaluation of an opaque and quickly-changing tools: opacity of ranking, filtering, and synthesis (when applicable) (Archambault and Rincón 2024; Patterson et al. 2025; Tay 2025).\nOpacity of the systems themselves: citation concentration (Matthew effect (Merton 1968)) with potential reduction of the epistemic space for discovery (Nielsen and Andersen 2021; Varga 2022).\nIncentives to maintain authoritative tools and rely on long documented persuasiveness of algorithms and computer outputs (Dijkstra, Liebrand, and Timminga 1998; Logg, Minson, and Moore 2019; Vicente and Matute 2023)."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#research-question",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#research-question",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Research Question",
+    "text": "Research Question\nHow can we design explainable systems situated at the center of an environment that fosters critical exploration and enables intellectual engagement with the algorithm?"
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#examples-of-alternative-recommendation-systems",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#examples-of-alternative-recommendation-systems",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Examples of Alternative Recommendation Systems",
+    "text": "Examples of Alternative Recommendation Systems\n\nBridger by Portenoy et al. (2022) exposes researchers to authors outside their usual intellectual networks to promote disciplinary cross-pollination.\nVITALITY by Narechania et al. (2022) proposes a literature review approach based on visualization of word embedding space from a seed article.\nSTAK by Martin, Greenspan, and Quan-Haase (2017) was inspired by the material affordances of physical libraries, attempting to recreate spatialized navigation environments."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#ieml",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#ieml",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "IEML",
+    "text": "IEML\nInformation Economy MetaLanguage (IEML) (Lévy 2023) != YAML\nSentence or higher level of conceptualisation\n\nIEML decomposition matrix based on 9 semantic facets for the keyword editorialisation\n\n\nSemantic Facet\nValue\n\n\n\n\nTheme/root\ntheory (s.y.-g.-o.p.-’)\n\n\nWhat\nedition or publishing (t.a.-b.a.-p.-’)\n\n\nWho\n-\n\n\nTo whom\n-\n\n\nBy which means\n*has property ~multiple process\n\n\nWhen\n-\n\n\nWhere\n-\n\n\nWhy\n-\n\n\nHow\n-\n\n\n\n\n\n\nVisualization of the grid in the IEML-RS plugin\n\n\nRules :\n\nthe grid doesn’t have to be filled\nflexions are represented with *, ~\nle concepts have to be in the IEML dictionnary: https://ieml.intlekt.io/\n\nLexical level of deeper level of conceptualisation\n\npublishing: t.a.-b.a.-p.-’\n\nRules:\n\nAny concept can be described from the combination of 6 ‘primitives’: E (emptiness), U (virtual), A (actual), S (sign), B (being), and T (thing).\nA combination between two ‘primitives’ is a lowercase letter: there are 26 symbols.\nThere are up to 6 layers of semantic desambiguisation represented with punctuation (ex: the dot is the first layer).\nEach layer is represented by a triad following the syntax: substance (role 1), attribute (role 2), and mode (role 3). An empty space in a layer is simply not represented.\n\n\n\n\nModulation of the primitive M\n\n\n\n\n\nModulation of the primitive M on the first segment shifts meaning from b associated with ‘language’ in literature to a t meaming ‘memory’ and creating publishing"
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#summary-of-main-features",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#summary-of-main-features",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Summary of Main Features",
+    "text": "Summary of Main Features\n\nExploration and extansion of a semantic field thanks to IEML starting from a keyword describing the seed article.\nAutomatic generation and correction (human-in-the-loop) of missing ‘translations’.\nConstruction of a query sent to the search engine Isidore.\nSide by side comparison of article lists retrieved from the user-selected keywords and an LLM-augmented query from those same keywords."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#translation-prompt-into-ieml",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#translation-prompt-into-ieml",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "“Translation” Prompt into IEML",
+    "text": "“Translation” Prompt into IEML\nEnglish version:\nYou are a semantics expert. You must semantically decompose the keyword “${keyword}” based on the following 9 values: ‘theme, who, what, to whom, by what means, when, where, why, how’ ## Examples ${examples}\n## Dictionary Words You must use the words below to define the keyword “${keyword}”: ${context}\nYour response must take the form of a CSV with 9 columns; the column headers are: ‘theme, who, what, to whom, by what means, when, where, why, how’ It is not necessary to fill all fields. A field can remain empty between two commas, as in the examples. Respond only with a final CSV line, without explanation.\nOriginal in French:\nTu es un expert en sémantique. Tu dois décomposer sémantiquement le mot-clé \"${keyword}\" à partir des 9 valeurs suivantes :\n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\n## Exemples\n${examples}\n\n## Mots du dictionnaire \nTu dois utiliser les mots ci-dessous pour définir le mot-clé \"${keyword}\":\n${context}\n\nTa réponse prendra la forme d'un CSV à 9 colonnes, les entêtes de colonnes sont: \n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\nIl n'est pas nécessaire de remplir tous les champs. Un champs peut rester vide entre deux virgules, comme dans les exemples. \nRépond uniquement avec une ligne CSV finale, sans explication."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#query-augmentation-prompt",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#query-augmentation-prompt",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Query Augmentation Prompt",
+    "text": "Query Augmentation Prompt\nEnglish version:\nGenerate 10 variants of the following Boolean query “${keywords}”. Combine the proposed queries using the OR operator as in the example:\nKeywords: “impact of climate change on biodiversity”.\nResponse: “(climate change biodiversity impact) OR (effects of climate change on ecosystems) OR (biodiversity loss due to climate change) OR (climate change species extinction) OR (impact of global warming on wildlife) OR (effects of climate change on ecosystems and species diversity) OR (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OR (relationship between climate change and loss of biodiversity) OR (climate change threats to flora and fauna diversity) OR (impact of climate change on biodiversity) Now it is your turn with”${keywords}“.\nRespond only with the query without giving any explanation.\nOriginal in French::\nProduit 10 variants de la requête booléenne suivante \"${keywords}\". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  \"impact of climate change on biodiversity\". Réponse: \"\n(climate change biodiversity impact) OU (effects of climate change on ecosystems) OU (biodiversity loss due to climate change) OU (climate change species extinction) OU (impact of global warming on wildlife) OU (effects of climate change on ecosystems and species diversity) OU (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OU (relationship between climate change and loss of biodiversity) OU (climate change threats to flora and fauna diversity) OU (impact of climate change on biodiversity)\nC'est à ton tour avec \"${keywords}\". Répond uniquement avec la requête sans donner d'explication."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#evaluations",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#evaluations",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Evaluations",
+    "text": "Evaluations\n\nQuantitative evaluation of the translation produced by the LLM in IEML (RAG to anchor translations in IEML dictionary words).\nQualitative evaluation (user study) of the application as a whole."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#evaluation-of-automatic-translation-into-ieml",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#evaluation-of-automatic-translation-into-ieml",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Evaluation of Automatic Translation into IEML",
+    "text": "Evaluation of Automatic Translation into IEML\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nword to translate\ntheme or root\nwho\nwhat\nto whom\nby what means\nwhen\nwhere\nwhy\nhow\n\n\n\n\ndigital space\ndigital technique\n-\nspace\n-\n-\n-\n-\n-\n-\n\n\nsinger\nplay or sing a melody\nperson\n-\n-\n*by means of voice\n-\n-\n-\n\n\n\n\n\nExpected translation"
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#evaluation-summary",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#evaluation-summary",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Evaluation Summary",
+    "text": "Evaluation Summary\nModels (via Together AI API):\n\nMeta-Llama-3-70B-Instruct-Turbo\nGemma-3n-E4B-it\nGPT-oss-20B\n\n\nTable of model evaluation for automatic translation\n\n\nmodel/strategy\nBLEU\nCosine\navg\n\n\n\n\nbaseline\n0.056\n0.515\n0.286\n\n\nllama_fewshot\n0.0222\n0.555\n0.289\n\n\ngemma_fewshot\n0.020\n0.491\n0.255\n\n\nopenai_fewshot\n0.0167\n0.498\n0.257\n\n\nllama_zeroshot\n0.0129\n0.514\n0.263\n\n\ngemma_zeroshot\n0.0160\n0.479\n0.248\n\n\nopenai_zeroshot\n0.016\n0.493\n0.254\n\n\n\nThe context (i.e., dictionary entries) marginally improves performance.\nLimits:\n\nBLEU and cosine are meant for the evaluation of natural language translation therefore are ill-suited for structured semantic language parsing.\nthe retrieval part of the RAG makes choices that can potentially go against the principles of IEML representation. For instance the IR for ‘editorialisation’ will very likely retrieve from the IEML dictionnary ‘publishing’ with a vector-base search or ‘edition’ with BM25 but probably not ‘theory’ as these are farther apart. But the main advantage of IEML lies in its ability to bridge faraway concepts from common denominators."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#qualitative-evaluation-of-ieml-rs",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#qualitative-evaluation-of-ieml-rs",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Qualitative Evaluation of IEML-RS",
+    "text": "Qualitative Evaluation of IEML-RS\n6 users (PhD in Digital Humanities). Demonstration followed by 10 minutes of usage observation and a 15-minute interview.\nCriteria:\n\nUser-friendliness,\nUsefulness.\n\nFeatures:\n\nNavigation (keywords and concepts),\nTranslation into IEML,\nComparison of article list panels."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#user-study",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#user-study",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "User Study",
+    "text": "User Study\n\nEase of use:\n\nConfusion regarding the integration of concepts into the query,\nAutomatic translation and validation: initial hurdle (limited database), \n\nUsefulness:\n\nReveals strong disparities in user research practices (network and contextual IR vs. keyword search),\nStrength: comparative panels,\nMixed-quality translation encourages user agency and dialogic and collaborative work with LLMs (Schneider 2026)."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#conclusion-and-perspectives",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#conclusion-and-perspectives",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Conclusion and Perspectives",
+    "text": "Conclusion and Perspectives\nExample of an environment design fostering serendipity.\nTools being developed in Digital Humanities:\n\nBarista from the Impresso project: query building assistant (Finn et al. 2026)\nOngoing developments at Isidore for RAG limited to specific use cases (Sacy et al. 2025)"
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#acknowledgements",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#acknowledgements",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nResearch funded by the SSHRC through the Revue3.0 partnership project, as well as a fellowship from the Circé Network and the Publica Coalition for mutualization and research on scientific journals."
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#thank-you-for-your-attention",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#thank-you-for-your-attention",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
+    "section": "Thank you for your attention!",
+    "text": "Thank you for your attention!\nLink to download the Firefox plugin:"
+  },
+  {
+    "objectID": "slides/26-07-30_DH26_IEML-RS.html#bibliographie",
+    "href": "slides/26-07-30_DH26_IEML-RS.html#bibliographie",
+    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
     "section": "Bibliographie",
-    "text": "Bibliographie\n\n\n\n\nRikap, Cecilia. 2021. Capitalism, Power and Innovation: Intellectual Monopoly Capitalism Uncovered. London: Routledge. https://doi.org/10.4324/9780429341489.\n\n\nSrnicek, Nick. 2026. Silicon Empires: The Fight for the Future of AI. Cambridge: Polity Press.\n\n\nVitali-Rosati, Marcello. 2024. Éloge Du Bug. Éditions La Découverte."
+    "text": "Bibliographie\n\n\nArchambault, Susan, and José Rincón. 2024. “An Evaluation of Cutting-Edge AI Research Tools Using the REACT Framework.” Computers in Libraries 44 (8).\n\n\nDeRewal, Tiffany. 2025. “Evaluating LLM ‘Research Assistants’ and Their Risks for Novice Researchers.” Critical AI 3 (2). https://doi.org/10.1215/2834703X-12095982.\n\n\nDijkstra, Jaap J., Wim B. G. Liebrand, and Ellen Timminga. 1998. “Persuasiveness of Expert Systems.” Behaviour & Information Technology 17 (3): 155–63. https://doi.org/10.1080/014492998119526.\n\n\nEttinger, Allyson, Jena D. Hwang, Valentina Pyatkin, Chandra Bhagavatula, and Yejin Choi. 2023. “\"You Are An Expert Linguistic Annotator\": Limits of LLMs as Analyzers of Abstract Meaning Representation.” In EMNLP 2023 Findings. arXiv. https://doi.org/10.48550/ARXIV.2310.17793.\n\n\nFinn, Finola, Donal Khosrowi, Caio Mello, Marten Düring, and Danielle Guido. 2026. “Shaping History, Responsibly: Seven Principles to Guide the Design of Archival AI Assistants for Cultural Heritage Collections.” In ACM FAccT. Montréal.\n\n\nLévy, Pierre. 2023. “Semantic Computing with IEML.” Collective Intelligence 2 (4): 26339137231207634. https://doi.org/10.1177/26339137231207634.\n\n\nLogg, Jennifer M., Julia A. Minson, and Don A. Moore. 2019. “Algorithm Appreciation: People Prefer Algorithmic to Human Judgment.” Organizational Behavior and Human Decision Processes 151 (March): 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005.\n\n\nMartin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. “STAK – Serendipitous Tool for Augmenting Knowledge: A Conceptual Tool for Bridging Digital and Physical Resources.” Digital Studies / Le Champ Numérique 6 (1). https://doi.org/10.16995/dscn.265.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nNarechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. “VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 486–96. https://doi.org/10.1109/TVCG.2021.3114820.\n\n\nNielsen, Mathias Wullum, and Jens Peter Andersen. 2021. “Global Citation Inequality Is on the Rise.” Proceedings of the National Academy of Sciences 118 (7): e2012208118. https://doi.org/10.1073/pnas.2012208118.\n\n\nPatterson, Brandon, Carlos Flores, Nick Hauschild, and Jared Branch. 2025. “Which AI Tools Work Best for Research? Using Librarian and Student Perspectives to Inform a Rating Rubric.” Journal of Electronic Resources in Medical Libraries 22 (3): 133–38. https://doi.org/10.1080/15424065.2025.2546052.\n\n\nPortenoy, Jason, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, and Tom Hope. 2022. “Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery.” CHI Conference on Human Factors in Computing Systems, April, 1–13. https://doi.org/10.1145/3491102.3501905.\n\n\nSacy, Antoine Silvestre De, Adam Faci, Léa Maronet, and Stéphane Pouyllau. 2025. “Lire à Différentes Échelles. Une Analyse Multiscalaire de La Retrieval-Augmented Generation En Sciences Humaines Et Sociales.” Humanités Numériques 12. https://doi.org/10.4000/15icj.\n\n\nSchneider, Alexia. 2026. “An Imperfect AI to Uphold Human Agency : Vindicating the ‘Yes but’ of This World.” Short {{Talk}}. Montréal.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64.\n\n\nVarga, Attila. 2022. “The Narrowing of Literature Use and the Restricted Mobility of Papers in the Sciences.” Proceedings of the National Academy of Sciences 119 (17): e2117488119. https://doi.org/10.1073/pnas.2117488119.\n\n\nVicente, Lucía, and Helena Matute. 2023. “Humans Inherit Artificial Intelligence Biases.” Scientific Reports 13 (1): 15737. https://doi.org/10.1038/s41598-023-42384-8."
   },
   {
     "objectID": "slides/26-04-26_creativitesArtificielles_placeSerendipite.html#introduction",
@@ -1194,7 +1397,7 @@
     "href": "slides/25-11-03_pres_RAGAS.html#difference-between-automated-rag-evaluation-system-ares-framework-and-ragas",
     "title": "Evaluating RAG with RAGAS",
     "section": "Difference between Automated RAG Evaluation System ARES framework and RAGAS",
-    "text": "Difference between Automated RAG Evaluation System ARES framework and RAGAS\n(saad-falcon-etal-2024-ares?) (a year after RAGAS).\nSynthetic data generation (generating query‑passage‑answer triples) + fine‑tuned “judge” models + a small human annotated set + Prediction‑Powered Inference (PPI) to give confidence intervals, better ranking of RAG systems.\nComment: much more complex to set-up, but better for robust eval (confidence intervals)"
+    "text": "Difference between Automated RAG Evaluation System ARES framework and RAGAS\nSaad-Falcon et al. (2024) (a year after RAGAS).\nSynthetic data generation (generating query‑passage‑answer triples) + fine‑tuned “judge” models + a small human annotated set + Prediction‑Powered Inference (PPI) to give confidence intervals, better ranking of RAG systems.\nComment: much more complex to set-up, but better for robust eval (confidence intervals)"
   },
   {
     "objectID": "slides/25-11-03_pres_RAGAS.html#would-you-use-ragas-to-evaluate-your-rag",
@@ -1215,7 +1418,7 @@
     "href": "slides/25-11-03_pres_RAGAS.html#references",
     "title": "Evaluating RAG with RAGAS",
     "section": "References",
-    "text": "References\n\n\n\n\nEs, Shahul, Jithin James, Luis Espinosa-Anke, and Steven Schockaert. 2025. “Ragas: Automated Evaluation of Retrieval Augmented Generation.” arXiv. https://doi.org/10.48550/arXiv.2309.15217.\n\n\nLewis, Patrick, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, et al. 2021. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” arXiv. https://doi.org/10.48550/arXiv.2005.11401.\n\n\nShankar, Shreya, and Hamel Husain. 2025. Application-Centric AI Evals for Engineers and Technical Product Managers.\n\n\nWeaviate. 2025. “Advanced RAG Techniques.” Weaviate Ebook."
+    "text": "References\n\n\n\n\nEs, Shahul, Jithin James, Luis Espinosa-Anke, and Steven Schockaert. 2025. “Ragas: Automated Evaluation of Retrieval Augmented Generation.” arXiv. https://doi.org/10.48550/arXiv.2309.15217.\n\n\nLewis, Patrick, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, et al. 2021. “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.” arXiv. https://doi.org/10.48550/arXiv.2005.11401.\n\n\nSaad-Falcon, Jon, Omar Khattab, Christopher Potts, and Matei Zaharia. 2024. “ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems.” In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), edited by Kevin Duh, Helena Gomez, and Steven Bethard, 338–54. Mexico City, Mexico: Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.naacl-long.20.\n\n\nShankar, Shreya, and Hamel Husain. 2025. Application-Centric AI Evals for Engineers and Technical Product Managers.\n\n\nWeaviate. 2025. “Advanced RAG Techniques.” Weaviate Ebook."
   },
   {
     "objectID": "slides/presentationCirce.html#plan",
@@ -1348,7 +1551,7 @@
     "href": "slides/presentationCirce.html#bibliographie",
     "title": "IA et sérendipité - comparer différentes stratégies de recherche d’information exploratoire",
     "section": "Bibliographie",
-    "text": "Bibliographie\n\n\nAuray, N. 2011. “Les technologies de l’information et le régime exploratoire.”\n\n\nBates, Marcia J. 1989. “The Design of Browsing and Berrypicking Techniques for the Online Search Interface.” Online Review 13 (5): 407–24. https://doi.org/10.1108/eb024320.\n\n\nCardon, Dominique. 2013. “Dans l’esprit Du PageRank: Une Enquête Sur l’algorithme de Google.” Réseaux n\\(^\\circ\\) 177 (1): 63–95. https://doi.org/10.3917/res.177.0063.\n\n\nChomsky, Noam. 1957. Syntactic Structures.\n\n\nde Solla Price, Derek John. 1963. Little Science, Big Science. George B 1962. New York: Columbia University Press.\n\n\nDumas Primbault, Simon. 2023. “Naviguer dans les savoirs à l’ère numérique. Pour une ethnographie des pratiques informationnelles sur Gallica.” Études de communication. langages, information, médiations, no. 61 (December): 61–89. https://doi.org/10.4000/edc.16108.\n\n\nErdelez, Sanda. 2004. “Investigation of Information Encountering in the Controlled Research Environment.” Information Processing & Management 40 (6): 1013–25. https://doi.org/10.1016/j.ipm.2004.02.002.\n\n\nErdelez, Sandra. 1999. “Information Encountering: It’s More Than Just Bumping into Information.” Bulletin of the American Society for Information Science and Technology 25 (3): 26–29. https://doi.org/10.1002/bult.118.\n\n\nEttinger, Allyson, Jena D. Hwang, Valentina Pyatkin, Chandra Bhagavatula, and Yejin Choi. 2023. “\"You Are An Expert Linguistic Annotator\": Limits of LLMs as Analyzers of Abstract Meaning Representation.” In EMNLP 2023 Findings. arXiv. https://doi.org/10.48550/ARXIV.2310.17793.\n\n\nFärber, Michael. 2019. “The Microsoft Academic Knowledge Graph: A Linked Data Source with 8 Billion Triples of Scholarly Data.” In The Semantic Web – ISWC 2019, edited by Chiara Ghidini, Olaf Hartig, Maria Maleshkova, Vojtěch Svátek, Isabel Cruz, Aidan Hogan, Jie Song, Maxime Lefrançois, and Fabien Gandon, 113–29. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-30796-7_8.\n\n\nFirth, John Rupert. 1962. Studies in Linguistic Analysis. Repr. Special Volume of the Philological Society. Oxford: Blackwell.\n\n\nFoster, Allen, and Nigel Ford. 2003. “Serendipity and Information Seeking: An Empirical Study.” Journal of Documentation 59 (3): 321–40. https://doi.org/10.1108/00220410310472518.\n\n\nGoodlad, Lauren M. E. 2023. “Editor’s Introduction: Humanities in the Loop.” Critical AI 1 (1-2). https://doi.org/10.1215/2834703X-10734016.\n\n\nJulien, Heidi, and Susan Barker. 2009. “How High-School Students Find and Evaluate Scientific Information: A Basis for Information Literacy Skills Development.” Library & Information Science Research 31 (1): 12–17. https://doi.org/10.1016/j.lisr.2008.10.008.\n\n\nKoster, Andrew, Fernando Koch, and Yeun Bae Kim. 2014. “Serendipitous Recommendation Based on Big Context.” In Advances in Artificial Intelligence – IBERAMIA 2014, edited by Ana L. C. Bazzan and Karim Pichara, 319–30. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-12027-0_26.\n\n\nLévy, Pierre. 2010. “From Social Computing to Reflexive Collective Intelligence: The IEML Research Program.” Information Sciences 180 (1): 71–94. https://doi.org/10.1016/j.ins.2009.08.001.\n\n\nMakri, Stephann, and Ann Blandford. 2012. “Coming Across Information Serendipitously – Part 1: A Process Model.” Journal of Documentation 68 (5): 684–705. https://doi.org/10.1108/00220411211256030.\n\n\nMartin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. “STAK – Serendipitous Tool for Augmenting Knowledge: A Conceptual Tool for Bridging Digital and Physical Resources.” Digital Studies / Le Champ Numérique 6 (1). https://doi.org/10.16995/dscn.265.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nNarechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. “VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 486–96. https://doi.org/10.1109/TVCG.2021.3114820.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nPortenoy, Jason, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, and Tom Hope. 2022. “Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery.” CHI Conference on Human Factors in Computing Systems, April, 1–13. https://doi.org/10.1145/3491102.3501905.\n\n\nPouyllau, Stéphane. 2023. “Utiliser isidore.science : un regard sur les usages d’un moteur de recherche académique.” {Keynote}.\n\n\n———. 2025. “&lt;&lt; Durabilité et refactorisation des instruments de la recherche en SHS : le cas d’isidore.science et le projet ISIDORE 2030 &gt;&gt;.” Montréal.\n\n\nRice, Ronald E., Maureen McCreadie, and Shan-Ju Chang. 2001. “Results: Motivating Themes and Patterns of Browsing.” In Accessing and Browsing Information and Communication. The MIT Press. https://doi.org/10.7551/mitpress/1066.001.0001.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64.\n\n\nVitali-Rosati, Marcello. 2025. “Manifeste Pour Des Études Critiques de l’Intelligence Artificielle.” Culture Numérique. Pour Une Philosophie Du Numérique."
+    "text": "Bibliographie\n\n\nAuray, N. 2011. “Les technologies de l’information et le régime exploratoire.”\n\n\nBates, Marcia J. 1989. “The Design of Browsing and Berrypicking Techniques for the Online Search Interface.” Online Review 13 (5): 407–24. https://doi.org/10.1108/eb024320.\n\n\nCardon, Dominique. 2013. “Dans l’esprit Du PageRank: Une Enquête Sur l’algorithme de Google.” Réseaux n. 177 (1): 63–95. https://doi.org/10.3917/res.177.0063.\n\n\nChomsky, Noam. 1957. Syntactic Structures.\n\n\nde Solla Price, Derek John. 1963. Little Science, Big Science. George B 1962. New York: Columbia University Press.\n\n\nDumas Primbault, Simon. 2023. “Naviguer dans les savoirs à l’ère numérique. Pour une ethnographie des pratiques informationnelles sur Gallica.” Études de communication. langages, information, médiations, no. 61 (December): 61–89. https://doi.org/10.4000/edc.16108.\n\n\nErdelez, Sanda. 2004. “Investigation of Information Encountering in the Controlled Research Environment.” Information Processing & Management 40 (6): 1013–25. https://doi.org/10.1016/j.ipm.2004.02.002.\n\n\nErdelez, Sandra. 1999. “Information Encountering: It’s More Than Just Bumping into Information.” Bulletin of the American Society for Information Science and Technology 25 (3): 26–29. https://doi.org/10.1002/bult.118.\n\n\nEttinger, Allyson, Jena D. Hwang, Valentina Pyatkin, Chandra Bhagavatula, and Yejin Choi. 2023. “\"You Are An Expert Linguistic Annotator\": Limits of LLMs as Analyzers of Abstract Meaning Representation.” In EMNLP 2023 Findings. arXiv. https://doi.org/10.48550/ARXIV.2310.17793.\n\n\nFärber, Michael. 2019. “The Microsoft Academic Knowledge Graph: A Linked Data Source with 8 Billion Triples of Scholarly Data.” In The Semantic Web – ISWC 2019, edited by Chiara Ghidini, Olaf Hartig, Maria Maleshkova, Vojtěch Svátek, Isabel Cruz, Aidan Hogan, Jie Song, Maxime Lefrançois, and Fabien Gandon, 113–29. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-030-30796-7_8.\n\n\nFirth, John Rupert. 1962. Studies in Linguistic Analysis. Repr. Special Volume of the Philological Society. Oxford: Blackwell.\n\n\nFoster, Allen, and Nigel Ford. 2003. “Serendipity and Information Seeking: An Empirical Study.” Journal of Documentation 59 (3): 321–40. https://doi.org/10.1108/00220410310472518.\n\n\nGoodlad, Lauren M. E. 2023. “Editor’s Introduction: Humanities in the Loop.” Critical AI 1 (1-2). https://doi.org/10.1215/2834703X-10734016.\n\n\nJulien, Heidi, and Susan Barker. 2009. “How High-School Students Find and Evaluate Scientific Information: A Basis for Information Literacy Skills Development.” Library & Information Science Research 31 (1): 12–17. https://doi.org/10.1016/j.lisr.2008.10.008.\n\n\nKoster, Andrew, Fernando Koch, and Yeun Bae Kim. 2014. “Serendipitous Recommendation Based on Big Context.” In Advances in Artificial Intelligence – IBERAMIA 2014, edited by Ana L. C. Bazzan and Karim Pichara, 319–30. Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-12027-0_26.\n\n\nLévy, Pierre. 2010. “From Social Computing to Reflexive Collective Intelligence: The IEML Research Program.” Information Sciences 180 (1): 71–94. https://doi.org/10.1016/j.ins.2009.08.001.\n\n\nMakri, Stephann, and Ann Blandford. 2012. “Coming Across Information Serendipitously – Part 1: A Process Model.” Journal of Documentation 68 (5): 684–705. https://doi.org/10.1108/00220411211256030.\n\n\nMartin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. “STAK – Serendipitous Tool for Augmenting Knowledge: A Conceptual Tool for Bridging Digital and Physical Resources.” Digital Studies / Le Champ Numérique 6 (1). https://doi.org/10.16995/dscn.265.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nNarechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. “VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 486–96. https://doi.org/10.1109/TVCG.2021.3114820.\n\n\nPariser, Eli. 2011. “The Filter Bubble: What the Internet Is Hiding from You.” In.\n\n\nPortenoy, Jason, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, and Tom Hope. 2022. “Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery.” CHI Conference on Human Factors in Computing Systems, April, 1–13. https://doi.org/10.1145/3491102.3501905.\n\n\nPouyllau, Stéphane. 2023. “Utiliser isidore.science : un regard sur les usages d’un moteur de recherche académique.” {Keynote}.\n\n\n———. 2025. “&lt;&lt; Durabilité et refactorisation des instruments de la recherche en SHS : le cas d’isidore.science et le projet ISIDORE 2030 &gt;&gt;.” Montréal.\n\n\nRice, Ronald E., Maureen McCreadie, and Shan-Ju Chang. 2001. “Results: Motivating Themes and Patterns of Browsing.” In Accessing and Browsing Information and Communication. The MIT Press. https://doi.org/10.7551/mitpress/1066.001.0001.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64.\n\n\nVitali-Rosati, Marcello. 2025. “Manifeste Pour Des Études Critiques de l’Intelligence Artificielle.” Culture Numérique. Pour Une Philosophie Du Numérique."
   },
   {
     "objectID": "cv.html",
@@ -1405,180 +1608,5 @@
     "title": "IEML-RS",
     "section": "",
     "text": "src:\n\nsrc/script.js: extension script\nsrc/manifest.json: Firefox extension manifest.\n\nContent of src must be compressed into a zip file to be converted into xpi when added to the Firefox catalog.\n\n\nwrangler:\n\nwrangler/index.js: proxy endpoint to Isidore, Together AI and Crossref. + Data store of all things contained in data.\n\ndata:\n\ndata.csv: original 400 words translated in IEML (updated with /saveKeyword API endpoint)\nembd_full.tar.xz: embeddings of the IEML dictionnary (by word)\n\nrag-eval: detailed in rag_evaluation_report.md."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#presentation-outline",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#presentation-outline",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Presentation outline",
-    "text": "Presentation outline\n\nIntroduction\n\nBrief SOTA\nDemonstration\nEvaluation\n\nConclusion"
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#introduction",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#introduction",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Introduction",
-    "text": "Introduction\nLarger context of the research: Scientific documentary research (esp. for SSH researchers)\nRecommendation systems have changed: from algorithms that extracted “you might also like” suggestions alongside search engine results to tools that support natural language queries and provide full reports."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#problem-statement",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#problem-statement",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Problem Statement",
-    "text": "Problem Statement\nWith the current adoption of these “AI research assistants” we are seeing a change in research practices. With it comes certain aspects that we have still to grapple with:\n\nA focus on ‘findability’ i.e. finding what we already know we know as opposed to ‘serendipity’: finding what we didn’t know -&gt; risk of increasing confirmation bias (Underwood 2014) with natural language querying.\nBlurring of different cognitive tasks: search and analysis (Finn et al. 2026; DeRewal 2025).\nStill complex evaluation of an opaque and quickly-changing tools: opacity of ranking, filtering, and synthesis (when applicable) (Archambault and Rincón 2024; Patterson et al. 2025; Tay 2025).\nOpacity of the systems themselves: citation concentration (Matthew effect (Merton 1968)) with potential reduction of the epistemic space for discovery (Nielsen and Andersen 2021; Varga 2022).\nIncentives to maintain authoritative tools and rely on long documented persuasiveness of algorithms and computer outputs (Dijkstra, Liebrand, and Timminga 1998; Logg, Minson, and Moore 2019; Vicente and Matute 2023)."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#research-question",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#research-question",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Research Question",
-    "text": "Research Question\nHow can we design explainable systems situated at the center of an environment that fosters critical exploration and enables intellectual engagement with the algorithm?"
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#examples-of-alternative-recommendation-systems",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#examples-of-alternative-recommendation-systems",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Examples of Alternative Recommendation Systems",
-    "text": "Examples of Alternative Recommendation Systems\n\nBridger by Portenoy et al. (2022) exposes researchers to authors outside their usual intellectual networks to promote disciplinary cross-pollination.\nVITALITY by Narechania et al. (2022) proposes a literature review approach based on visualization of word embedding space from a seed article.\nSTAK by Martin, Greenspan, and Quan-Haase (2017) was inspired by the material affordances of physical libraries, attempting to recreate spatialized navigation environments."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#ieml",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#ieml",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "IEML",
-    "text": "IEML\nInformation Economy MetaLanguage (IEML) (Lévy 2023) != YAML\nSentence or higher level of conceptualisation\n\nIEML decomposition matrix based on 9 semantic facets for the keyword editorialisation\n\n\nSemantic Facet\nValue\n\n\n\n\nTheme/root\ntheory (s.y.-g.-o.p.-’)\n\n\nWhat\nedition or publishing (t.a.-b.a.-p.-’)\n\n\nWho\n-\n\n\nTo whom\n-\n\n\nBy which means\n*has property ~multiple process\n\n\nWhen\n-\n\n\nWhere\n-\n\n\nWhy\n-\n\n\nHow\n-\n\n\n\n\n\n\nVisualization of the grid in the IEML-RS plugin\n\n\nRules :\n\nthe grid doesn’t have to be filled\nflexions are represented with *, ~\nle concepts have to be in the IEML dictionnary: https://ieml.intlekt.io/\n\nLexical level of deeper level of conceptualisation\n\npublishing: t.a.-b.a.-p.-’\n\nRules:\n\nAny concept can be described from the combination of 6 ‘primitives’: E (emptiness), U (virtual), A (actual), S (sign), B (being), and T (thing).\nA combination between two ‘primitives’ is a lowercase letter: there are 26 symbols.\nThere are up to 6 layers of semantic desambiguisation represented with punctuation (ex: the dot is the first layer).\nEach layer is represented by a triad following the syntax: substance (role 1), attribute (role 2), and mode (role 3). An empty space in a layer is simply not represented.\n\n\n\n\nModulation of the primitive M\n\n\n\n\n\nModulation of the primitive M on the first segment shifts meaning from b associated with ‘language’ in literature to a t meaming ‘memory’ and creating publishing"
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#summary-of-main-features",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#summary-of-main-features",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Summary of Main Features",
-    "text": "Summary of Main Features\n\nExploration and extansion of a semantic field thanks to IEML starting from a keyword describing the seed article.\nAutomatic generation and correction (human-in-the-loop) of missing ‘translations’.\nConstruction of a query sent to the search engine Isidore.\nSide by side comparison of article lists retrieved from the user-selected keywords and an LLM-augmented query from those same keywords."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#translation-prompt-into-ieml",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#translation-prompt-into-ieml",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "“Translation” Prompt into IEML",
-    "text": "“Translation” Prompt into IEML\nEnglish version:\nYou are a semantics expert. You must semantically decompose the keyword “${keyword}” based on the following 9 values: ‘theme, who, what, to whom, by what means, when, where, why, how’ ## Examples ${examples}\n## Dictionary Words You must use the words below to define the keyword “${keyword}”: ${context}\nYour response must take the form of a CSV with 9 columns; the column headers are: ‘theme, who, what, to whom, by what means, when, where, why, how’ It is not necessary to fill all fields. A field can remain empty between two commas, as in the examples. Respond only with a final CSV line, without explanation.\nOriginal in French:\nTu es un expert en sémantique. Tu dois décomposer sémantiquement le mot-clé \"${keyword}\" à partir des 9 valeurs suivantes :\n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\n## Exemples\n${examples}\n\n## Mots du dictionnaire \nTu dois utiliser les mots ci-dessous pour définir le mot-clé \"${keyword}\":\n${context}\n\nTa réponse prendra la forme d'un CSV à 9 colonnes, les entêtes de colonnes sont: \n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\nIl n'est pas nécessaire de remplir tous les champs. Un champs peut rester vide entre deux virgules, comme dans les exemples. \nRépond uniquement avec une ligne CSV finale, sans explication."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#query-augmentation-prompt",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#query-augmentation-prompt",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Query Augmentation Prompt",
-    "text": "Query Augmentation Prompt\nEnglish version:\nGenerate 10 variants of the following Boolean query “${keywords}”. Combine the proposed queries using the OR operator as in the example:\nKeywords: “impact of climate change on biodiversity”.\nResponse: “(climate change biodiversity impact) OR (effects of climate change on ecosystems) OR (biodiversity loss due to climate change) OR (climate change species extinction) OR (impact of global warming on wildlife) OR (effects of climate change on ecosystems and species diversity) OR (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OR (relationship between climate change and loss of biodiversity) OR (climate change threats to flora and fauna diversity) OR (impact of climate change on biodiversity) Now it is your turn with”${keywords}“.\nRespond only with the query without giving any explanation.\nOriginal in French::\nProduit 10 variants de la requête booléenne suivante \"${keywords}\". Combine les requêtes proposées à l'aide de l'opérateur OU comme dans l'exemple : Mots-clés:  \"impact of climate change on biodiversity\". Réponse: \"\n(climate change biodiversity impact) OU (effects of climate change on ecosystems) OU (biodiversity loss due to climate change) OU (climate change species extinction) OU (impact of global warming on wildlife) OU (effects of climate change on ecosystems and species diversity) OU (how climate change impacts wildlife and biodiversity) OR (climate change consequences for biological diversity) OU (relationship between climate change and loss of biodiversity) OU (climate change threats to flora and fauna diversity) OU (impact of climate change on biodiversity)\nC'est à ton tour avec \"${keywords}\". Répond uniquement avec la requête sans donner d'explication."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#evaluations",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#evaluations",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Evaluations",
-    "text": "Evaluations\n\nQuantitative evaluation of the translation produced by the LLM in IEML (RAG to anchor translations in IEML dictionary words).\nQualitative evaluation (user study) of the application as a whole."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#evaluation-of-automatic-translation-into-ieml",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#evaluation-of-automatic-translation-into-ieml",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Evaluation of Automatic Translation into IEML",
-    "text": "Evaluation of Automatic Translation into IEML\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nword to translate\ntheme or root\nwho\nwhat\nto whom\nby what means\nwhen\nwhere\nwhy\nhow\n\n\n\n\ndigital space\ndigital technique\n-\nspace\n-\n-\n-\n-\n-\n-\n\n\nsinger\nplay or sing a melody\nperson\n-\n-\n*by means of voice\n-\n-\n-\n\n\n\n\n\nExpected translation"
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#evaluation-summary",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#evaluation-summary",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Evaluation Summary",
-    "text": "Evaluation Summary\nModels (via Together AI API):\n\nMeta-Llama-3-70B-Instruct-Turbo\nGemma-3n-E4B-it\nGPT-oss-20B\n\n\nTable of model evaluation for automatic translation\n\n\nmodel/strategy\nBLEU\nCosine\navg\n\n\n\n\nbaseline\n0.056\n0.515\n0.286\n\n\nllama_fewshot\n0.0222\n0.555\n0.289\n\n\ngemma_fewshot\n0.020\n0.491\n0.255\n\n\nopenai_fewshot\n0.0167\n0.498\n0.257\n\n\nllama_zeroshot\n0.0129\n0.514\n0.263\n\n\ngemma_zeroshot\n0.0160\n0.479\n0.248\n\n\nopenai_zeroshot\n0.016\n0.493\n0.254\n\n\n\nThe context (i.e., dictionary entries) marginally improves performance.\nLimits:\n\nBLEU and cosine are meant for the evaluation of natural language translation therefore are ill-suited for structured semantic language parsing.\nthe retrieval part of the RAG makes choices that can potentially go against the principles of IEML representation. For instance the IR for ‘editorialisation’ will very likely retrieve from the IEML dictionnary ‘publishing’ with a vector-base search or ‘edition’ with BM25 but probably not ‘theory’ as these are farther apart. But the main advantage of IEML lies in its ability to bridge faraway concepts from common denominators."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#qualitative-evaluation-of-ieml-rs",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#qualitative-evaluation-of-ieml-rs",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Qualitative Evaluation of IEML-RS",
-    "text": "Qualitative Evaluation of IEML-RS\n6 users (PhD in Digital Humanities). Demonstration followed by 10 minutes of usage observation and a 15-minute interview.\nCriteria:\n\nUser-friendliness,\nUsefulness.\n\nFeatures:\n\nNavigation (keywords and concepts),\nTranslation into IEML,\nComparison of article list panels."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#user-study",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#user-study",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "User Study",
-    "text": "User Study\n\nEase of use:\n\nConfusion regarding the integration of concepts into the query,\nAutomatic translation and validation: initial hurdle (limited database), \n\nUsefulness:\n\nReveals strong disparities in user research practices (network and contextual IR vs. keyword search),\nStrength: comparative panels,\nMixed-quality translation encourages user agency and dialogic and collaborative work with LLMs (Schneider 2026)."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#conclusion-and-perspectives",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#conclusion-and-perspectives",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Conclusion and Perspectives",
-    "text": "Conclusion and Perspectives\nExample of an environment design fostering serendipity.\nTools being developed in Digital Humanities:\n\nBarista from the Impresso project: query building assistant (Finn et al. 2026)\nOngoing developments at Isidore for RAG limited to specific use cases (Sacy et al. 2025)"
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#acknowledgements",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#acknowledgements",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nResearch funded by the SSHRC through the Revue3.0 partnership project, as well as a fellowship from the Circé Network and the Publica Coalition for mutualization and research on scientific journals."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#thank-you-for-your-attention",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#thank-you-for-your-attention",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Thank you for your attention!",
-    "text": "Thank you for your attention!\nLink to download the Firefox plugin:"
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#bibliographie",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#bibliographie",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Bibliographie",
-    "text": "Bibliographie\n\n\nArchambault, Susan, and José Rincón. 2024. “An Evaluation of Cutting-Edge AI Research Tools Using the REACT Framework.” Computers in Libraries 44 (8).\n\n\nDeRewal, Tiffany. 2025. “Evaluating LLM ‘Research Assistants’ and Their Risks for Novice Researchers.” Critical AI 3 (2). https://doi.org/10.1215/2834703X-12095982.\n\n\nDijkstra, Jaap J., Wim B. G. Liebrand, and Ellen Timminga. 1998. “Persuasiveness of Expert Systems.” Behaviour & Information Technology 17 (3): 155–63. https://doi.org/10.1080/014492998119526.\n\n\nEttinger, Allyson, Jena D. Hwang, Valentina Pyatkin, Chandra Bhagavatula, and Yejin Choi. 2023. “\"You Are An Expert Linguistic Annotator\": Limits of LLMs as Analyzers of Abstract Meaning Representation.” In EMNLP 2023 Findings. arXiv. https://doi.org/10.48550/ARXIV.2310.17793.\n\n\nFinn, Finola, Donal Khosrowi, Caio Mello, Marten Düring, and Danielle Guido. 2026. “Shaping History, Responsibly: Seven Principles to Guide the Design of Archival AI Assistants for Cultural Heritage Collections.” In ACM FAccT. Montréal.\n\n\nLévy, Pierre. 2023. “Semantic Computing with IEML.” Collective Intelligence 2 (4): 26339137231207634. https://doi.org/10.1177/26339137231207634.\n\n\nLogg, Jennifer M., Julia A. Minson, and Don A. Moore. 2019. “Algorithm Appreciation: People Prefer Algorithmic to Human Judgment.” Organizational Behavior and Human Decision Processes 151 (March): 90–103. https://doi.org/10.1016/j.obhdp.2018.12.005.\n\n\nMartin, Kim, Brian Greenspan, and Anabel Quan-Haase. 2017. “STAK – Serendipitous Tool for Augmenting Knowledge: A Conceptual Tool for Bridging Digital and Physical Resources.” Digital Studies / Le Champ Numérique 6 (1). https://doi.org/10.16995/dscn.265.\n\n\nMerton, R. K. 1968. “The Matthew Effect in Science. The Reward and Communication Systems of Science Are Considered.” Science (New York, N.Y.) 159 (3810): 56–63.\n\n\nNarechania, Arpit, Alireza Karduni, Ryan Wesslen, and Emily Wall. 2022. “VITALITY: Promoting Serendipitous Discovery of Academic Literature with Transformers & Visual Analytics.” IEEE Transactions on Visualization and Computer Graphics 28 (1): 486–96. https://doi.org/10.1109/TVCG.2021.3114820.\n\n\nNielsen, Mathias Wullum, and Jens Peter Andersen. 2021. “Global Citation Inequality Is on the Rise.” Proceedings of the National Academy of Sciences 118 (7): e2012208118. https://doi.org/10.1073/pnas.2012208118.\n\n\nPatterson, Brandon, Carlos Flores, Nick Hauschild, and Jared Branch. 2025. “Which AI Tools Work Best for Research? Using Librarian and Student Perspectives to Inform a Rating Rubric.” Journal of Electronic Resources in Medical Libraries 22 (3): 133–38. https://doi.org/10.1080/15424065.2025.2546052.\n\n\nPortenoy, Jason, Marissa Radensky, Jevin D West, Eric Horvitz, Daniel S Weld, and Tom Hope. 2022. “Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery.” CHI Conference on Human Factors in Computing Systems, April, 1–13. https://doi.org/10.1145/3491102.3501905.\n\n\nSacy, Antoine Silvestre De, Adam Faci, Léa Maronet, and Stéphane Pouyllau. 2025. “Lire à Différentes Échelles. Une Analyse Multiscalaire de La Retrieval-Augmented Generation En Sciences Humaines Et Sociales.” Humanités Numériques 12. https://doi.org/10.4000/15icj.\n\n\nSchneider, Alexia. 2026. “An Imperfect AI to Uphold Human Agency : Vindicating the ‘Yes but’ of This World.” Short {{Talk}}. Montréal.\n\n\nTay, Aaron. 2025. “The Reproducibility and Interpretability of Academic AI Search Engines Like Primo Research Assistant, Web of Science Research Assistant, Scopus AI and More.” Blog. Aaron Tay’s Musings about Librarianship.\n\n\nUnderwood, Ted. 2014. “Theorizing Research Practices We Forgot to Theorize Twenty Years Ago.” Representations 127 (1): 64–72. https://doi.org/10.1525/rep.2014.127.1.64.\n\n\nVarga, Attila. 2022. “The Narrowing of Literature Use and the Restricted Mobility of Papers in the Sciences.” Proceedings of the National Academy of Sciences 119 (17): e2117488119. https://doi.org/10.1073/pnas.2117488119.\n\n\nVicente, Lucía, and Helena Matute. 2023. “Humans Inherit Artificial Intelligence Biases.” Scientific Reports 13 (1): 15737. https://doi.org/10.1038/s41598-023-42384-8."
-  },
-  {
-    "objectID": "slides/26-07-30_DH26_IEML-RS.html#dictionary-words",
-    "href": "slides/26-07-30_DH26_IEML-RS.html#dictionary-words",
-    "title": "DH2026 - Reclaiming Epistemic Agency in AI-Assisted Research: A Recommender System That Reveals, Rather Than Hides, IR Logic",
-    "section": "Dictionary Words",
-    "text": "Dictionary Words\nYou must use the words below to define the keyword “\\({keyword}\":\\){context}\nYour response must take the form of a CSV with 9 columns; the column headers are: ‘theme, who, what, to whom, by what means, when, where, why, how’ It is not necessary to fill all fields. A field can remain empty between two commas, as in the examples. Respond only with a final CSV line, without explanation.\nOriginal in French:\nTu es un expert en sémantique. Tu dois décomposer sémantiquement le mot-clé \"${keyword}\" à partir des 9 valeurs suivantes :\n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\n## Exemples\n${examples}\n\n## Mots du dictionnaire \nTu dois utiliser les mots ci-dessous pour définir le mot-clé \"${keyword}\":\n${context}\n\nTa réponse prendra la forme d'un CSV à 9 colonnes, les entêtes de colonnes sont: \n'thème, qui, quoi, à qui, par quoi, quand, où, pourquoi, comment'\nIl n'est pas nécessaire de remplir tous les champs. Un champs peut rester vide entre deux virgules, comme dans les exemples. \nRépond uniquement avec une ligne CSV finale, sans explication."
-  },
-  {
-    "objectID": "slides/26-09-24_portesOuvertesDH.html#questions-de-recherche",
-    "href": "slides/26-09-24_portesOuvertesDH.html#questions-de-recherche",
-    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
-    "section": "Questions de recherche",
-    "text": "Questions de recherche\n\nComment est-ce que le guide TV d’Autostraddle évolue avec les environnements de diffusion cinématographique et télévisuel états-unien ?\nQuels sont les termes employés pour que la communauté réunie par Autostraddle s’identifie elle-même et identifie des films ou séries qui lui sont pertinents ?"
-  },
-  {
-    "objectID": "slides/26-09-24_portesOuvertesDH.html#méthodologie",
-    "href": "slides/26-09-24_portesOuvertesDH.html#méthodologie",
-    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
-    "section": "Méthodologie",
-    "text": "Méthodologie\nWeb Scrapping puis extraction manuelle des 1977 films et séries recommandés accompagnés du commentaire/revue.\nExtraction des termes relatifs à la diversité de genres et de sexualité avec des expressions régulières (regex)."
-  },
-  {
-    "objectID": "slides/26-09-24_portesOuvertesDH.html#résultats",
-    "href": "slides/26-09-24_portesOuvertesDH.html#résultats",
-    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
-    "section": "Résultats",
-    "text": "Résultats\n\n3 périodes se dégagent2009 - 2015 communauté restreinte à l’écran et en ligne\n2017-2020 : multiplication des représentations et stratégie d’optimisation\n2021-actuel : diversification thématique, déclin quantitatif et confirmation du role médiatique du site"
-  },
-  {
-    "objectID": "slides/26-09-24_portesOuvertesDH.html#les-termes",
-    "href": "slides/26-09-24_portesOuvertesDH.html#les-termes",
-    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
-    "section": "Les termes",
-    "text": "Les termes\n\n\n\nDiversification narrative\n\n\n\n\n\nQueer vs. Gay: opposition entre le titre et le contenu du guide TV\n\n\n\n\n\nAdoption de la terminologie académique"
-  },
-  {
-    "objectID": "slides/26-09-24_portesOuvertesDH.html#crédits-et-références-sur-le-sujet",
-    "href": "slides/26-09-24_portesOuvertesDH.html#crédits-et-références-sur-le-sujet",
-    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
-    "section": "Crédits et références sur le sujet",
-    "text": "Crédits et références sur le sujet\nCameron, K. (2017). Constructing queer female cyberspace : The L Word fandom and Autostraddle.com. Transformative Works and Cultures, (24). https://doi.org/10.3983/twc.2017.846\nNg, E. (2013). A “Post-Gay” Era? Media Gaystreaming, Homonormativity, and the Politics of LGBT Integration. Communication, Culture & Critique, 6(2), 258‑283. https://doi.org/10.1111/cccr.12013\nObbard, K., & McLean, L. (2024). Queering the System from within : Autostraddle as a Method for Future Digital Worlds. Australian Feminist Studies, 39(121), 371‑391. https://doi.org/10.1080/08164649.2024.2306608\nRapports GLAAD “Where we are on TV”: https://glaad.org/research/page/1"
-  },
-  {
-    "objectID": "slides/26-09-24_portesOuvertesDH.html#références",
-    "href": "slides/26-09-24_portesOuvertesDH.html#références",
-    "title": "Portes ouvertes DH - Analyse lexicale statistique d’un guide TV queer et féministe en ligne",
-    "section": "Références",
-    "text": "Références\nCameron, K. (2017). Constructing queer female cyberspace : The L Word fandom and Autostraddle.com. Transformative Works and Cultures, (24). https://doi.org/10.3983/twc.2017.846\nNg, E. (2013). A “Post-Gay” Era? Media Gaystreaming, Homonormativity, and the Politics of LGBT Integration. Communication, Culture & Critique, 6(2), 258‑283. https://doi.org/10.1111/cccr.12013\nObbard, K., & McLean, L. (2024). Queering the System from within : Autostraddle as a Method for Future Digital Worlds. Australian Feminist Studies, 39(121), 371‑391. https://doi.org/10.1080/08164649.2024.2306608\nRapports GLAAD “Where we are on TV”: https://glaad.org/research/page/1"
   }
 ]

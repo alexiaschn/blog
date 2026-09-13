@@ -377,7 +377,7 @@ Reference-less score:
 
 ## Difference between _Automated RAG Evaluation  System_ ARES framework and RAGAS
     
-@saad-falcon-etal-2024-ares (a year after RAGAS).
+@saad-falconARESAutomatedEvaluation2024 (a year after RAGAS).
 
 Synthetic data generation (generating query‑passage‑answer triples) + fine‑tuned “judge” models + a small human annotated set + Prediction‑Powered Inference (PPI) to give confidence intervals, better ranking of RAG systems. 
 

@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-09-13">
 
-<title>Index des diapositives – Alexia Schneider</title>
+<title>Du bon usage de l’IA – Alexia Schneider</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,27 +21,45 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7504fb6c014d9d4fd213538c81d38504.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-7504fb6c014d9d4fd213538c81d38504.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,65 +87,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -137,7 +98,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Alexia Schneider</span>
     </a>
   </div>
@@ -148,19 +109,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./index_slides.html" aria-current="page"> 
+    <a class="nav-link" href="../index_slides.html"> 
 <span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index_projects.html"> 
+    <a class="nav-link" href="../index_projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./index_carnet.html"> 
+    <a class="nav-link" href="../index_carnet.html"> 
 <span class="menu-text">Carnet</span></a>
   </li>  
 </ul>
@@ -180,7 +141,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Index des diapositives</h1>
+<h1 class="title">Du bon usage de l’IA</h1>
 </div>
 
 
@@ -188,6 +149,12 @@ window.Quarto = {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 13, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -197,68 +164,67 @@ window.Quarto = {
 </header>
 
 
+<section id="du-bon-usage-de-lia" class="level1">
+<h1>Du bon usage de l’IA</h1>
+<section id="le-seul-bon-usage" class="level2">
+<h2 class="anchored" data-anchor-id="le-seul-bon-usage">Le seul bon usage</h2>
+<p>Tout le monde utilise l’IA de la meilleure des façons.</p>
+<p>Untel s’en sert pour traduire, untel pour rédiger un plan de cours, pour faire les diapos de son cours, la version rédigée de sa communication, pour écrire une lettre de recommandation, une demande de subvention, un passage difficile de sa thèse, pour coder, pour réparer son ordinateur, pour trouver une recette qui utilise les ingrédients de son frigo, pour avoir un avis différent, pour trouver des choses à faire dans une ville qu’on ne connait pas, pour ajouter des illustrations sympa dans ses diapos, etc.</p>
+<p>Les uns demandent toujours des sources, les autres une explication. Certains ne s’en servent qu’au début de leur réflexion, pour défricher les idées, d’autres à la fin de leur travail pour peaufiner le résultat.</p>
+<p>Bref, chacun a une utilisation réflechie&nbsp;et raisonnée de l’IA.</p>
+<p>Pourtant, tout les autres s’en servent n’importe comment.</p>
+<p>Untel s’en sert pour traduire, untel pour rédiger un plan de cours, pour faire les diapos de son cours, la version rédigée de sa communication, pour écrire une lettre de recommandation, une demande de subvention, un passage difficile de sa thèse, pour coder, pour réparer son ordinateur, pour trouver une recette qui utilise les ingrédients de son frigo, pour avoir un avis différent, pour trouver des choses à faire dans une ville qu’on ne connait pas, pour ajouter des illustrations sympa dans ses diapos, etc.</p>
+<p>Bref, tout le monde a une utilisation irréflechie de l’IA, sauf <em>moi</em>.</p>
+<p>Quand j’interroge ChatGPT, Claude, Euria, Le Chat de Mistral<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>, je demande toujours une explication au code qu’ils me fournissent. Sauf quand je veux vraiment juste me débogguer (coder c’est pas <em>que</em> se débogguer, non?). Pour ce qui est de l’écriture, je leur demande toujours des <em>suggestions</em> de reformulation, et non simplement une réécriture. Pour trouver des sources qui confirment une idée que je n’ai pas le courage de chercher en profondeur, j’utilise Consensus, Undermind, des outils spécialisés pour lesquels je dispose d’abonnement premium par le biais de mon université. Je commence toujours par chercher sur DuckDuckGo, qui me laisse encore <em>opt out</em> des ‘aperçus générés par IA’ donc je sais encore faire la différence entre rechercher une information et obtenir une synthèse de sources. Je connais l’histoire de l’IA, je sais affiner un grand modèle de langue, monter un RAG, je sais ce qui se trouve derrière un système agentique, je sais les enjeux d’une application de type chatbot et la multiplicité des usages possibles d’un LLM.</p>
+<p>En somme, je suis la seule à me servir correctement de l’IA. Les autres sont influençables ou manquent de culture numérique, et je soupçonne que certains d’entre vous soient un peu fénéants.</p>
+</section>
+<section id="la-pratique-commune-de-la-négociation" class="level2">
+<h2 class="anchored" data-anchor-id="la-pratique-commune-de-la-négociation">La pratique commune de la négociation</h2>
+<p>Si vous m’attribuez un peu d’hypocrisie et d’élitisme intellectuel, rassurez-vous, j’en suis là aussi dans mes réflexions. Et quand j’en parle autour de moi, il semble que nos pratiques réelles, qu’on nous incite à dévoiler par des formulaires (par exemple <span class="citation" data-cites="incAINutritionFacts2023">Inc (<a href="#ref-incAINutritionFacts2023" role="doc-biblioref">2023</a>)</span>, <span class="citation" data-cites="suchikovaGAIDeTGenerativeAI2026">Suchikova et al. (<a href="#ref-suchikovaGAIDeTGenerativeAI2026" role="doc-biblioref">2026</a>)</span>) sont souvent cachées moins par crainte d’un impact sur sa crédibilité <span class="citation" data-cites="shenFallaciesDataTransparency2025">Shen et al. (<a href="#ref-shenFallaciesDataTransparency2025" role="doc-biblioref">2025</a>)</span> que par sentiment de honte vis à vis de son propre travail et de cette utilisation.</p>
+<p>Au fond je crois que tout le monde <em>fait</em> la même chose avec l’IA, et je ne parle pas de traduire, coder, corriger, écrire etc. Ce que nous faisons c’est <em>négocier avec notre conscience</em>.</p>
+<p>Depuis plus d’un an déjà Clara Grometto, une collègue du laboratoire de recherche sur les Écritures Numériques de l’Udem nous le dit: utiliser ces outils-là revient à conforter son sentiment d’incapacité. On leur délègue trop souvent des tâches qu’on ne se sent déjà plus capable de faire parce qu’on se compare à un résultat qu’on s’imagine meilleur que ce qu’on produira par nos propres moyens. Résultat? Ce débat intérieur, entre sentiment de culpabilité et impression de voir nos capacités individuelles augmenter par ces usages, est le seul geste qui nous appartient vraiment, et c’est peut-être le seul débat qui importe encore.</p>
+<p>Pris entre le marteau (je ne m’en sers pas donc je suis meilleur que les autres) et l’enclume (tout le monde s’en sert donc je n’ai pas le choix de m’en servir aussi), il faut trouver une façon de se réconcilier avec ses pratiques.</p>
+</section>
+<section id="la-question-du-sens" class="level2">
+<h2 class="anchored" data-anchor-id="la-question-du-sens">La question du sens</h2>
+<p>Dans un atelier à la BLSH sur la correction automatique à l’ère de l’“IA générative” Clara Grometto nous rappelle que l’écriture et par extension la révision s’incarnent dans les outils que nous utilisons . Elle met en garde de la “déprise du texte” qui a lieu quand nous délégons à une machine des tâches d’édition, car le travail éditorial est finalement ce qui distingue un texte d’un autre, ce qui permet sa construction <span class="citation" data-cites="schneiderDebogueTesHumanites2025a">Schneider and Grometto (<a href="#ref-schneiderDebogueTesHumanites2025a" role="doc-biblioref">2025</a>)</span>.</p>
+<p>Il ne s’agit pas seulement d’une déprise du texte au sens de la “mort de l’auteur” qui a évacué en 1967 l’intention auctoriale et permis le recentrement sur la réception du texte. Il ne s’agit pas non plus, selon moi, de la mort de la lecture annonçant le début d’une ère de <em>post-litteracy</em> telle qu’annoncée par McLuhan <span class="citation" data-cites="horowitchAgeReading2026">Horowitch (<a href="#ref-horowitchAgeReading2026" role="doc-biblioref">2026</a>)</span> .</p>
+<p>Car ce qui est en jeu ne concerne pas que le texte et ses activités associées de lecture et d’écriture, mais toute l’activité humaine. Comme souvent évoqué par Marcello Vitali-Rosati, il s’agit davantage d’une <em>déprise du sens</em>. En plaçant toutes les tâches au même niveau et en les médiant par le même outil nous risquons de leur donner la même valeur et cette valeur sera définie par les personnes qui designent ces applications. Pour apprendre à négocier mieux avec sa conscience, il faut commencer par prendre conscience de la façon dont ces personnes définissent le monde.</p>
+<p>Les applications reposant sur des grands modèles de langue sont conçus pour résoudre des problèmes par des ingénieurs. Et du point de vue d’un ingénieur, lire un roman ou écrire un roman, c’est un problème qui peut se résoudre de la même façon que de débogguer son programme informatique. Certes, on peut écrire un programme de différentes façons, mais ce qui compte, c’est le résultat. Si on comprend bien qu’apprendre une langue n’a plus aucun sens dans ce paradigme, il faut aussi comprendre que cette logique implacable signifie qu’écrire un roman ne sert plus à rien, le lire encore moins car un roman est une somme de personnages et de péripéties que l’on peut, généralement, aisément décrire en quelques phrases. Ce formalisme a ses forces. En Humanités Numériques, il est fréquent qu’une modélisation formelle et fonctionnelle de textes littéraires offre de nouvelles réponses à des questions anciennes (d’autorialité notamment) ou qu’elle ouvre à la voie à de nouvelles questions et interprétations. Cependant, les HN s’engagent à porter une réflexion sur les modèles, loin du point de vue solutionniste matérialisé par les chatbots.</p>
+<p>Résister à ce point de vue consiste à accepter sa propre médiocrité, accepter d’écrire moins, de lire moins, d’avoir un style redondant, d’apprendre péniblement. Accepter d’être à rebours d’une logique productiviste et solutionniste que personne ne nous impose vraiment et qu’on accepte un peu trop facilement.</p>
+</section>
+<section id="en-guise-de-conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="en-guise-de-conclusion">En guise de conclusion</h2>
+<p>La seule alternative est-elle la reconsidération personnelle voire intime de nos besoins réels par rapport à ces outils? Cette solution de repli fait reposer sur l’individu le poids d’un choix qui va à l’encontre de certains principe implicites de nos systèmes (on pense au fameux <em>publish or perish</em> du milieu académique, au système d’évaluation scolaire actuel), et ne fait certainement qu’augmenter le sentiment de culpabilité pour celles et ceux qui “succombent”. Autrement dit, la vraie solution se situe certainement à une autre échelle, dans une prise de conscience collective matérialisée dans des politiques publiques. Cependant, ne nous déprennons pas trop vite de notre propre capacité d’action individuelle car il y a aussi un véritable enjeu économique et politique de la part des entreprises qui vendent ces chatbots à nous faire croire qu’ils sont inévitables et que nous sommes impuissants face au nouvel ordre qu’ils nous proposent.</p>
 
 
 
+</section>
+</section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-horowitchAgeReading2026" class="csl-entry" role="listitem">
+Horowitch, Rose. 2026. <span>“The <span>Age</span> of <span>Reading</span> Is <span>Over</span>.”</span> <em>The Atlantic</em>, August.
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1789272000000" data-listing-file-modified-sort="1789320947990" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1315" data-listing-title-sort="Du bon usage de l'IA" data-listing-filename-sort="bon_usage_IA.md">
-<td>
-<span class="listing-date">Sep 13, 2026</span>
-</td>
-<td>
-<a href="./carnet/bon_usage_IA.html" class="title listing-title">Du bon usage de l’IA</a>
-</td>
-<td>
-<span class="listing-author">&nbsp;</span>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
+<div id="ref-incAINutritionFacts2023" class="csl-entry" role="listitem">
+Inc, Twilio. 2023. <span>“<span>AI</span> Nutrition Facts.”</span> <em>Https://Nutrition-Facts. Ai</em>.
 </div>
-</div></main> <!-- /main -->
+<div id="ref-schneiderDebogueTesHumanites2025a" class="csl-entry" role="listitem">
+Schneider, Alexia, and Clara Grometto. 2025. <span>“<span>[Debogue tes humanités] IA et la correction textuelle automatique : quels outils et quelles limites ?</span>”</span> NAKALA - https://nakala.fr (Huma-Num - CNRS).
+</div>
+<div id="ref-shenFallaciesDataTransparency2025" class="csl-entry" role="listitem">
+Shen, Judy Hanwen, Ken Liu, Angelina Wang, Sarah H. Cen, Andy K Zhang, Caroline Meinhardt, Daniel Zhang, Kevin Klyman, Rishi Bommasani, and Daniel E. Ho. 2025. <span>“Fallacies of Data Transparency: <span>Rethinking</span> Nutrition Facts for <span>AI</span>.”</span> In <em><span>ICML</span> Workshop on Technical <span>AI</span> Governance (<span>TAIG</span>)</em>.
+</div>
+<div id="ref-suchikovaGAIDeTGenerativeAI2026" class="csl-entry" role="listitem">
+Suchikova, Yana, Natalia Tsybuliak, Jaime A. Teixeira da Silva, and Serhii Nazarovets. 2026. <span>“<span>GAIDeT</span> (<span>Generative AI Delegation Taxonomy</span>): <span>A</span> Taxonomy for Humans to Delegate Tasks to Generative Artificial Intelligence in Scientific Research and Publishing.”</span> <em>Accountability in Research</em> 33 (3): 2544331. <a href="https://doi.org/10.1080/08989621.2025.2544331">https://doi.org/10.1080/08989621.2025.2544331</a>.
+</div>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>je suis panthéiste<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
