@@ -1,7 +1,7 @@
 ---
 title: Index des diapositives 
 listing: 
-    contents: carnet
+    contents: slides
     type: table
     sort: "date"
 ---
