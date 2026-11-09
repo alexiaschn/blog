@@ -196,19 +196,22 @@ Louis-Olivier Brassard <a href="https://orcid.org/https://orcid.org/0000-0002-70
 <h2>Revue3.0</h2>
 <p>Quelques projets actuels qui peuvent intéresser érudit:</p>
 <ol type="1">
-<li><p>Référentiel des pratiques des revues <!-- LOB --> <!-- ![screenshots](todo) --> <!-- ![screenshots](todo) --></p></li>
-<li><p>Projet sur les pratiques de découvrabilité</p></li>
+<li>Référentiel des pratiques des revues</li>
 </ol>
-<p>Entretiens des revues partenaires (en SHS). Typologie des stratégies employées.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/comparaison-flux-editoriaux.png"></p>
+<figcaption>Schéma de matrices pour les flux éditoriaux</figcaption>
+</figure>
+</div>
+<p><img data-src="img/tableau-proto-flux-editoriaux.png" alt="Prototype sous forme de tableau, référentiel pour les flux éditoriaux"> 118a119,121</p>
+<ol start="2" type="1">
+<li>Projet sur les pratiques de découvrabilité</li>
+</ol>
+<p>Entretiens des revues partenaires (en SHS). Typologie des stratégies employées pour améliorer la découvrabilité.</p>
 <ol start="3" type="1">
 <li>Reflexion sur l’adoption de déclaration d’usage de l’IA pour les auteur.ices auprès des revues</li>
 </ol>
-<!-- 
-Focal sur quelques projets qui peuvent intéressés les personnes présentes. 
-    - 
-    - Projet sur les pratiques éditoriales non documentées des revues
-    - 
-    - Reflexion transversales sur les outils de découvrabilité  -->
 </section>
 <section id="problématiques-liées-à-lia-pour-le-futur-dérudit" class="slide level2">
 <h2>Problématiques liées à l’IA pour le ‘futur d’érudit’</h2>
@@ -230,16 +233,9 @@ Focal sur quelques projets qui peuvent intéressés les personnes présentes.
 <section id="la-question-de-lenrichissement-sémantique" class="slide level2">
 <h2>La question de l’enrichissement sémantique</h2>
 <p><strong>Intérêt pour les chercheur..ses et pour les revues</strong></p>
-<!-- 
-From Tully Barnett DHSI institute lecture 26-06-08
-Metadata : 
-
-- is interpretation
-- schemas shape interpretation -> you can delegate interpretation to it, can be positive if well thought out or negative if it depossesses you of that thought process.
-- categories shape knowledge
-- classification structures thought -->
+<p>La production de métadonnées est une façon de modéliser sa pensée (Tully Barnett 2026) From Tully Barnett DHSI institute lecture 26-06-08</p>
 <p>Simon van Bellen (Érudit), “Do Scholarly Article Views Reflect a “Social Impact” of SSH Research? Analyzing Users and Usage Patterns of Érudit’s Collections”</p>
-<p>Presence of abstracts impacts after year 1 the number of downloads.</p>
+<p>La présence d’un abstract a un impact positif sur le nombre de 1 téléchargement d’un article à un an.</p>
 </section>
 <section id="les-avenues-explorées-pour-le-pré-traitement" class="slide level2 scrollable">
 <h2>Les avenues explorées pour le pré-traitement</h2>
@@ -251,13 +247,36 @@ Metadata :
 <ol start="2" type="1">
 <li>Intérêt d’avoir du BibTeX ou format bibliographique (RDF, CSL) et/ou XML-TEI ou XML-érudit avec métadonnées riches</li>
 </ol>
-<p>![Screenshot]</p>
+<p><a href="https://observablehq.com/d/307ec061229422d7">Données traitées</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/capture-senspublic-auteurs.png"></p>
+<figcaption>Données récoltées à partir des bibliographies formattées de Sens Public</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/capture-senspublic-motscles.png"></p>
+<figcaption>Données récoltées à partir des bibliographies formattées de Sens Public</figcaption>
+</figure>
+</div>
 <p>Question : qui doit ou peut produire ces données structurées ?</p>
 </section>
 <section id="structuration-par-application-à-base-de-llm" class="slide level2">
 <h2>Structuration par application à base de LLM</h2>
-<p>Les modèles specialisé pour al structuration de la bibliographie sont imparfaits, pourtant les applications grand public (des système agentique à base de LLM) sont très performants.</p>
-<!-- screenshot test sur un article SP  -->
+<p>Les modèles specialisé pour la structuration de la bibliographie sont imparfaits, pourtant les applications grand public (des système agentique à base de LLM) sont très performants.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/claude-reponse-extraction.png"></p>
+<figcaption>Capture d’écran: donnée par Claude pour la tâche d’extraction de données bibliographiques TEI.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/capture-comparaison-xml.png"></p>
+<figcaption>Capture d’écran: comparaison d’une référence XML TEI (article source) et sa bibliographie segmentée par Claude.</figcaption>
+</figure>
+</div>
 <p>Une inévitabilité ?</p>
 <p>Produit une bibliographie structurée en XML-TEI, identifie des erreurs dans la bibliographie qui a été corrigée manuellement.</p>
 </section></section>

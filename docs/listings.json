@@ -23,16 +23,16 @@
     ]
   },
   {
-    "listing": "/index_carnet.html",
-    "items": [
-      "/carnet/bon_usage_IA.html"
-    ]
-  },
-  {
     "listing": "/index_projects.html",
     "items": [
       "/projects/ieml-rs.html",
       "/projects/feux_pales.html"
+    ]
+  },
+  {
+    "listing": "/index_carnet.html",
+    "items": [
+      "/carnet/bon_usage_IA.html"
     ]
   }
 ]
