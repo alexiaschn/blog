@@ -711,35 +711,35 @@
     "href": "slides/26-11-11_erudit.html#le-laboratoire-et-revue3.0",
     "title": "Érudit - Quels futurs ?",
     "section": "Le laboratoire et Revue3.0",
-    "text": "Le laboratoire et Revue3.0\nMarcello Vitali-Rosati en 2015 à l’Udem constitue une cellule de recherche sur l’éditorialisation, puis sur les usages du numérique pour l’édition scientifique et notamment l’écriture savante. Approche philo plus que littérature.\n2024 Revue3.0, projet de partenariat (Érudit, Huma-Num, OpenEdition, Zotero) incluant des revues en SHS:\nLouis-Olivier : 8 ans de collaboration avec MVR, direction. intérêts de recherche : le post-humain en littérature, et intérêt pour l’outil technique dans une approche low-tech/retro-computing.\nAlexia : arrivée en 2025 pour travailler sur l’IA, notamment pour développer un outil exploitant IEML, qui deviendra IEML-RS. Sujet prend un tournant plus théorique sur la question des pratiques de l’IA générative pour la recherche documentaire en contexte scientifique."
+    "text": "Le laboratoire et Revue3.0\nMarcello Vitali-Rosati en 2015 à l’Udem constitue une cellule de recherche sur l’éditorialisation, puis sur les usages du numérique pour l’édition scientifique et notamment l’écriture savante. Approche philo plus que littérature.\n2024 Revue3.0, projet de partenariat (Érudit, Huma-Num, OpenEdition, Zotero) incluant des revues en SHS: Captures, Communications & Langages, études françaises, humanités numériques, Imaginations, Intermédialités, Itinéraires, Journal of Digital History, Mémoire du livre, Meta, MuseMedusa, Nouvelles Vues, Photolittérature, Romanticism on the Net.\nLouis-Olivier : 8 ans de collaboration avec MVR, direction. intérêts de recherche : le post-humain en littérature, et intérêt pour l’outil technique dans une approche low-tech/retro-computing.\nAlexia : arrivée en 2025 pour travailler sur l’IA, notamment pour développer un outil exploitant IEML, qui deviendra IEML-RS. Sujet prend un tournant plus théorique sur la question des pratiques de l’IA générative pour la recherche documentaire en contexte scientifique."
   },
   {
     "objectID": "slides/26-11-11_erudit.html#revue3.0",
     "href": "slides/26-11-11_erudit.html#revue3.0",
     "title": "Érudit - Quels futurs ?",
     "section": "Revue3.0",
-    "text": "Revue3.0\nQuelques projets actuels qui peuvent intéresser érudit:\n\nRéférentiel des pratiques des revues\n\n\n\n\nSchéma de matrices pour les flux éditoriaux\n\n\n\n\n\nPrototype sous forme de tableau, référentiel pour les flux éditoriaux\n\n\n\nProjet sur les pratiques de découvrabilité\n\nEntretiens des revues partenaires (en SHS). Typologie des stratégies employées pour améliorer la découvrabilité.\n\nReflexion sur l’adoption de déclaration d’usage de l’IA pour les auteur.ices auprès des revues"
+    "text": "Revue3.0\nQuelques projets actuels qui peuvent intéresser érudit:\n\nRéférentiel des pratiques des revues\n\n\n\n\nSchéma de matrices pour les flux éditoriaux\n\n\n\n\n\nPrototype sous forme de tableau, référentiel pour les flux éditoriaux\n\n\n\nProjet sur les pratiques de découvrabilité\n\nEntretiens des revues partenaires (en SHS). Typologie des stratégies employées pour améliorer la découvrabilité.\nBillet à partir des entretiens: https://revue30.org/blog/article/decouvrabilite-et-communautes-des-revues-partenaires/\n\nReflexion sur l’adoption de déclaration d’usage de l’IA pour les auteur.ices auprès des revues."
   },
   {
     "objectID": "slides/26-11-11_erudit.html#problématiques-liées-à-lia-pour-le-futur-dérudit",
     "href": "slides/26-11-11_erudit.html#problématiques-liées-à-lia-pour-le-futur-dérudit",
     "title": "Érudit - Quels futurs ?",
     "section": "Problématiques liées à l’IA pour le ‘futur d’érudit’",
-    "text": "Problématiques liées à l’IA pour le ‘futur d’érudit’\nSituation d’érudit ? - érudit devenu simple dépôt exploité par les robots des produits IA -&gt; bloquer l’accès ? - proposer ses propres outils pour la recherche documentaire basée sur des requêtes en langue naturelle (RAG) ? - enrichissement et structuration automatique des articles ? -&gt; utilisation du plain texte vs. données structurées ?"
+    "text": "Problématiques liées à l’IA pour le ‘futur d’érudit’\nSituation d’érudit ?\n\nérudit devenu simple dépôt exploité par les robots des produits IA -&gt; faut-il restreindre les accès ?\nproposer ses propres outils pour la recherche documentaire basée sur des requêtes en langue naturelle (RAG) ?\nenrichissement et structuration automatique des articles ? -&gt; utilisation du texte brut vs. données structurées ?"
   },
   {
     "objectID": "slides/26-11-11_erudit.html#les-enjeux",
     "href": "slides/26-11-11_erudit.html#les-enjeux",
     "title": "Érudit - Quels futurs ?",
     "section": "Les enjeux",
-    "text": "Les enjeux\n2 Questions :\n\nCôté diffuseur : Pertinence de la structuration des données (faite manuellement) ?\nCôté chercheur..ses : Nouveaux modes d’appropriation de vastes jeux de données"
+    "text": "Les enjeux\n2 Questions :\n\nCôté diffuseur : Pertinence de la structuration des données (faite manuellement) ?\nCôté chercheur.ses : Nouveaux modes d’appropriation de vastes jeux de données"
   },
   {
     "objectID": "slides/26-11-11_erudit.html#la-question-de-lenrichissement-sémantique",
     "href": "slides/26-11-11_erudit.html#la-question-de-lenrichissement-sémantique",
     "title": "Érudit - Quels futurs ?",
     "section": "La question de l’enrichissement sémantique",
-    "text": "La question de l’enrichissement sémantique\nIntérêt pour les chercheur..ses et pour les revues\nLa production de métadonnées est une façon de modéliser sa pensée (Tully Barnett 2026) From Tully Barnett DHSI institute lecture 26-06-08\nSimon van Bellen (Érudit), “Do Scholarly Article Views Reflect a “Social Impact” of SSH Research? Analyzing Users and Usage Patterns of Érudit’s Collections”\nLa présence d’un abstract a un impact positif sur le nombre de 1 téléchargement d’un article à un an."
+    "text": "La question de l’enrichissement sémantique\nIntérêt pour les chercheur.ses et pour les revues\nTully Barnett (DHSI 2026) =&gt; La production de métadonnées est une façon de modéliser sa pensée.\nSimon van Bellen (INKE 2026), “Do Scholarly Article Views Reflect a “Social Impact” of SSH Research? Analyzing Users and Usage Patterns of Érudit’s Collections” =&gt; La présence d’un abstract a un impact positif sur le nombre de téléchargement d’un article après la première année de publication."
   },
   {
     "objectID": "slides/26-11-11_erudit.html#les-avenues-explorées-pour-le-pré-traitement",
@@ -753,28 +753,28 @@
     "href": "slides/26-11-11_erudit.html#structuration-par-application-à-base-de-llm",
     "title": "Érudit - Quels futurs ?",
     "section": "Structuration par application à base de LLM",
-    "text": "Structuration par application à base de LLM\nLes modèles specialisé pour la structuration de la bibliographie sont imparfaits, pourtant les applications grand public (des système agentique à base de LLM) sont très performants.\n\n\n\nCapture d’écran: donnée par Claude pour la tâche d’extraction de données bibliographiques TEI.\n\n\n\n\n\nCapture d’écran: comparaison d’une référence XML TEI (article source) et sa bibliographie segmentée par Claude.\n\n\nUne inévitabilité ?\nProduit une bibliographie structurée en XML-TEI, identifie des erreurs dans la bibliographie qui a été corrigée manuellement."
+    "text": "Structuration par application à base de LLM\nLes modèles specialisé pour la structuration de la bibliographie sont imparfaits, pourtant les applications grand public (des système agentique à base de LLM) sont très performants.\n\nProduction d’une bibliographie structurée en XML-TEI\nIdentification des erreurs dans la bibliographie qui a été effectuée à la main.\n\n\n\n\nCapture d’écran: donnée par Claude pour la tâche d’extraction de données bibliographiques TEI.\n\n\n\n\n\nCapture d’écran: comparaison d’une référence XML TEI (article source) et sa bibliographie segmentée par Claude.\n\n\nUne inévitabilité ?"
   },
   {
     "objectID": "slides/26-11-11_erudit.html#rappels-sur-les-rag",
     "href": "slides/26-11-11_erudit.html#rappels-sur-les-rag",
     "title": "Érudit - Quels futurs ?",
     "section": "Rappels sur les RAG",
-    "text": "Rappels sur les RAG\nLa tendance actuelle est au RAG : Retrieval Augmented Generation ou Recherche Augmentée par Génération.\n\nRAGForces et faiblesses: - Nécessite accès au texte brut -&gt; pré-traitement important (chunking, vectorisation) - Dimension persuasive des synthèses générées, délégation cognitive etc. - Paradigme de la trouvabilité (vs. découvrabilité incluant sérendipité) - Amalgame des questions de recherche (ex: quoi, pourquoi, quand)."
+    "text": "Rappels sur les RAG\nLa tendance actuelle est au RAG : Retrieval Augmented Generation ou Recherche Augmentée par Génération."
   },
   {
     "objectID": "slides/26-11-11_erudit.html#alternatives-aux-chatbots-pour-lexploration-de-vaste-corpus",
     "href": "slides/26-11-11_erudit.html#alternatives-aux-chatbots-pour-lexploration-de-vaste-corpus",
     "title": "Érudit - Quels futurs ?",
     "section": "Alternatives aux chatbots pour l’exploration de vaste corpus",
-    "text": "Alternatives aux chatbots pour l’exploration de vaste corpus\nConception d’outils de recherche alternatifs: recherche par mots-clés dans un espace sémantique déterminé + exploration par relation sémantique +/- explicitées\nEx 1: IEML-RS\n \nEx 2 : Flux RSS\nForce et faiblesse: - conception à rebours des interfaces sans friction, - renouvelle l’implication des chercheur..ses. - Pas d’application de grande échelle, application limitée par les termes annotés (limite de l’automatisation pour la structuration sémantique à ce niveau de granularité), appropriation difficile, intégration aux pratiques très peu probable."
+    "text": "Alternatives aux chatbots pour l’exploration de vaste corpus\nConception d’outils de recherche alternatifs: recherche par mots-clés dans un espace sémantique déterminé + exploration par relation sémantique +/- explicitées\nEx 1: IEML-RS\n \nEx 2 : Flux RSS\nForce et faiblesse:\n\nPas d’application de grande échelle, applications limitées, appropriation difficile,\nIntégration aux pratiques très peu probable.\nConception à rebours des interfaces sans friction.\nRenouvelle l’implication des chercheur.ses."
   },
   {
     "objectID": "slides/26-11-11_erudit.html#visualisation-par-graphe-de-réseaux",
     "href": "slides/26-11-11_erudit.html#visualisation-par-graphe-de-réseaux",
     "title": "Érudit - Quels futurs ?",
     "section": "Visualisation par graphe de réseaux:",
-    "text": "Visualisation par graphe de réseaux:\nForce et faiblesse: - Visualisation et navigation favorise les démarches exploratoires - Pas toujours évident d’expliciter les liens entre les noeuds - Limite fine entre pistes nouvelles et bruit (le graphe devient une masse)\nex: citation tree\n\n\n\nCitation Tree\n\n\nex: research Rabbit\n\n\n\nResearch Rabbit\n\n\nex: Démo Cosma pour exploration à partir de la biblio ou des mots-clés (controlés, Rameau)\n\n\n\nCosma"
+    "text": "Visualisation par graphe de réseaux:\nForce et faiblesse:\n\nVisualisation et navigation favorisent les démarches exploratoires\nMais il n’est pas toujours évident d’expliciter les liens entre les noeuds.\nLimite fine entre pistes nouvelles et bruit (le graphe devient une masse).\n\nDes applications existent déjà :\n\n\n\nCitation Tree\n\n\n\n\n\nResearch Rabbit\n\n\nex: Cosma pour exploration à partir de la biblio ou des mots-clés (controlés, Rameau)"
   },
   {
     "objectID": "slides/26-11-11_erudit.html#quelles-alternatives-quelles-demandes-de-la-part-des-utilisateur.ices",
